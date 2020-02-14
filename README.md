@@ -45,13 +45,13 @@ No textbooks are mandatory to successfully follow this course. However, there is
 **Introduction**
 - The Big Data Phenomenon
 - The Big Data Infrastructure
--  Distributed File Systems (HDFS)
--  MapReduce (Hadoop)
--  Spark
+    - Distributed File Systems (HDFS)
+    - MapReduce (Hadoop)
+    - Spark
 
 **Unsupervised Learning: Clustering**
 - Similarity Measures
-- Algorithms: k-means
+- Algorithms: K-means
 - Example: Document Clustering
 
 **Supervised Learning**
