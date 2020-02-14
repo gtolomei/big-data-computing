@@ -41,4 +41,35 @@ No textbooks are mandatory to successfully follow this course. However, there is
  
 <hr>
 
+## Syllabus
+**Introduction**
+- The Big Data Phenomenon
+- The Big Data Infrastructure
+-- Distributed File Systems (HDFS)
+-- MapReduce (Hadoop)
+-- Spark
+Big Data Applications
+Unsupervised Learning: Clustering
+Similarity Measures
+Algorithms: k-means, LDA?
+Example: Document Clustering
+Supervised Learning
+ML Basics
+Regression/Classification
+Algorithms: Linear Regression/Logistic Regression/Random Forest
+Example: House Pricing? Crime Rate Prediction? Sentiment Analysis? Click-Through Rate Prediction?
+Recommender Systems
+Content-based vs. Collaborative filtering
+Algorithms: k-NN, SVD (matrix factorization)
+Example: MovieLens?
+Graph Analysis
+Social Network Analysis
+Graph Metrics
+Algorithms: PageRank?
+Example: Link Prediction
+Real-time Analytics
+Stream Processing
+Example: Stock Market Forecasting?
+
+
 
