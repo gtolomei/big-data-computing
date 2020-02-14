@@ -30,8 +30,14 @@ Students must prove their level of comprehension of the subject by developing a 
 Projects can be done either **individually** or in group of **at most 2 students**. Finally, there will be an oral exam where submitted projects will be discussed and questions on _any_ topic addressed during the course can be asked.
 
 ### Recommended Textbooks
-No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, I would like to suggest the following readings:
-- _Mining of Massive Datasets (2nd Edition)_ [Leskovec, Rajaraman, Ullman] [available online](http://infolab.stanford.edu/~ullman/mmds/book.pdf).
+No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
+- _Mining of Massive Datasets_ [Leskovec, Rajaraman, Ullman] [available online](http://infolab.stanford.edu/~ullman/mmds/book.pdf).
+- _Big Data Analysis with Python_ [Marin, Shukla, VK]
+- _Large Scale Machine Learning with Python_ [Sjardin, Massaron, Boschetti]
+- _Spark: The Definitive Guide_ [Chambers, Zaharia]
+_ _Learning Spark: Lightning-Fast Big Data Analysis_ [Karau, Konwinski, Wendell, Zaharia]
+_ _Hadoop: The Definitive Guide_ [White]
+- _Python for Data Analysis_ [Mckinney]
  
 <hr>
 
