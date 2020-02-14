@@ -35,8 +35,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - _Big Data Analysis with Python_ [Marin, Shukla, VK]
 - _Large Scale Machine Learning with Python_ [Sjardin, Massaron, Boschetti]
 - _Spark: The Definitive Guide_ [Chambers, Zaharia]
-_ _Learning Spark: Lightning-Fast Big Data Analysis_ [Karau, Konwinski, Wendell, Zaharia]
-_ _Hadoop: The Definitive Guide_ [White]
+- _Learning Spark: Lightning-Fast Big Data Analysis_ [Karau, Konwinski, Wendell, Zaharia]
+- _Hadoop: The Definitive Guide_ [White]
 - _Python for Data Analysis_ [Mckinney]
  
 <hr>
