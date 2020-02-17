@@ -27,7 +27,7 @@ The course assumes that students are familiar with the basics of data analysis a
 
 ### Exams
 Students must prove their level of comprehension of the subject by developing a software project, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation using very-large datasets in _any_ application domain of interest. The topic of the project must anyway be agreed with the teacher in advance; references where to select interesting projects from will be however suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)).
-Projects can be done either **individually** or in group of **at most 2 students**. Finally, there will be an oral exam where submitted projects will be discussed and questions on _any_ topic addressed during the course can be asked.
+Projects can be done either **individually** or in group of **at most 2 students**, and they should be accompanied by a brief presentation written in english (e.g., a few PowerPoint slides). Finally, there will be an oral exam where submitted projects will be discussed in english; other questions on _any_ topic addressed during the course may also be asked, but this can be done either in english or in italian.
 
 ### Recommended Textbooks
 No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
@@ -52,25 +52,25 @@ No textbooks are mandatory to successfully follow this course. However, there is
 **Unsupervised Learning: Clustering**
 - Similarity Measures
 - Algorithms: K-means
-- Example: Document Clustering
+- Example: Document Clustering (_to be confirmed_)
 
 **Supervised Learning**
 - Basics of Machine Learning
 - Regression/Classification
 - Algorithms: Linear Regression/Logistic Regression/Random Forest
-- Example: Crime Rate Prediction
+- Example: Crime Rate Prediction (_to be confirmed_)
 
 **Recommender Systems**
 - Content-based vs. Collaborative filtering
 - Algorithms: k-NN, SVD (matrix factorization)
-- Example: MovieLens
+- Example: MovieLens (_to be confirmed_)
 
 **Graph Analysis**
 - Social Network Analysis
 - Graph Metrics
 - Algorithms: PageRank
-- Example: Link Prediction
+- Example: Link Prediction (_to be confirmed_)
 
 **Real-time Analytics**
 - Stream Processing
-- Example: Stock Market Forecasting
+- Example: Stock Market Forecasting (_to be confirmed_)
