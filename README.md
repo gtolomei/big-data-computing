@@ -74,3 +74,11 @@ No textbooks are mandatory to successfully follow this course. However, there is
 **Real-time Analytics**
 - Stream Processing
 - Example: Stock Market Forecasting (_to be confirmed_)
+
+<hr>
+
+## Class Material
+
+| Lecture \# | Date | Topic                                     | Materiale      | 
+|------------|------|-----------------------------------------------|----------------|
+| Lecture 1  | 02/25/2020 | Introduction to Big Data | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank" onclick="return false;">PDF</a>] |
