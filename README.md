@@ -16,7 +16,7 @@ This repository contains class material along with any useful information for th
 - **Tuesday** from **2:00PM** to **4:00PM**, Room G39 located at the 2nd floor of Building G in viale Regina Elena 295.
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud, at the following link: https://elearning.uniroma1.it/course/view.php?id=8460
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=8460
 
 ### Description and Goals
 The amount, variety, and rate at which data is being generated nowadays both by humans and machines are unprecedented. This opens up a number of challenges on how to deal with those data, as traditional computing paradigms are not conceived to operate at such a scale.
