@@ -81,4 +81,4 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 | Lecture \# | Date | Topic                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-| Lecture 1  | 02/25/2020 | Introduction to Big Data | [slides: <a target="_blank">PDF</a>] | <!-- href="./lectures/slides/01_Intro.pdf" -->
+| Lecture 1  | 02/25/2020 | Introduction to Big Data | <!--[slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] -->|
