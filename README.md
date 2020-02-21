@@ -82,3 +82,4 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture \# | Date | Topic                                         | Resource      | 
 |------------|------|-----------------------------------------------|----------------|
 | Lecture 1  | 02/25/2020 | Introduction to Big Data: Motivations and Challenges | <!--[slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] -->|
+| Lecture 2  | 02/26/2020 | MapReduce | <!--[slides: <a href="./lectures/slides/02_MapReduce.pdf" target="_blank">PDF</a>] -->|
