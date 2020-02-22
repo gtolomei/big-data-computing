@@ -81,7 +81,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 <hr>
 
 ## Environment Setup
-In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. PySpark), in combination with Google Colaboratory (or "Colab" for short). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
+In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Google Colaboratory](https://colab.research.google.com/) (or "Colab" for short). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
 - Zero configuration required;
 - Free access to GPUs;
 - Easy sharing.
@@ -91,8 +91,8 @@ Of course, the same can be achieved also on your own local machine but that woul
 Still, in case you would like to perform _also_ local mode installation, the following are the steps (along with some references) you need to take.
 
 ### Prerequisites:
-- Install Python 3.6 (or later) via Anaconda along with Jupyter Notebook
-- Install Java 8
+- Install Python 3.6 (or later) via [Anaconda](https://www.anaconda.com/distribution/#download-section) along with Jupyter Notebook
+- Install [Java 8](https://www.oracle.com/java/technologies/javase-downloads.html)
     - If your system has multiple JDK installations, use jenv to manage them (e.g., for macOS users, please refer to this [link](https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a))
     - In your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc```, let ```jenv``` for managing multiple JDKs by adding the following two lines: 
         - ```export PATH="$HOME/.jenv/bin:$PATH"```
