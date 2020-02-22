@@ -80,6 +80,65 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 <hr>
 
+## Environment Setup
+In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. PySpark), in combination with Google Colaboratory (or "Colab" for short). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
+- Zero configuration required;
+- Free access to GPUs;
+- Easy sharing.
+
+Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!
+
+Still, in case you would like to perform _also_ local mode installation, the following are the steps (along with some references) you need to take.
+
+### Prerequisites:
+- Install Python 3.6 (or later) via Anaconda along with Jupyter Notebook
+- Install Java 8
+    - If your system has multiple JDK installations, use jenv to manage them (e.g., for macOS users, please refer to this [link](https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a))
+    - In your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc```, let ```jenv``` for managing multiple JDKs by adding the following two lines: 
+        - ```export PATH="$HOME/.jenv/bin:$PATH"```
+        - ```eval "$(jenv init -)"```
+    - Run ```jenv enable-plugin export``` to allow ```jenv``` to automatically set ```JAVA_HOME``` upon changes to Java local/shell/global versions
+    - In your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc```, set default ```JAVA_HOME``` (system-wide) as follows:
+        - ```export JAVA_HOME=$(/usr/libexec/java_home -v $(jenv version-name))```
+
+### Installation:
+- Create a ```conda``` environment specifically for pyspark and call it "PySpark" with Python 3.6 (or later):
+    - ```conda create -n PySpark python=3.6```
+    - Install required packages inside the newly created conda environment either via ```conda``` or via ```pip```:
+        - ```conda activate PySpark```
+        - ```conda install pip```
+        - ```conda install numpy```
+        - ```conda install scipy```
+        - ```conda install pandas```
+        - ```conda install scikit-learn```
+        - ```conda install seaborn```
+        - ```conda install ipykernel```
+        - ```conda install findspark```
+    - Install any additional packages:
+        - ```conda install autopep8```
+        - ```...```
+        - ```conda deactivate PySpark```
+    - Prepare a kernel for the newly created environment on Jupyter Notebook:
+        - ```conda activate PySpark```
+        - ```python -m ipykernel install --user --name PySpark --display-name "PySpark"```
+        - ```conda deactivate PySpark```
+    - Download from Apache the latest version of Spark (e.g., 2.4.5) [https://spark.apache.org/downloads.html]
+    - Untar the downloaded archive:
+        - ```tar -xzf spark-2.4.5-bin-hadoop2.7.tgz```
+    - Move the directory to a local folder (e.g., ```/opt/```, ```/opt/local/```, ```/usr/local/```, etc.) [might require sudo/administrator's password]:
+        - ```mv spark-2.4.5-bin-hadoop2.7 /usr/local/spark-2.4.5```
+    - Create a symlink so as to allow multiple versions of Spark:
+        - ```ln -s /usr/local/spark-2.4.5 /usr/local/spark```
+    - Update your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc``` file as follows:
+        - ```export SPARK_HOME=/usr/local/spark```
+        - ```export PATH=$SPARK_HOME/bin:$PATH```
+    - **NOTE:** THIS STEP IS ONLY NEEDED IF YOU HAVE MULTIPLE JDK VERSIONS INSTALLED:
+        - Go to ```/usr/local/spark/conf``` and create a ```spark-env.sh``` file (copying it from the template provided)
+        - Enforce Spark to run on top of JDK 1.8 by copy-pasting the following into ```spark-env.sh```:
+            - ```export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)```
+
+<hr>
+
 ## Class Material
 
 | Lecture \# | Date | Topic                                         | Resource      | 
