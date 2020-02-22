@@ -122,7 +122,7 @@ Still, in case you would like to perform _also_ local mode installation, the fol
         - ```conda activate PySpark```
         - ```python -m ipykernel install --user --name PySpark --display-name "PySpark"```
         - ```conda deactivate PySpark```
-    - Download from Apache the latest version of Spark (e.g., 2.4.5) [https://spark.apache.org/downloads.html]
+    - Download from Apache the latest version of [Spark](https://spark.apache.org/downloads.html) (e.g., 2.4.5)
     - Untar the downloaded archive:
         - ```tar -xzf spark-2.4.5-bin-hadoop2.7.tgz```
     - Move the directory to a local folder (e.g., ```/opt/```, ```/opt/local/```, ```/usr/local/```, etc.) [might require sudo/administrator's password]:
