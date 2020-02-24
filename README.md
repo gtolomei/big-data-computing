@@ -1,5 +1,8 @@
 # Big Data Computing
 
+## News
+- Due to unexpected issues, class lectures will start on **Tuesday, March 3** rather than February, 25 as originally scheduled. Apologies for the very short notice.
+
 ## General Information
 
 Welcome to the Big Data Computing class!
