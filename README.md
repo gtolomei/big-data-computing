@@ -105,7 +105,7 @@ Still, in case you would like to perform _also_ local mode installation, the fol
         - ```export JAVA_HOME=$(/usr/libexec/java_home -v $(jenv version-name))```
 
 ### Installation:
-- Create a ```conda``` environment specifically for pyspark and call it "PySpark" with Python 3.6 (or later):
+- Create a ```conda``` environment specifically for PySpark in combination with Python 3.6 (or later), and call it for instance "<code>PySpark</code>" (although you can choose any name you want):
     - ```conda create -n PySpark python=3.6```
     - Install required packages inside the newly created conda environment either via ```conda``` or via ```pip```:
         - ```conda activate PySpark```
