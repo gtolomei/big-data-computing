@@ -146,5 +146,5 @@ Still, in case you would like to perform _also_ local mode installation, the fol
 
 | Lecture \# | Date | Topic                                         | Resource      | 
 |------------|------|-----------------------------------------------|----------------|
-| Lecture 1  | 03/03/2020 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
-| Lecture 2  | 03/04/2020 | MapReduce Programming Model | <!--[slides: <a href="./lectures/slides/02_MapReduce.pdf" target="_blank">PDF</a>] -->|
+| Lecture 1  | 03/03/2020 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
+| Lecture 2  | 03/04/2020 | MapReduce Programming Model | <!--[slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] -->|
