@@ -1,6 +1,7 @@
 # Big Data Computing
 
 ## News
+- Due to the COVID-19 emergency, office hours are also suspended. Meanwhile, I will be reachable via email.
 - On next week, classes will be streamed online via [Google Meet](https://gsuite.google.com/products/meet/) at the same time they were originally scheduled, i.e., **Tuesday** from **8:00AM** to **10:00AM** and **Wednesday** from **3:00PM** to **6:00PM**. To join the virtual room, please access the following URL on Tuesday a couple of minutes before the class starts using your institutional address: https://meet.google.com/pvs-cubs-gfw
 - Following the restrictions imposed by the latest ordinance issued by the Italian government to contrast the COVID-19 emergency, _all_ classes are suspended **until Sunday, March 15** as reported on the Sapienza's [website](https://www.uniroma1.it/en/notizia/classes-suspended-until-march-15-2020). 
 - Due to unexpected issues, class lectures will start on **Tuesday, March 3** rather than February, 25 as originally scheduled. Apologies for the very short notice.
