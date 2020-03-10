@@ -1,6 +1,10 @@
 # Big Data Computing
 
 ## News
+- Online classes will also be recorded, so as to allow you to watch them offline at your own convenience.<br>
+Video recordings will be compressed and uploaded to a shared Google Drive folder. I have already granted acces to that folder to all the students who are enrolled to our [Moodle web page](https://elearning.uniroma1.it/course/view.php?id=8460) _at the time I am writing_.<br>
+**In case some of you haven't subscribed to Moodle yet, please do so as soon as you can!**<br>
+Also, note that you **must** use your institutional credentials (i.e., ```@studenti.uniroma1.it```) to access the shared folder above.
 - Due to the COVID-19 emergency, office hours are also suspended. Meanwhile, I will be reachable via email.
 - On next week, classes will be streamed online via [Google Meet](https://gsuite.google.com/products/meet/) at the same time they were originally scheduled, i.e., **Tuesday** from **8:00AM** to **10:00AM** and **Wednesday** from **3:00PM** to **6:00PM**. To join the virtual room, please access the following URL on Tuesday a couple of minutes before the class starts using your institutional address: https://meet.google.com/pvs-cubs-gfw
 - Following the restrictions imposed by the latest ordinance issued by the Italian government to contrast the COVID-19 emergency, _all_ classes are suspended **until Sunday, March 15** as reported on the Sapienza's [website](https://www.uniroma1.it/en/notizia/classes-suspended-until-march-15-2020). 
@@ -57,6 +61,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
     - Distributed File Systems (HDFS)
     - MapReduce (Hadoop)
     - Spark
+- PySpark + Google Colaboratory
 
 **Unsupervised Learning: Clustering**
 - Similarity Measures
