@@ -66,7 +66,11 @@ No textbooks are mandatory to successfully follow this course. However, there is
 **Unsupervised Learning: Clustering**
 - Similarity Measures
 - Algorithms: K-means
-- Example: Document Clustering (_to be confirmed_)
+- Example: Document Clustering
+
+**Dimensionality Reduction**
+- Feature Extraction: Principal Component Analysis (PCA)
+- Example: PCA + Document Clustering (_to be confirmed_)
 
 **Supervised Learning**
 - Basics of Machine Learning
