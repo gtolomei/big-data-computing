@@ -69,7 +69,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Example: Document Clustering
 
 **Dimensionality Reduction**
-- Feature Extraction: Principal Component Analysis (PCA)
+- Feature Extraction
+- Algorithms: Principal Component Analysis (PCA)
 - Example: PCA + Document Clustering (_to be confirmed_)
 
 **Supervised Learning**
