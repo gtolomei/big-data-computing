@@ -77,7 +77,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Basics of Machine Learning
 - Regression/Classification
 - Algorithms: Linear Regression/Logistic Regression/Random Forest
-- Example: Crime Rate Prediction (_to be confirmed_)
+- Example: Click-Through Rate (CTR) Prediction (_to be confirmed_)
 
 **Recommender Systems**
 - Content-based vs. Collaborative filtering
