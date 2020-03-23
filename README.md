@@ -161,8 +161,8 @@ Still, in case you would like to perform _also_ local mode installation, the fol
 |------------|------|-----------------------------------------------|----------------|
 | Lecture 1  | 03/03/2020 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2  | 03/04/2020 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
-| Lecture 3  | 03/10/2020 | Apache Spark + PySpark Tutorial (I part) | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/03_PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
-| Lecture 4  | 03/11/2020 | PySpark Tutorial (II part) + Clustering: Data Representation | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/04_The_Curse_Of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
+| Lecture 3  | 03/10/2020 | Apache Spark + PySpark Tutorial (I part) | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>, Google Colab notebook: <a href="./notebooks/03_PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
+| Lecture 4  | 03/11/2020 | PySpark Tutorial (II part) + Clustering: Data Representation | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>, Google Colab notebook: <a href="./notebooks/04_The_Curse_Of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
 | Lecture 5  | 03/17/2020 | Clustering: Distance Measures | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>] |
 | Lecture 6  | 03/18/2020 | Clustering Algorithms: K-means | [slides: <a href="./slides/05_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
-| Lecture 7  | 03/24/2020 | Document Clustering with PySpark | [notebook: <a href="./notebooks/07_Document_Clustering.ipynb" target="_blank">ipynb</a>] |
+| Lecture 7  | 03/24/2020 | Document Clustering with PySpark | [Google Colab notebook: <a href="./notebooks/07_Document_Clustering.ipynb" target="_blank">ipynb</a>] |
