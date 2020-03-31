@@ -77,7 +77,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Basics of Machine Learning
 - Regression/Classification
 - Algorithms: Linear Regression/Logistic Regression/Random Forest
-- Example: Click-Through Rate (CTR) Prediction (_to be confirmed_)
+- Examples: 
+    - Linear Regression -> House Pricing Prediction
+    - Logistic Regression/Random Forest -> Click-Through Rate (CTR) Prediction (_to be confirmed_)
 
 **Recommender Systems**
 - Content-based vs. Collaborative filtering
