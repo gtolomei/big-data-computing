@@ -176,3 +176,4 @@ Still, in case you would like to perform _also_ local mode installation, the fol
 | Lecture 10 | 04/01/2020 | Supervised Learning | [slides: <a href="./slides/08_Supervised_Learning.pdf" target="_blank">PDF</a>] |
 | Lecture 11 | 04/07/2020 | Linear Regression | [slides: <a href="./slides/09_Linear_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 12 | 04/08/2020 | Linear Regression with PySpark | [notebook: <a href="./notebooks/09_Linear_Regression.ipynb" target="_blank">ipynb</a>] |
+| Lecture 13 | 04/07/2020 | Logistic Regression | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>] |
