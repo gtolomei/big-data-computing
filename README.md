@@ -81,8 +81,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Regression/Classification
 - Algorithms: Linear Regression/Logistic Regression/Random Forest
 - Examples: 
-    - Linear Regression -> House Pricing Prediction
-    - Logistic Regression/Random Forest -> Click-Through Rate (CTR) Prediction (_to be confirmed_)
+    - Linear Regression -> House Pricing Prediction (i.e., predict the price which a house will be sold)
+    - Logistic Regression/Random Forest -> Marketing Campaign Prediction (i.e., predict whether a customer will subscribe a term deposit of a bank)
 
 **Recommender Systems**
 - Content-based vs. Collaborative filtering
