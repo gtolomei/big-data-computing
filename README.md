@@ -1,4 +1,4 @@
-# 2019-2020 Big Data Computing
+# Big Data Computing (2019-2020)
 
 ## News
 - A document containing the main guidelines for the final project is now available [here](./extra/Final_Project_Guidelines.pdf).
