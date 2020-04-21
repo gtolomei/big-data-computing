@@ -1,4 +1,4 @@
-# Big Data Computing
+# 2019-2020 Big Data Computing
 
 ## News
 - A document containing the main guidelines for the final project is now available [here](./extra/Final_Project_Guidelines.pdf).
@@ -18,7 +18,7 @@ Welcome to the Big Data Computing class!
 
 This is a first-year, second-semester course of the [MSc in Computer Science of Sapienza University of Rome](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).
 
-This repository contains class material along with any useful information for the current academic year (2019/20).
+This repository contains class material along with any useful information for the 2019-2020 academic year.
 
 ### Class Schedule
 - **Tuesday** from **8:00AM** to **10:00AM** (Room Alfa, via Salaria 113)
