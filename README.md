@@ -178,3 +178,4 @@ Still, in case you would like to perform _also_ local mode installation, the fol
 | Lecture 12 | 04/08/2020 | Linear Regression with PySpark | [notebook: <a href="./notebooks/09_Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 | Lecture 13 | 04/15/2020 | Logistic Regression | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 14 | 04/21/2020 | Gradient Descent | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>]|
+| Lecture 15 | 04/21/2020 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
