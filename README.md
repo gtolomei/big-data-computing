@@ -180,3 +180,4 @@ Still, in case you would like to perform _also_ local mode installation, the fol
 | Lecture 14 | 04/21/2020 | Gradient Descent | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>]|
 | Lecture 15 | 04/22/2020 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
 | Lecture 16 | 04/28/2020 | Evaluation Metrics for Classification | [slides: <a href="./slides/12_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>]|
+<!--| Lecture 17 | 04/29/2020 | Classification with PySpark | [notebook: <a href="./notebooks/10_11_Classification.ipynb" target="_blank">ipynb</a>] |-->
