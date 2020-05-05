@@ -86,7 +86,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 **Recommender Systems**
 - Content-based vs. Collaborative filtering
-- Algorithms: k-NN, SVD (matrix factorization)
+- Algorithms: k-NN, Matrix Factorization (MF)
 - Example: MovieLens (_to be confirmed_)
 
 **Graph Analysis**
