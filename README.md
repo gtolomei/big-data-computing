@@ -87,7 +87,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 **Recommender Systems**
 - Content-based vs. Collaborative filtering
 - Algorithms: k-NN, Matrix Factorization (MF)
-- Example: MovieLens
+- Example: Movie Recommender System (MovieLens)
 
 **Graph Analysis**
 - Social Network Analysis
