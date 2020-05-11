@@ -90,10 +90,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Example: Movie Recommender System (MovieLens)
 
 **Graph Analysis**
-- Social Network Analysis
-- Graph Metrics
+- Link Analysis
 - Algorithms: PageRank
-- Example: Link Prediction (_to be confirmed_)
+- Example: Ranking web pages (_to be confirmed_)
 
 **Real-time Analytics**
 - Stream Processing
@@ -183,3 +182,4 @@ Still, in case you would like to perform _also_ local mode installation, the fol
 | Lecture 17 | 04/29/2020 | Classification with PySpark | [notebook: <a href="./notebooks/10_Classification.ipynb" target="_blank">ipynb</a>] |
 | Lecture 18 | 05/05/2020 | Recommender Systems (Part I) | [slides: <a href="./slides/13_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 19 | 05/06/2020 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
+| Lecture 20 | 05/12/2020 | Recommender Systems (Matrix Factorization) with PySpark | [notebook: <a href="./notebooks/13_MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>] |
