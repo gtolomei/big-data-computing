@@ -183,3 +183,4 @@ Still, in case you would like to perform _also_ local mode installation, the fol
 | Lecture 18 | 05/05/2020 | Recommender Systems (Part I) | [slides: <a href="./slides/13_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 19 | 05/06/2020 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 20 | 05/12/2020 | Recommender Systems (Matrix Factorization) with PySpark | [notebook: <a href="./notebooks/13_MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>] |
+| Lecture 21 | 05/13/2020 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
