@@ -1,7 +1,7 @@
 # Big Data Computing (2019-2020)
 
 ## News
-- **### No class on Tuesday, May 19 ###**. As already announced, there will be only one class in the next week schedule. More specifically, our next class will be on **Wednesday, May 20** at **3:00PM**.
+- **### No class on Tuesday, May 19 ###**. As already announced, there will be **only one** class in the next week schedule. More specifically, our next class will be on **Wednesday, May 20** at **3:00PM**.
 - A document containing the main guidelines for the final project is now available [here](./extra/Final_Project_Guidelines.pdf).
 - Online classes will be suspended from **Thursday, April 9** to **Tuesday, April 14**, due to Easter holidays. Our next class will take place on **Wednesday, April 15** at **3:00PM** on Google Meet.
 - Online classes will also be recorded, so as to allow you to watch them offline at your own convenience.<br>
