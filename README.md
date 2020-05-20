@@ -96,7 +96,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 **Graph Analysis**
 - Link Analysis
 - Algorithms: PageRank
-- Example: Ranking web pages sampled by Google
+- Example: Ranking (a sample of) the Google Web Graph
 
 **Real-time Analytics**
 - Stream Processing
