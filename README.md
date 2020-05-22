@@ -141,11 +141,11 @@ Still, in case you would like to perform _also_ local mode installation, the fol
     - Install any additional packages:
         - ```conda install autopep8```
         - ```...```
-        - ```conda deactivate PySpark```
+        - ```conda deactivate```
     - Prepare a kernel for the newly created environment on Jupyter Notebook:
         - ```conda activate PySpark```
         - ```python -m ipykernel install --user --name PySpark --display-name "PySpark"```
-        - ```conda deactivate PySpark```
+        - ```conda deactivate```
     - Download from Apache the latest version of [Spark](https://spark.apache.org/downloads.html) (e.g., 2.4.5)
     - Untar the downloaded archive:
         - ```tar -xzf spark-2.4.5-bin-hadoop2.7.tgz```
