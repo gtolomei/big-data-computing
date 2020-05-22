@@ -114,7 +114,9 @@ Of course, the same can be achieved also on your own local machine but that woul
 
 Still, in case you would like to perform _also_ local mode installation, the following are the steps (along with some references) you need to take.
 
-### Prerequisites:
+### Local Mode Setup
+
+#### **Prerequisites:**
 - Install Python 3.6 (or later) via [Anaconda](https://www.anaconda.com/distribution/#download-section) along with Jupyter Notebook
 - Install [Java 8](https://www.oracle.com/java/technologies/javase-downloads.html)
     - If your system has multiple JDK installations, use jenv to manage them (e.g., for macOS users, please refer to this [link](https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a))
@@ -125,7 +127,7 @@ Still, in case you would like to perform _also_ local mode installation, the fol
     - In your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc```, set default ```JAVA_HOME``` (system-wide) as follows:
         - ```export JAVA_HOME=$(/usr/libexec/java_home -v $(jenv version-name))```
 
-### Installation:
+#### **Installation:**
 - Create a ```conda``` environment specifically for PySpark in combination with Python 3.6 (or later), and call it for instance "<code>PySpark</code>" (although you can choose any name you want):
     - ```conda create -n PySpark python=3.6```
     - Install required packages inside the newly created conda environment either via ```conda``` or via ```pip```:
@@ -160,6 +162,15 @@ Still, in case you would like to perform _also_ local mode installation, the fol
         - Go to ```/usr/local/spark/conf``` and create a ```spark-env.sh``` file (copying it from the template provided)
         - Enforce Spark to run on top of JDK 1.8 by copy-pasting the following into ```spark-env.sh```:
             - ```export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)```
+
+#### **Usage:**
+You can start running your local Spark installation either interactively by typing the shell command `pyspark`, or using Jupyter Notebook in combination with the virtual environment created as indicated above. Either way, before being able to import any PySpark library you will need to use `findspark` to allow Python to correctly locate your own PySpark installation. To do so, just type the following (again, either at the prompt after you have executed `pyspark`, or in the first code cell of your Jupyter Notebook, or anyway at the top of your Python script):
+
+`import findspark`
+
+`findspark.init("${SPARK_HOME}")`
+
+where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., `/usr/local/spark`).
 
 <hr>
 
