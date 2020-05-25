@@ -100,7 +100,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 **Real-time Analytics**
 - Stream Processing
-- Example: Stock Market Forecasting (_to be confirmed_)
+- Example: Twitter Hate Speech Detector
 
 <hr>
 
