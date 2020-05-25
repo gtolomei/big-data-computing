@@ -200,3 +200,4 @@ where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., 
 | Lecture 20  | 05/12/2020 | Recommender Systems (Matrix Factorization) with PySpark | [notebook: <a href="./notebooks/13_MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>] |
 | Lecture 21  | 05/13/2020 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | Lecture 22  | 05/20/2020 | PageRank with PySpark | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/15_PageRank.ipynb" target="_blank">ipynb</a>]|
+| Lecture 23  | 05/26/2020 | Streaming Data | [slides: <a href="./slides/16_Streaming_Data.pdf" target="_blank">PDF</a>]|
