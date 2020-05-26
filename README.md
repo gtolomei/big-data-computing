@@ -99,7 +99,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Example: Ranking (a sample of) the Google Web Graph
 
 **Real-time Analytics**
-- Stream Processing
+- Streaming Data Processing
 - Example: Twitter Hate Speech Detector
 
 <hr>
