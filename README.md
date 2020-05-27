@@ -1,6 +1,6 @@
 # Big Data Computing (2019-2020)
 
-[News](https://github.com/gtolomei/big-data-computing#News) | [General Information](https://github.com/gtolomei/big-data-computing#General-Information) | [Syllabus](#Syllabus)
+[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedule](#Class-Schedule)
 
 ## News
 - **June 2020 Exam Session**<br/>
@@ -176,7 +176,7 @@ where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., 
 
 <hr>
 
-## Class Material
+## Class Schedule
 
 | Lecture \#  | Date       | Topic                                         | Resource        | 
 |-------------|------------|-----------------------------------------------|-----------------|
