@@ -1,5 +1,7 @@
 # Big Data Computing (2019-2020)
 
+[News](https://github.com/gtolomei/big-data-computing#News) | [General Information](https://github.com/gtolomei/big-data-computing#General-Information) | [Syllabus](#Syllabus)
+
 ## News
 - **June 2020 Exam Session**<br/>
 Registrations to the June 2020 exam session are now open on Infostud (id **714643**), and so they will until **June, 19 2020**.
