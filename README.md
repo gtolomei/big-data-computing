@@ -1,6 +1,6 @@
 # Big Data Computing (2019-2020)
 
-[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedule](#Class-Schedule)
+[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules)
 
 ## News
 - **June 2020 Exam Session**<br/>
@@ -176,9 +176,9 @@ where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., 
 
 <hr>
 
-## Class Schedule
+## Class Schedules
 
-| Lecture \#  | Date       | Topic                                         | Resource        | 
+| Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
 | Lecture 1   | 03/03/2020 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 03/04/2020 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
