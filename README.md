@@ -10,7 +10,7 @@ As already announced, there will be **only one** class in the next week schedule
 - A document containing the main guidelines for the final project is now available [here](./extra/Final_Project_Guidelines.pdf).
 - Online classes will be suspended from **Thursday, April 9** to **Tuesday, April 14**, due to Easter holidays. Our next class will take place on **Wednesday, April 15** at **3:00PM** on Google Meet.
 - Online classes will also be recorded, so as to allow you to watch them offline at your own convenience.<br>
-Video recordings will be compressed and uploaded to a shared Google Drive folder. I have already granted acces to that folder to all the students who are enrolled to our [Moodle web page](https://elearning.uniroma1.it/course/view.php?id=8460) _at the time I am writing_.<br>
+Video recordings will be compressed and uploaded to a shared Google Drive folder. I have already granted access to that folder to all the students who are enrolled to our [Moodle web page](https://elearning.uniroma1.it/course/view.php?id=8460) _at the time I am writing_.<br>
 **In case some of you haven't subscribed to Moodle yet, please do so as soon as you can!**<br>
 Also, note that you **must** use your institutional credentials (i.e., ```@studenti.uniroma1.it```) to access the shared folder above.
 - Due to the COVID-19 emergency, office hours are also suspended. Meanwhile, I will be reachable via email.
