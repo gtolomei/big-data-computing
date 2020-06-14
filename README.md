@@ -4,7 +4,7 @@
 
 ## News
 - **June 2020 Exam Session**<br/>
-Registrations to the June 2020 exam session are now open on Infostud (id **714643**), and so they will until **June, 19 2020**.
+Registrations to the June 2020 exam session are now open on Infostud (id **714643** e **716333**), and so they will until **June, 19 2020**.
 - **### No class on Tuesday, May 19 ###**<br/> 
 As already announced, there will be **only one** class in the next week schedule. More specifically, our next class will be on **Wednesday, May 20** at **3:00PM**.
 - A document containing the main guidelines for the final project is now available [here](./extra/Final_Project_Guidelines.pdf).
