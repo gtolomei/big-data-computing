@@ -3,8 +3,12 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules)
 
 ## News
+- **July 2020 Exam Session**<br/>
+Registrations to the July 2020 exam session are now open on Infostud (id **718065**), and so they will until **July, 10 2020**.
+Project submission week opens up on **July, 4 2020 at 00:00AM CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July, 11 2020 at 00:00AM CEST**.<br/>
 - **June 2020 Exam Session**<br/>
-Registrations to the June 2020 exam session are now open on Infostud (id **714643** e **716333**), and so they will until **June, 19 2020**.
+Registrations to the June 2020 exam session are now open on Infostud (id **714643** and **716333**), and so they will until **June, 19 2020**.<br/>
+Project submission week opens up on **June, 13 2020 at 00:00AM CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June, 20 2020 at 00:00AM CEST**.<br/>
 - **### No class on Tuesday, May 19 ###**<br/> 
 As already announced, there will be **only one** class in the next week schedule. More specifically, our next class will be on **Wednesday, May 20** at **3:00PM**.
 - A document containing the main guidelines for the final project is now available [here](./extra/Final_Project_Guidelines.pdf).
