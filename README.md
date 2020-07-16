@@ -3,8 +3,11 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules)
 
 ## News
+- **July 2020 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the **7 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **July 22 at 9:30AM CEST**.<br/>
+All the details on how to join this event have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=120616#p188854).<br/>
 - **June 2020 Exam Session: Project Presentation Schedule**<br/>
-The presentations of the **11 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session**:<br/>
+Presentations of the **11 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session**:<br/>
     - _Day 1_: **July 1 at 9:30AM CEST** (**6** projects)
     - _Day 2_: **July 2 at 9:30AM CEST** (**5** projects)
     
