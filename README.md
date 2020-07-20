@@ -11,7 +11,7 @@ Presentations of the **11 projects** that have been accepted for oral discussion
     - _Day 1_: **July 1 at 9:30AM CEST** (**6** projects)
     - _Day 2_: **July 2 at 9:30AM CEST** (**5** projects)
     
-All the details on how to join these events have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=119205#p187241).<br/>
+    All the details on how to join these events have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=119205#p187241).<br/>
 - **July 2020 Exam Session**<br/>
 Registrations to the July 2020 exam session are now open on Infostud (id **718065**), and so they will until **July 10, 2020**.
 Project submission week opens up on **July 4, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 10, 2020 at 23:59 CEST**.<br/>
