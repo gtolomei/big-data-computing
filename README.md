@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules)
 
 ## News
+- **September 2020 Exam Session**<br/>
+Registrations to the September 2020 exam session are now open on Infostud (id **719728**), and so they will until **September 8, 2020**.
+Project submission week opens up on **September 2, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 8, 2020 at 23:59 CEST**.<br/>
 - **July 2020 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the **7 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **July 22 at 9:30AM CEST**.<br/>
 All the details on how to join this event have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=120616#p188854).<br/>
