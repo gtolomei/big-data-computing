@@ -1,6 +1,6 @@
 # Big Data Computing (2019-2020)
 
-[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules)
+[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
 - **September 2020 Exam Session**<br/>
@@ -220,3 +220,10 @@ where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., 
 | Lecture 22  | 05/20/2020 | PageRank with PySpark | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/15_PageRank.ipynb" target="_blank">ipynb</a>]|
 | Lecture 23  | 05/26/2020 | Streaming Data Processing | [slides: <a href="./slides/16_Streaming_Data_Processing.pdf" target="_blank">PDF</a>]|
 | Lecture 24  | 05/27/2020 | Streaming Classification with PySpark + The Last Take Home Message | [notebook: <a href="./notebooks/16_Streaming_Classification.ipynb" target="_blank">ipynb</a>, slides: <a href="./slides/17_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
+
+# Previous Years
+In the following, you can quickly navigate through Big Data Computing class information and material from previous years.
+
+**NOTE:** _The folder containing the class material is **unique** and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what have been shown in class in the past._
+
+-   [2019-20](./oldest/2019-20.md)
