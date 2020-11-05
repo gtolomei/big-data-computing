@@ -3,25 +3,37 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **November 2020 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2019-20/2020-11-02_final_grades.pdf)
+- **November 2020 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the **2 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **November 5 at 9:30AM CEST**.<br/>
 - **November 2020 Exam Session (Extra)**<br/>
 Registrations to the November 2020 exam session (extra) are now open on Infostud (id **734617**), and so they will until **November 1, 2020**.
 Project submission week opens up on **October 26, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **November 1, 2020 at 23:59 CEST**.<br/>
 **NOTE:** _This extra session is reserved **only** to part-time or working students, students with learning disabilities, students who have not completed university exams within set time period, as well as students who are about to graduate. Anyone else is **not** allowed to register to this session; also, it is up to the single student to prove their eligibility to attend this session by filling this [form](https://www.studiareinformatica.uniroma1.it/modulo-sessione-straordinaria-appelli). Additional information are available at this [link](https://www.studiareinformatica.uniroma1.it/appelli-d-esame) (in italian)._
+- **September 2020 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2019-20/2020-09-09_final_grades.pdf)
+- **September 2020 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the **6 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **September 15 at 9:30AM CEST**.<br/>
 - **September 2020 Exam Session**<br/>
 Registrations to the September 2020 exam session are now open on Infostud (id **719728**), and so they will until **September 8, 2020**.
 Project submission week opens up on **September 2, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 8, 2020 at 23:59 CEST**.<br/>
+- **July 2020 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2019-20/2020-07-11_final_grades.pdf)
 - **July 2020 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the **7 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **July 22 at 9:30AM CEST**.<br/>
 All the details on how to join this event have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=120616#p188854).<br/>
+- **July 2020 Exam Session**<br/>
+Registrations to the July 2020 exam session are now open on Infostud (id **718065**), and so they will until **July 10, 2020**.
+Project submission week opens up on **July 4, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 10, 2020 at 23:59 CEST**.<br/>
+- **June 2020 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2019-20/2020-06-20_final_grades.pdf)
 - **June 2020 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the **11 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session**:<br/>
     - _Day 1_: **July 1 at 9:30AM CEST** (**6** projects)
     - _Day 2_: **July 2 at 9:30AM CEST** (**5** projects)
     
     All the details on how to join these events have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=119205#p187241).<br/>
-- **July 2020 Exam Session**<br/>
-Registrations to the July 2020 exam session are now open on Infostud (id **718065**), and so they will until **July 10, 2020**.
-Project submission week opens up on **July 4, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 10, 2020 at 23:59 CEST**.<br/>
 - **June 2020 Exam Session**<br/>
 Registrations to the June 2020 exam session are now open on Infostud (id **714643** and **716333**), and so they will until **June 19, 2020**.<br/>
 Project submission week opens up on **June 13, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 19, 2020 at 23:59 CEST**.<br/>
