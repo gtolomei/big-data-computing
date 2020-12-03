@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **January 2021 Exam Session**<br/>
+Registrations to the January 2021 exam session are now open on Infostud (id **745153**), and so they will until **January 17, 2021**.
+Project submission week opens up on **January 11, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **January 17, 2021 at 23:59 CEST**.<br/>
 - **November 2020 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2019-20/2020-11-02_final_grades.pdf)
 - **November 2020 Exam Session: Project Presentation Schedule**<br/>
