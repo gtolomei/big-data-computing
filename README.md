@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- Students who are planning to submit their project **after** the January 2021 session should refer to the [Big Data Computing 2020-21 Moodle page](https://elearning.uniroma1.it/course/view.php?id=12771), rather than the current one (i.e., Big Data Computing 2019-20). This is to align exam sessions to the correct academic year, since academic year 2019-20 formally ends on January, 31 2021. As such, starting **from February 2021 until January 2022** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way.<br/>
+(**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2020-21 sessions must subscribe to the Big Data Computing 2020-21 Moodle page!_)
 - **January 2021 Exam Session**<br/>
 Registrations to the January 2021 exam session are now open on Infostud (id **745153**), and so they will until **January 17, 2021**.
 Project submission week opens up on **January 11, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **January 17, 2021 at 23:59 CEST**.<br/>
