@@ -107,7 +107,7 @@ In this course, we will be using the Python application programming interface to
 
 Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!
 
-Still, in case you would like to perform _also_ local mode installation, the following are the steps (along with some references) you need to take.
+Still, in case you would like to perform _also_ local mode installation, the following are the steps (along with some references) you need to take. [local](./oldest/2019-20.md#Local-Mode-Setup)
 
 ### Local Mode Setup
 
@@ -173,7 +173,7 @@ where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., 
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-| Lecture 1   | 03/03/2020 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 1   | 03/03/2020 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 03/04/2020 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
 | Lecture 3   | 03/10/2020 | Apache Spark + PySpark Tutorial (Part I) | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/03_PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
 | Lecture 4   | 03/11/2020 | PySpark Tutorial (Part II) + Clustering: Data Representation | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/04_The_Curse_Of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
@@ -196,7 +196,7 @@ where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., 
 | Lecture 21  | 05/13/2020 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | Lecture 22  | 05/20/2020 | PageRank with PySpark | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/15_PageRank.ipynb" target="_blank">ipynb</a>]|
 | Lecture 23  | 05/26/2020 | Streaming Data Processing | [slides: <a href="./slides/16_Streaming_Data_Processing.pdf" target="_blank">PDF</a>]|
-| Lecture 24  | 05/27/2020 | Streaming Classification with PySpark + The Last Take Home Message | [notebook: <a href="./notebooks/16_Streaming_Classification.ipynb" target="_blank">ipynb</a>, slides: <a href="./slides/17_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
+| Lecture 24  | 05/27/2020 | Streaming Classification with PySpark + The Last Take Home Message | [notebook: <a href="./notebooks/16_Streaming_Classification.ipynb" target="_blank">ipynb</a>, slides: <a href="./slides/17_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|-->
 
 # Previous Years
 In the following, you can quickly navigate through Big Data Computing class information and material from previous years.
