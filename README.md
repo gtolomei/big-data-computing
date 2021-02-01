@@ -42,7 +42,7 @@ The course assumes that students are familiar with the basics of data analysis a
 ### Exams
 Students must prove their level of comprehension of the subject by developing a software project, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation using very-large datasets in _any_ application domain of interest. The topic of the project must anyway be agreed with the professor in advance; references where to select interesting projects from will be however suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)).
 Projects can be done either **individually** or in group of **at most 2 students**, and they should be accompanied by a brief presentation written in english (e.g., a few PowerPoint slides). Finally, there will be an oral exam where submitted projects will be discussed in english; other questions on _any_ topic addressed during the course may also be asked, but those can be answered either in english or in italian, as the student prefers.<br/>
-A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
+<!--A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).-->
 
 ### Recommended Textbooks
 No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
@@ -107,65 +107,8 @@ In this course, we will be using the Python application programming interface to
 
 Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!
 
-Still, in case you would like to perform _also_ local mode installation, the following are the steps (along with some references) you need to take. [local](./oldest/2019-20.md#Local-Mode-Setup)
-
-### Local Mode Setup
-
-#### **Prerequisites:**
-- Install Python 3.6 (or later) via [Anaconda](https://www.anaconda.com/distribution/#download-section) along with Jupyter Notebook
-- Install [Java 8](https://www.oracle.com/java/technologies/javase-downloads.html)
-    - If your system has multiple JDK installations, use jenv to manage them (e.g., for macOS users, please refer to this [link](https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a))
-    - In your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc```, let ```jenv``` for managing multiple JDKs by adding the following two lines: 
-        - ```export PATH="$HOME/.jenv/bin:$PATH"```
-        - ```eval "$(jenv init -)"```
-    - Run ```jenv enable-plugin export``` to allow ```jenv``` to automatically set ```JAVA_HOME``` upon changes to Java local/shell/global versions
-    - In your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc```, set default ```JAVA_HOME``` (system-wide) as follows:
-        - ```export JAVA_HOME=$(/usr/libexec/java_home -v $(jenv version-name))```
-
-#### **Installation:**
-- Create a ```conda``` environment specifically for PySpark in combination with Python 3.6 (or later), and call it for instance "<code>PySpark</code>" (although you can choose any name you want):
-    - ```conda create -n PySpark python=3.6```
-    - Install required packages inside the newly created conda environment either via ```conda``` or via ```pip```:
-        - ```conda activate PySpark```
-        - ```conda install pip```
-        - ```conda install numpy```
-        - ```conda install scipy```
-        - ```conda install pandas```
-        - ```conda install scikit-learn```
-        - ```conda install seaborn```
-        - ```conda install ipykernel```
-        - ```conda install findspark```
-    - Install any additional packages:
-        - ```conda install autopep8```
-        - ```...```
-        - ```conda deactivate```
-    - Prepare a kernel for the newly created environment on Jupyter Notebook:
-        - ```conda activate PySpark```
-        - ```python -m ipykernel install --user --name PySpark --display-name "PySpark"```
-        - ```conda deactivate```
-    - Download from Apache the latest version of [Spark](https://spark.apache.org/downloads.html) (e.g., 2.4.5)
-    - Untar the downloaded archive:
-        - ```tar -xzf spark-2.4.5-bin-hadoop2.7.tgz```
-    - Move the directory to a local folder (e.g., ```/opt/```, ```/opt/local/```, ```/usr/local/```, etc.) [might require sudo/administrator's password]:
-        - ```mv spark-2.4.5-bin-hadoop2.7 /usr/local/spark-2.4.5```
-    - Create a symlink so as to allow multiple versions of Spark:
-        - ```ln -s /usr/local/spark-2.4.5 /usr/local/spark```
-    - Update your ```~/.profile```, ```~/.bash_profile```, or ```~/.bashrc``` file as follows:
-        - ```export SPARK_HOME=/usr/local/spark```
-        - ```export PATH=$SPARK_HOME/bin:$PATH```
-    - **NOTE: THIS STEP IS ONLY NEEDED IF YOU HAVE MULTIPLE JDK VERSIONS INSTALLED**
-        - Go to ```/usr/local/spark/conf``` and create a ```spark-env.sh``` file (copying it from the template provided)
-        - Enforce Spark to run on top of JDK 1.8 by copy-pasting the following into ```spark-env.sh```:
-            - ```export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)```
-
-#### **Usage:**
-You can start running your local Spark installation either interactively by typing the shell command `pyspark`, or using Jupyter Notebook in combination with the virtual environment created as indicated above. Either way, before being able to import any PySpark library you will need to use `findspark` to allow Python to correctly locate your own PySpark installation. To do so, just type the following (again, either at the prompt after you have executed `pyspark`, or in the first code cell of your Jupyter Notebook, or anyway at the top of your Python script):
-
-`import findspark`
-
-`findspark.init("${SPARK_HOME}")`
-
-where `${SPARK_HOME}` contains the path to your local Spark installation (e.g., `/usr/local/spark`).
+### Local Mode Setup [Optional]
+In case you would like to install and configure PySpark _also_ on your local machine, please follow the instructions described [here](./oldest/2019-20.md#Local-Mode-Setup)
 
 <hr>
 
