@@ -1,4 +1,4 @@
-# Big Data Computing (2019-2020)
+# Big Data Computing (2020-2021)
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
@@ -9,55 +9,6 @@
 Registrations to the February 2021 exam session are now open on Infostud (id **752692**), and so they will until **February 7, 2021**.
 Project submission week opens up on **February 1, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **February 7, 2021 at 23:59 CEST**.<br/>
 (_Please, see the announcement above for additional details on how to submit your project during this session, which is the first one of the academic year 2020-21._)
-- **January 2021 Exam Session**<br/>
-Registrations to the January 2021 exam session are now open on Infostud (id **745153**), and so they will until **January 17, 2021**.
-Project submission week opens up on **January 11, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **January 17, 2021 at 23:59 CEST**.<br/>
-- **November 2020 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2019-20/2020-11-02_final_grades.pdf)
-- **November 2020 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the **2 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **November 5 at 9:30AM CEST**.<br/>
-- **November 2020 Exam Session (Extra)**<br/>
-Registrations to the November 2020 exam session (extra) are now open on Infostud (id **734617**), and so they will until **November 1, 2020**.
-Project submission week opens up on **October 26, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **November 1, 2020 at 23:59 CEST**.<br/>
-**NOTE:** _This extra session is reserved **only** to part-time or working students, students with learning disabilities, students who have not completed university exams within set time period, as well as students who are about to graduate. Anyone else is **not** allowed to register to this session; also, it is up to the single student to prove their eligibility to attend this session by filling this [form](https://www.studiareinformatica.uniroma1.it/modulo-sessione-straordinaria-appelli). Additional information are available at this [link](https://www.studiareinformatica.uniroma1.it/appelli-d-esame) (in italian)._
-- **September 2020 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2019-20/2020-09-09_final_grades.pdf)
-- **September 2020 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the **6 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **September 15 at 9:30AM CEST**.<br/>
-- **September 2020 Exam Session**<br/>
-Registrations to the September 2020 exam session are now open on Infostud (id **719728**), and so they will until **September 8, 2020**.
-Project submission week opens up on **September 2, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 8, 2020 at 23:59 CEST**.<br/>
-- **July 2020 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2019-20/2020-07-11_final_grades.pdf)
-- **July 2020 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the **7 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **July 22 at 9:30AM CEST**.<br/>
-All the details on how to join this event have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=120616#p188854).<br/>
-- **July 2020 Exam Session**<br/>
-Registrations to the July 2020 exam session are now open on Infostud (id **718065**), and so they will until **July 10, 2020**.
-Project submission week opens up on **July 4, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 10, 2020 at 23:59 CEST**.<br/>
-- **June 2020 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2019-20/2020-06-20_final_grades.pdf)
-- **June 2020 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the **11 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session**:<br/>
-    - _Day 1_: **July 1 at 9:30AM CEST** (**6** projects)
-    - _Day 2_: **July 2 at 9:30AM CEST** (**5** projects)
-    
-    All the details on how to join these events have already been specified in a [message on the Moodle forum](https://elearning.uniroma1.it/mod/forum/discuss.php?d=119205#p187241).<br/>
-- **June 2020 Exam Session**<br/>
-Registrations to the June 2020 exam session are now open on Infostud (id **714643** and **716333**), and so they will until **June 19, 2020**.<br/>
-Project submission week opens up on **June 13, 2020 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 19, 2020 at 23:59 CEST**.<br/>
-- **### No class on Tuesday, May 19 ###**<br/> 
-As already announced, there will be **only one** class in the next week schedule. More specifically, our next class will be on **Wednesday, May 20** at **3:00PM**.
-- A document containing the main guidelines for the final project is now available [here](./extra/Final_Project_Guidelines.pdf).
-- Online classes will be suspended from **Thursday, April 9** to **Tuesday, April 14**, due to Easter holidays. Our next class will take place on **Wednesday, April 15** at **3:00PM** on Google Meet.
-- Online classes will also be recorded, so as to allow you to watch them offline at your own convenience.<br>
-Video recordings will be compressed and uploaded to a shared Google Drive folder. I have already granted access to that folder to all the students who are enrolled to our [Moodle web page](https://elearning.uniroma1.it/course/view.php?id=8460) _at the time I am writing_.<br>
-**In case some of you haven't subscribed to Moodle yet, please do so as soon as you can!**<br>
-Also, note that you **must** use your institutional credentials (i.e., ```@studenti.uniroma1.it```) to access the shared folder above.
-- Due to the COVID-19 emergency, office hours are also suspended. Meanwhile, I will be reachable via email.
-- On next week, classes will be streamed online via [Google Meet](https://gsuite.google.com/products/meet/) at the same time they were originally scheduled, i.e., **Tuesday** from **8:00AM** to **10:00AM** and **Wednesday** from **3:00PM** to **6:00PM**. To join the virtual room, please access the following URL on Tuesday a couple of minutes before the class starts using your institutional address: https://meet.google.com/pvs-cubs-gfw
-- Following the restrictions imposed by the latest ordinance issued by the Italian government to contrast the COVID-19 emergency, _all_ classes are suspended **until Friday, April 3** as reported on the Sapienza's [website](https://www.uniroma1.it/en/notizia/online-classes-exams-and-graduation-sessions). 
-- Due to unexpected issues, class lectures will start on **Tuesday, March 3** rather than February, 25 as originally scheduled. Apologies for the very short notice.
 
 ## General Information
 
@@ -65,17 +16,18 @@ Welcome to the Big Data Computing class!
 
 This is a first-year, second-semester course of the [MSc in Computer Science of Sapienza University of Rome](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).
 
-This repository contains class material along with any useful information for the 2019-2020 academic year.
+This repository contains class material along with any useful information for the 2020-2021 academic year.
 
 ### Class Schedule
-- **Tuesday** from **8:00AM** to **10:00AM** (Room Alfa, via Salaria 113)
-- **Wednesday** from **3:00PM** to **6:00PM** (Room Alfa, via Salaria 113)
+- **Tuesday** from **5:00PM** to **7:00PM** (Room G50, Building G in viale Regina Elena 295)
+- **Wednesday** from **4:00PM** to **7:00PM** (Room G50, Building G in viale Regina Elena 295)
 
 ### Office Hours
 - **Tuesday** from **2:00PM** to **4:00PM**, Room G39 located at the 2nd floor of Building G in viale Regina Elena 295.
+(**NOTE:** Due to the COVID-19 emergency, office hours will be exclusively held **online** via Google Meet or Zoom upon email request message sent to the following address: tolomei@di.uniroma1.it)
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=8460
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=12771
 
 ### Description and Goals
 The amount, variety, and rate at which data is being generated nowadays both by humans and machines are unprecedented. This opens up a number of challenges on how to deal with those data, as traditional computing paradigms are not conceived to operate at such a scale.
