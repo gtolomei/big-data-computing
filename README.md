@@ -63,7 +63,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
     - Distributed File Systems (HDFS)
     - MapReduce (Hadoop)
     - Spark
-- PySpark + Google Colaboratory
+- PySpark + Databricks
 
 **Unsupervised Learning: Clustering**
 - Similarity Measures
