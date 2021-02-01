@@ -7,7 +7,7 @@
 (**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2020-21 sessions must subscribe to the Big Data Computing 2020-21 Moodle page!_)
 - **February 2021 Exam Session**<br/>
 Registrations to the February 2021 exam session are now open on Infostud (id **752692**), and so they will until **February 7, 2021**.
-Project submission week opens up on **February 1, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **February 7, 2021 at 23:59 CEST**.<br/>
+Project submission week opens up on **February 1, 2021 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **February 7, 2021 at 23:59 CET**.<br/>
 (_Please, see the announcement above for additional details on how to submit your project during this session, which is the first one of the academic year 2020-21._)
 
 ## General Information
@@ -19,8 +19,8 @@ This is a first-year, second-semester course of the [MSc in Computer Science of 
 This repository contains class material along with any useful information for the 2020-2021 academic year.
 
 ### Class Schedule
-- **Tuesday** from **5:00PM** to **7:00PM** (Room G50, Building G in viale Regina Elena 295)
-- **Wednesday** from **4:00PM** to **7:00PM** (Room G50, Building G in viale Regina Elena 295)
+- **Tuesday** from **5:00PM** to **7:00PM** (Room G50, 3rd Floor, Building G, viale Regina Elena 295)
+- **Wednesday** from **4:00PM** to **7:00PM** (Room G50, 3rd Floor, Building G, viale Regina Elena 295)
 
 ### Office Hours
 - **Tuesday** from **2:00PM** to **4:00PM**, Room G39 located at the 2nd floor of Building G in viale Regina Elena 295.
