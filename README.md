@@ -117,7 +117,7 @@ Databricks accounts come in two flavours:
 - **Community Edition** (_free_)
 
 The former is the standard payment account, which gives you access to the fully-fledged Databricks' data analytics platfrom based either on Microsoft Azure or Amazon AWS computational resources.
-The latter, instead, allows you to enjoy Databricks for free without linking it to any external, cloud-based computational environment.
+The latter, instead, allows you to enjoy Databricks on Amazon AWS for free (of course with some limitations!)
 
 For the aim of our class, students **must all** sign up for a personal **Databricks Community Edition** account using this [link](https://community.cloud.databricks.com/login.html). 
 Please, be sure to select the correct type of account:
