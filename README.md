@@ -116,11 +116,11 @@ Databricks accounts come in two flavours:
 - **Full Platform** (_payment_, _14-day trial_)
 - **Community Edition** (_free_)
 
-The former is the standard payment account, which gives you access to the fully-fledged Databricks' data analytics platfrom based either on Microsoft Azure or Amazon AWS computational resources.
+The former is the standard payment account, which gives you access to the fully-fledged Databricks' data analytics platform based either on Microsoft Azure or Amazon AWS computational resources.
 The latter, instead, allows you to enjoy Databricks on Amazon AWS for free (of course with some limitations!)
 
 For the aim of our class, students **must all** sign up for a personal **Databricks Community Edition** account using this [link](https://community.cloud.databricks.com/login.html). 
-Please, be sure to select the correct type of account:
+Please, be sure to select the correct type of account, as highlighted in the snapshot below:
 
 ![Databricks Account Sign Up](./img/databricks_account.png)
 
@@ -132,7 +132,9 @@ Many big companies have started relying on Databricks platform for running their
 - A [four-part tutorial](https://databricks.com/discover/introduction-to-data-analysis-workshop-series) on data analyitics with Databricks
 - The official [Databricks documentation](https://docs.databricks.com/)
 
-<!--Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!-->
+##
+
+
 
 ### Local Mode Setup [Optional]
 In case you would like to install and configure PySpark _also_ on your local machine, please follow the instructions described [here](./oldest/2019-20.md#Local-Mode-Setup). Note that those guidelines may refer to older (or, even worst, deprecated) versions of the required installation packages; please, see the official [PySpark documentation](https://pypi.org/project/pyspark/) for the the most updated installation instructions.
