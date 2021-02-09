@@ -134,7 +134,8 @@ Many big companies have started relying on Databricks platform for running their
 
 ##
 
-
+Optionally, you may also want to install PySpark on your own local machine.
+(**NOTE:** This step is **not** required for passing this class)
 
 ### Local Mode Setup [Optional]
 In case you would like to install and configure PySpark _also_ on your local machine, please follow the instructions described [here](./oldest/2019-20.md#Local-Mode-Setup). Note that those guidelines may refer to older (or, even worst, deprecated) versions of the required installation packages; please, see the official [PySpark documentation](https://pypi.org/project/pyspark/) for the the most updated installation instructions.
