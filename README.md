@@ -119,12 +119,16 @@ Databricks accounts come in two flavours:
 The former is the standard payment account, which gives you access to the fully-fledged Databricks' data analytics platfrom based either on Microsoft Azure or Amazon AWS computational resources.
 The latter, instead, allows you to enjoy Databricks for free without linking it to any external, cloud-based computational environment.
 
-For the aim of our class, students **must all** sign up for a personal **Databricks Community Edition** account using this [link](https://community.cloud.databricks.com/login.html). Please, be sure to select the correct type of account:
+For the aim of our class, students **must all** sign up for a personal **Databricks Community Edition** account using this [link](https://community.cloud.databricks.com/login.html). 
+Please, be sure to select the correct type of account:
 
 ![Databricks Account Sign Up](./img/databricks_account.png)
 
 For any further information, please follow the instructions provided in the [documentation](https://docs.databricks.com/getting-started/try-databricks.html#community-edition-1).
 
+#### What Databricks Resources Should I Use?
+Many big companies have started relying on Databricks platform for running their data analytics tasks. As such, Databricks is really well-documented and provides you with a lot of useful material to consult. Among such material, I would suggest you to check out the following:
+- A self-paced training course, whose instructions on how to access it are available [here](./databricks/databricks_self_paced_training.pdf)
 
 <!--Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!-->
 
