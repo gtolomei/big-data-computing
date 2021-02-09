@@ -113,8 +113,9 @@ Starting from this year, our Big Data Computing class at Sapienza has joined the
 #### Where Should I Start with Databricks?
 The first thing you have to do in order to start using Databricks is to set up a personal account.
 Databricks accounts come in two flavours: 
-- Full Platform (_payment_, _14-day trial_)
-- Community Edition (_free_)
+- **Full Platform** (_payment_, _14-day trial_)
+- **Community Edition** (_free_)
+
 The former is the standard payment account, which gives you access to the fully-fledged Databricks' data analytics platfrom based either on Microsoft Azure or Amazon AWS computational resources.
 The latter, instead, allows you to enjoy Databricks for free without linking it to any external, cloud-based computational environment.
 
