@@ -129,7 +129,7 @@ For any further information, please follow the instructions provided in the [doc
 #### What Databricks Resources Should I Use?
 Many big companies have started relying on Databricks platform for running their data analytics tasks. As such, Databricks is really well-documented and provides you with a lot of useful material to consult. Among such material, I would suggest you to check out the following:
 - A self-paced training course, whose instructions on how to access it are available [here](./databricks/databricks_self_paced_training.pdf)
-- A four-part tutorial on data analyitics with Databricks (available [here](https://databricks.com/discover/introduction-to-data-analysis-workshop-series))
+- A [four-part tutorial](https://databricks.com/discover/introduction-to-data-analysis-workshop-series) on data analyitics with Databricks
 - The official [Databricks documentation](https://docs.databricks.com/)
 
 <!--Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!-->
