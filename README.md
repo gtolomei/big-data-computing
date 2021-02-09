@@ -121,7 +121,7 @@ The latter, instead, allows you to enjoy Databricks for free without linking it 
 
 For the aim of our class, students **must all** sign up for a personal **Databricks Community Edition** account using this [link](https://community.cloud.databricks.com/login.html). Please, be sure to select the correct type of account:
 
-![](image)
+![Databricks Account Sign Up](./img/databricks_account.png)
 
 For any further information, please follow the instructions provided in the [documentation](https://docs.databricks.com/getting-started/try-databricks.html#community-edition-1).
 
