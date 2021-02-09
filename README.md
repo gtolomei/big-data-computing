@@ -56,7 +56,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
  
 <hr>
 
-## Syllabus
+## Syllabus [Tentative]
 **Introduction**
 - The Big Data Phenomenon
 - The Big Data Infrastructure
@@ -101,11 +101,29 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 ## Environment Setup
 
-### PySpark + Databricks [TBA]
-<!--In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Google Colaboratory](https://colab.research.google.com/) (or "Colab" for short). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
+### PySpark + Databricks [TBC]
+In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Databricks](https://databricks.com/). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
 - Zero configuration required;
-- Free access to Google's powerful cloud infrastructure (including GPUs);
-- Easy sharing.-->
+- Free access to Databricks' powerful cloud infrastructure (including GPUs);
+- Easy sharing.
+
+#### Why Databricks?
+Starting from this year, our Big Data Computing class at Sapienza has joined the [Databricks University Alliance](https://databricks.com/university). This is a very active community of educators and faculty members who collaboratively share ideas, thoughts, and actual material on how to improve their teaching experience of Data-Science-like classes, which ultimately allow students to learn the latest data science tools used in the industry.
+
+#### Where Should I Start with Databricks?
+The first thing you have to do in order to start using Databricks is to set up a personal account.
+Databricks accounts come in two flavours: 
+- Full Platform (_payment_, _14-day trial_)
+- Community Edition (_free_)
+The former is the standard payment account, which gives you access to the fully-fledged Databricks' data analytics platfrom based either on Microsoft Azure or Amazon AWS computational resources.
+The latter, instead, allows you to enjoy Databricks for free without linking it to any external, cloud-based computational environment.
+
+For the aim of our class, students **must all** sign up for a personal **Databricks Community Edition** account using this [link](https://community.cloud.databricks.com/login.html). Please, be sure to select the correct type of account:
+
+![](image)
+
+For any further information, please follow the instructions provided in the [documentation](https://docs.databricks.com/getting-started/try-databricks.html#community-edition-1).
+
 
 <!--Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!-->
 
