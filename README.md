@@ -3,7 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
-**February 2021 Exam Session: Final Grades**<br/>
+- **February 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-02-08_final_grades.pdf)
 - **February 2021 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the **3 projects** that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **Februart 10 at 9:00AM CET**.<br/>
