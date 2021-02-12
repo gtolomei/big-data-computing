@@ -22,8 +22,18 @@ This is a first-year, second-semester course of the [MSc in Computer Science of 
 
 This repository contains class material along with any useful information for the 2020-2021 academic year.
 
+### Class Schedule
+- **Tuesday** from **5:00PM** to **7:00PM**
+- **Wednesday** from **4:00PM** to **7:00PM**
+
 ### How to Attend Classes
 According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in presence and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
+
+#### Attending Classes in Presence: Room G50 - Building G, viale Regina Elena 295
+Students who are willing to attend classes in presence must issue their request through the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)). Once the booking is confirmed - according to the class schedule above - students must go to Room G50, which is located on the 3rd floor of the Building G in viale Regina Elena 295.
+
+#### Attending Classes Remotely: Zoom
+Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm
 
 ### Class Schedule
 - **Tuesday** from **5:00PM** to **7:00PM** (Room G50, 3rd Floor, Building G, viale Regina Elena 295)
