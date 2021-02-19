@@ -35,10 +35,6 @@ Students who are willing to attend classes in presence must issue their request 
 #### Attending Classes Remotely: Zoom
 Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm
 
-### Class Schedule
-- **Tuesday** from **5:00PM** to **7:00PM** (Room G50, 3rd Floor, Building G, viale Regina Elena 295)
-- **Wednesday** from **4:00PM** to **7:00PM** (Room G50, 3rd Floor, Building G, viale Regina Elena 295)
-
 ### Office Hours
 - **Tuesday** from **2:00PM** to **4:00PM**, Room G39 located at the 2nd floor of Building G in viale Regina Elena 295.<br>
 (**NOTE:** Due to the COVID-19 emergency, office hours will be exclusively held **online** via Google Meet or Zoom upon email request message sent to the following address: tolomei@di.uniroma1.it)
