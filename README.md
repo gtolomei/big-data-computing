@@ -4,7 +4,7 @@
 
 ## News
 - **2020-21 classes are starting!**<br/>
-Classes are starting on **February 23, 2021** and will be held in _blended_ mode. To attend classes either in presence or remotely, please check out the instructions [below](#How-To-Attend-Classes).
+Classes are starting on **February 23, 2021** at **5:00PM CET** and will be held in _blended_ mode. To attend classes either in presence or remotely, please check out the instructions [below](#How-To-Attend-Classes).
 - **February 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-02-08_final_grades.pdf)
 - **February 2021 Exam Session: Project Presentation Schedule**<br/>
