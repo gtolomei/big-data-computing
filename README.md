@@ -167,8 +167,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-<!--| Lecture 1   | 03/03/2020 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
-| Lecture 2   | 03/04/2020 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
+| Lecture 1   | 02/23/2021 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 2   | 03/04/2020 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
 | Lecture 3   | 03/10/2020 | Apache Spark + PySpark Tutorial (Part I) | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/03_PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
 | Lecture 4   | 03/11/2020 | PySpark Tutorial (Part II) + Clustering: Data Representation | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/04_The_Curse_Of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
 | Lecture 5   | 03/17/2020 | Clustering: Distance Measures | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>] |
