@@ -123,7 +123,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 ## Environment Setup
 
-### PySpark + Databricks [TBC]
+### PySpark + Databricks
 In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Databricks](https://databricks.com/). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
 - Zero configuration required;
 - Free access to Databricks' powerful cloud infrastructure (including GPUs);
