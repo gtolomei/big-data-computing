@@ -171,9 +171,9 @@ In case you would like to install and configure PySpark _also_ on your local mac
 |-------------|------------|-----------------------------------------------|-----------------|
 | Lecture 1   | 02/23/2021 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 02/24/2021 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
-| Lecture 3   | 03/02/2021 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 4   | 03/11/2020 | PySpark Tutorial (Part II) + Clustering: Data Representation | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/04_The_Curse_Of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
-| Lecture 5   | 03/17/2020 | Clustering: Distance Measures | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>] |
+| Lecture 3   | 03/03/2021 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
+| Lecture 4   | 03/09/2020 | PySpark Tutorial (with Databricks) | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
+<!--| Lecture 5   | 03/17/2020 | Clustering: Distance Measures | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>] |
 | Lecture 6   | 03/18/2020 | Clustering Algorithms: K-means | [slides: <a href="./slides/05_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
 | Lecture 7   | 03/24/2020 | Document Clustering with PySpark | [slides: <a href="./slides/06_Document_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/06_Document_Clustering.ipynb" target="_blank">ipynb</a>] |
 | Lecture 8   | 03/25/2020 | Dimensionality Reduction (Principal Component Analysis) | [slides: <a href="./slides/07_Dimensionality_Reduction_(Principal_Component_Analysis).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
