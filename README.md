@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **IMPORTANT: Face-to-Face Classes Suspended**<br/>
+Starting **from Monday, March 15 2021** all the educational activities for all Sapienza's degree programmes will be held **remotely only**. Therefore, our classes will continue on the same [Zoom meeting room](https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm), as per the original schedule.<br/>
+For any further information, please refer to this [link](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions) on the Sapienza website.
 - **2020-21 classes are starting!**<br/>
 Classes are starting on **February 23, 2021** at **5:00PM CET** and will be held in _blended_ mode. To attend classes either in presence or remotely, please check out the instructions [below](#How-To-Attend-Classes).
 - **February 2021 Exam Session: Final Grades**<br/>
