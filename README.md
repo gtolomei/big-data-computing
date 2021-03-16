@@ -3,6 +3,10 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **April 2021 Exam Session (Extra)**<br/>
+Registrations to the April 2021 exam session (extra) are now open on Infostud (id **762156**), and so they will until **April 4, 2021**.
+Project submission week opens up on **April 5, 2021 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **April 11, 2021 at 23:59 CET**.<br/>
+**NOTE:** _This extra session is reserved **only** to part-time or working students, students with learning disabilities, students who have not completed university exams within set time period, as well as students who are about to graduate._
 - **IMPORTANT: Face-to-Face Classes Suspended**<br/>
 Starting **from Monday, March 15, 2021** all the educational activities for all Sapienza's degree programmes will be held **remotely only**. Therefore, our classes will continue on the same [Zoom meeting room](https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm), as per the original schedule.<br/>
 For any further information, please refer to this [link](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions) on the Sapienza website.
