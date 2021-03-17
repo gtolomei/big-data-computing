@@ -181,8 +181,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 3   | 03/03/2021 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
 | Lecture 4   | 03/09/2021 | PySpark Tutorial (with Databricks) | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
 | Lecture 5 & 6  | 03/10/2021 - 03/16/2021 | Clustering | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 6   | 03/18/2020 | Clustering Algorithms: K-means | [slides: <a href="./slides/05_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
-| Lecture 7   | 03/24/2020 | Document Clustering with PySpark | [slides: <a href="./slides/06_Document_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/06_Document_Clustering.ipynb" target="_blank">ipynb</a>] |
+| Lecture 7   | 03/17/2021 | Clustering Algorithms: K-means | [slides: <a href="./slides/05_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 7   | 03/24/2020 | Document Clustering with PySpark | [slides: <a href="./slides/06_Document_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/06_Document_Clustering.ipynb" target="_blank">ipynb</a>] |
 | Lecture 8   | 03/25/2020 | Dimensionality Reduction (Principal Component Analysis) | [slides: <a href="./slides/07_Dimensionality_Reduction_(Principal_Component_Analysis).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
 | Lecture 9   | 03/31/2020 | Principal Component Analysis with PySpark | [notebook: <a href="./notebooks/07_Principal_Component_Analysis.ipynb" target="_blank">ipynb</a>] |
 | Lecture 10  | 04/01/2020 | Supervised Learning | [slides: <a href="./slides/08_Supervised_Learning.pdf" target="_blank">PDF</a>] |
