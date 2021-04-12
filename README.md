@@ -3,8 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
-<!--- **April 2021 Exam Session (Extra): Project Presentation Schedule**<br/>
-Presentation of the project that has been accepted for oral discussion will take place remotely via Google Meet on **April 16 at 12:00PM CEST**. Everyone is welcome to join!<br/>-->
+- **April 2021 Exam Session (Extra): Project Presentation Schedule**<br/>
+Presentation of the project that has been accepted for oral discussion will take place remotely via Google Meet on **April 16, 2021 at 12:00PM CEST**. _Everyone is welcome to join!_<br/>
 - **IMPORTANT: Back to In-Person Classes**<br/>
 Starting from **April 12, 2021** classes will take place in _blended_ mode again (with 30% limit attendance).
 - **April 2021 Exam Session (Extra)**<br/>
@@ -15,11 +15,11 @@ Project submission week opens up on **April 5, 2021 at 00:00 CEST** ([Central Eu
 Starting **from Monday, March 15, 2021** all the educational activities for all Sapienza's degree programmes will be held **remotely only**. Therefore, our classes will continue on the same [Zoom meeting room](https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm), as per the original schedule.<br/>
 For any further information, please refer to this [link](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions) on the Sapienza website.
 - **2020-21 classes are starting!**<br/>
-Classes are starting on **February 23, 2021** at **5:00PM CET** and will be held in _blended_ mode. To attend classes either in presence or remotely, please check out the instructions [below](#How-To-Attend-Classes).
+Classes are starting on **February 23, 2021 at 5:00PM CET** and will be held in _blended_ mode. To attend classes either in presence or remotely, please check out the instructions [below](#How-To-Attend-Classes).
 - **February 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-02-08_final_grades.pdf)
 - **February 2021 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **February 10 at 9:00AM CET**.<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **February 10, 2021 at 9:00AM CET**.<br/>
 - **February 2021 Exam Session**<br/>
 Registrations to the February 2021 exam session are now open on Infostud (id **752692**), and so they will until **February 7, 2021**.
 Project submission week opens up on **February 1, 2021 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **February 7, 2021 at 23:59 CET**.<br/>
