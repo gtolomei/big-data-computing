@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Project Guidelines**: A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
 - **April 2021 Exam Session (Extra): Project Presentation Schedule**<br/>
 Presentation of the project that has been accepted for oral discussion will take place remotely via Google Meet on **April 16, 2021 at 12:00PM CEST**. _Everyone is welcome to join!_<br/>
 - **IMPORTANT: Back to In-Person Classes**<br/>
