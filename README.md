@@ -191,8 +191,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 10-11   | 03/30/2021 - 03/31/2021 | Dimensionality Reduction (Principal Component Analysis) | [slides: <a href="./slides/07_Dimensionality_Reduction_(Principal_Component_Analysis).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
 | Lecture 12   | 04/07/2021 | Principal Component Analysis with PySpark | [notebook: <a href="./notebooks/Principal_Component_Analysis.ipynb" target="_blank">ipynb</a>] |
 | Lecture 13  | 04/13/2021 | Supervised Learning | [slides: <a href="./slides/08_Supervised_Learning.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 11  | 04/07/2020 | Linear Regression | [slides: <a href="./slides/09_Linear_Regression.pdf" target="_blank">PDF</a>] |
-| Lecture 12  | 04/08/2020 | Linear Regression with PySpark | [notebook: <a href="./notebooks/09_Linear_Regression.ipynb" target="_blank">ipynb</a>] |
+| Lecture 14  | 04/14/2021 | Linear Regression | [slides: <a href="./slides/09_Linear_Regression.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 12  | 04/08/2020 | Linear Regression with PySpark | [notebook: <a href="./notebooks/09_Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 | Lecture 13  | 04/15/2020 | Logistic Regression | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 14  | 04/21/2020 | Gradient Descent | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>]|
 | Lecture 15  | 04/22/2020 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
