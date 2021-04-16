@@ -18,9 +18,9 @@ For any further information, please refer to this [link](https://www.uniroma1.it
 - **2020-21 classes are starting!**<br/>
 Classes are starting on **February 23, 2021 at 5:00PM CET** and will be held in _blended_ mode. To attend classes either in presence or remotely, please check out the instructions [below](#How-To-Attend-Classes).
 - **February 2021 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2020-21/2021-02-08_final_grades.pdf)
+Final grades are available at this [link](./exams/2020-21/2021-02-08_final_grades.pdf).
 - **February 2021 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **February 10, 2021 at 9:00AM CET**.<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **February 10, 2021 at 9:00AM CET**. _Everyone is welcome to join!_<br/>
 - **February 2021 Exam Session**<br/>
 Registrations to the February 2021 exam session are now open on Infostud (id **752692**), and so they will until **February 7, 2021**.
 Project submission week opens up on **February 1, 2021 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **February 7, 2021 at 23:59 CET**.<br/>
