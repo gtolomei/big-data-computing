@@ -3,6 +3,12 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **July 2021 Exam Session**<br/>
+Registrations to the July 2021 exam session are now open on Infostud (id **765581**), and so they will until **July 8, 2021**.
+Project submission week opens up on **July 1, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 7, 2021 at 23:59 CEST**.<br/>
+- **June 2021 Exam Session**<br/>
+Registrations to the June 2021 exam session are now open on Infostud (id **765579**), and so they will until **June 17, 2021**.
+Project submission week opens up on **June 11, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 17, 2021 at 23:59 CEST**.<br/>
 <!--- **April 2021 Exam Session (Extra): Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-04-12_final_grades.pdf).-->
 - **Project Guidelines**: A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
