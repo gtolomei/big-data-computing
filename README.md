@@ -203,7 +203,7 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 16  | 04/21/2021 | Linear Regression with PySpark | [notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 | Lecture 17-18  | 04/27/2021-04/28/2021 | Logistic Regression | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 19  | 05/04/2021 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
-| Lecture 20  | 05/05/2021 | Evaluation Metrics for Classification | [slides: <a href="./slides/12_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>]|
+| Lecture 20  | 05/05/2021 | Evaluation Metrics for Classification | [slides: <a href="./slides/12_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
 | Lecture 21  | 05/11/2021 | Recommender Systems (Part I) | [slides: <a href="./slides/13_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 22  | 05/06/2020 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 <!--| Lecture 17  | 04/29/2020 | Classification with PySpark | [notebook: <a href="./notebooks/10_Classification.ipynb" target="_blank">ipynb</a>] |
