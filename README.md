@@ -135,10 +135,6 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Algorithms: PageRank
 - Example: Ranking (a sample of) the Google Web Graph
 
-**Real-time Analytics**
-- Streaming Data Processing
-- Example: Twitter Hate Speech Detector
-
 <hr>
 
 ## Environment Setup
@@ -207,6 +203,7 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 21  | 05/11/2021 | Recommender Systems (Part I) | [slides: <a href="./slides/13_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 22  | 05/12/2021 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 23  | 05/18/2021 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
+| Lecture 24  | 05/19/2021 | PageRank | [slides: <a href="./slides/15_Page_Rank.pdf" target="_blank">PDF</a>]|
 <!--| Lecture 17  | 04/29/2020 | Classification with PySpark | [notebook: <a href="./notebooks/10_Classification.ipynb" target="_blank">ipynb</a>] |
 | Lecture 20  | 05/12/2020 | Recommender Systems (Matrix Factorization) with PySpark | [notebook: <a href="./notebooks/13_MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>] |
 | Lecture 21  | 05/13/2020 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
