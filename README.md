@@ -97,7 +97,6 @@ No textbooks are mandatory to successfully follow this course. However, there is
 <hr>
 
 ## Syllabus
-## [Tentative]
 
 **Introduction**
 - The Big Data Phenomenon
