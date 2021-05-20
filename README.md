@@ -204,12 +204,6 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 23  | 05/18/2021 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | Lecture 24  | 05/19/2021 | PageRank | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
 | ----------  | 05/19/2021 | The Last Take Home Message | [slides: <a href="./slides/16_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
-<!--| Lecture 17  | 04/29/2020 | Classification with PySpark | [notebook: <a href="./notebooks/10_Classification.ipynb" target="_blank">ipynb</a>] |
-| Lecture 20  | 05/12/2020 | Recommender Systems (Matrix Factorization) with PySpark | [notebook: <a href="./notebooks/13_MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>] |
-| Lecture 21  | 05/13/2020 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
-| Lecture 22  | 05/20/2020 | PageRank with PySpark | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/15_PageRank.ipynb" target="_blank">ipynb</a>]|
-| Lecture 23  | 05/26/2020 | Streaming Data Processing | [slides: <a href="./slides/16_Streaming_Data_Processing.pdf" target="_blank">PDF</a>]|
-| Lecture 24  | 05/27/2020 | Streaming Classification with PySpark + The Last Take Home Message | [notebook: <a href="./notebooks/16_Streaming_Classification.ipynb" target="_blank">ipynb</a>, slides: <a href="./slides/17_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|-->
 
 <hr>
 
