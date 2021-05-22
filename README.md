@@ -200,7 +200,7 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 19  | 05/04/2021 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
 | Lecture 20  | 05/05/2021 | Evaluation Metrics for Classification | [slides: <a href="./slides/12_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
 | Lecture 21  | 05/11/2021 | Recommender Systems (Part I) | [slides: <a href="./slides/13_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
-| Lecture 22  | 05/12/2021 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
+| Lecture 22  | 05/12/2021 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
 | Lecture 23  | 05/18/2021 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | Lecture 24  | 05/19/2021 | PageRank | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
 | ----------  | 05/19/2021 | The Last Take Home Message | [slides: <a href="./slides/16_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
