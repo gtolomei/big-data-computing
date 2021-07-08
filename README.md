@@ -8,11 +8,11 @@ Final grades are available at this [link](./exams/2020-21/2021-06-18_final_grade
 - **June 2021 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **June 25, 2021** and **June 28, 2021** starting at **9:00AM CET**. _Everyone is welcome to join!_<br/>
 - **July 2021 Exam Session**<br/>
-Registrations to the July 2021 exam session are now open on Infostud (id **765581**), and so they will until **July 8, 2021**.
-Project submission week opens up on **July 1, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 7, 2021 at 23:59 CEST**.<br/>
+Registrations to the July 2021 exam session are now open on Infostud (id **765581**), and so they will until **July 9, 2021**.
+Project submission week opens up on **July 3, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 9, 2021 at 23:59 CEST**.<br/>
 - **June 2021 Exam Session**<br/>
-Registrations to the June 2021 exam session are now open on Infostud (id **765579**), and so they will until **June 17, 2021**.
-Project submission week opens up on **June 11, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 17, 2021 at 23:59 CEST**.<br/>
+Registrations to the June 2021 exam session are now open on Infostud (id **765579**), and so they will until **June 18, 2021**.
+Project submission week opens up on **June 12, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 18, 2021 at 23:59 CEST**.<br/>
 <!--- **April 2021 Exam Session (Extra): Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-04-12_final_grades.pdf).-->
 - **Project Guidelines**: A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
