@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!-- - **July 2021 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2020-21/2021-07-09_final_grades.pdf). -->
 - **June 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-06-18_final_grades.pdf).
 - **June 2021 Exam Session: Project Presentation Schedule**<br/>
