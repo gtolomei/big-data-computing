@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **September 2021 Exam Session**<br/>
+Registrations to the September 2021 exam session are open on Infostud (id **772778**), and so they will until **September 9, 2021**.
+Project submission week opens up on **September 4, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 10, 2021 at 23:59 CEST**.<br/>
 - **July 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-07-09_final_grades.pdf).
 - **June 2021 Exam Session: Final Grades**<br/>
@@ -10,10 +13,10 @@ Final grades are available at this [link](./exams/2020-21/2021-06-18_final_grade
 - **June 2021 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **June 25, 2021** and **June 28, 2021** starting at **9:00AM CET**. _Everyone is welcome to join!_<br/>
 - **July 2021 Exam Session**<br/>
-Registrations to the July 2021 exam session are now open on Infostud (id **765581**), and so they will until **July 8, 2021**.
+Registrations to the July 2021 exam session are open on Infostud (id **765581**), and so they will until **July 8, 2021**.
 Project submission week opens up on **July 3, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 9, 2021 at 23:59 CEST**.<br/>
 - **June 2021 Exam Session**<br/>
-Registrations to the June 2021 exam session are now open on Infostud (id **765579**), and so they will until **June 17, 2021**.
+Registrations to the June 2021 exam session are open on Infostud (id **765579**), and so they will until **June 17, 2021**.
 Project submission week opens up on **June 12, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 18, 2021 at 23:59 CEST**.<br/>
 <!--- **April 2021 Exam Session (Extra): Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-04-12_final_grades.pdf).-->
@@ -23,7 +26,7 @@ Presentation of the project that has been accepted for oral discussion will take
 - **IMPORTANT: Back to In-Person Classes**<br/>
 Starting from **April 12, 2021** classes will take place in _blended_ mode again (with 30% limit attendance).
 - **April 2021 Exam Session (Extra)**<br/>
-Registrations to the April 2021 exam session (extra) are now open on Infostud (id **762156**), and so they will until **April 4, 2021**.
+Registrations to the April 2021 exam session (extra) are open on Infostud (id **762156**), and so they will until **April 4, 2021**.
 Project submission week opens up on **April 5, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **April 11, 2021 at 23:59 CEST**.<br/>
 **NOTE:** _This extra session is reserved **only** to part-time or working students, students with learning disabilities, students who have not completed university exams within set time period, as well as students who are about to graduate._
 - **IMPORTANT: In-Person Classes Suspended**<br/>
@@ -36,7 +39,7 @@ Final grades are available at this [link](./exams/2020-21/2021-02-08_final_grade
 - **February 2021 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **February 10, 2021 at 9:00AM CET**. _Everyone is welcome to join!_<br/>
 - **February 2021 Exam Session**<br/>
-Registrations to the February 2021 exam session are now open on Infostud (id **752692**), and so they will until **February 7, 2021**.
+Registrations to the February 2021 exam session are open on Infostud (id **752692**), and so they will until **February 7, 2021**.
 Project submission week opens up on **February 1, 2021 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **February 7, 2021 at 23:59 CET**.<br/>
 (_Please, see the announcement below for additional details on how to submit your project during this session, which is the first one of the academic year 2020-21._)
 - Students who are planning to submit their project **after** the January 2021 session should refer to the [Big Data Computing 2020-21 Moodle page](https://elearning.uniroma1.it/course/view.php?id=12771), rather than the current one (i.e., Big Data Computing 2019-20). This is to align exam sessions to the correct academic year, since academic year 2019-20 formally ends on January, 31 2021. As such, starting **from February 2021 until January 2022** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way, as usual.<br/>
