@@ -3,11 +3,15 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **September 2021 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **September 16, 2021** and **September 17, 2021** starting at **9:30AM CET**. _Everyone is welcome to join!_<br/>
 - **September 2021 Exam Session**<br/>
 Registrations to the September 2021 exam session are open on Infostud (id **772778**), and so they will until **September 9, 2021**.
 Project submission week opens up on **September 4, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 10, 2021 at 23:59 CEST**.<br/>
 - **July 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-07-09_final_grades.pdf).
+- **July 2021 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **July 16, 2021** and **July 20, 2021** starting at **9:00AM CET**. _Everyone is welcome to join!_<br/>
 - **June 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-06-18_final_grades.pdf).
 - **June 2021 Exam Session: Project Presentation Schedule**<br/>
