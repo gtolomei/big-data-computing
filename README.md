@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **September 2021 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2020-21/2021-09-10_final_grades.pdf).
 - **September 2021 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **September 16, 2021** and **September 17, 2021** starting at **9:30AM CET**. _Everyone is welcome to join!_<br/>
 - **September 2021 Exam Session**<br/>
