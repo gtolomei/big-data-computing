@@ -66,7 +66,7 @@ This repository contains class material along with any useful information for th
 ### How to Attend Classes
 According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in presence and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
 
-#### Attending Classes in Presence: Room G50 - Building G, Viale Regina Elena 295
+#### Attending Classes in Person: Room G50 - Building G, Viale Regina Elena 295
 Students who are willing to attend classes in presence must issue their request through the [Infostud Lab App](https://www.uniroma1.it/en/notizia/new-apps-sapienza-students) or the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)). Once the booking is confirmed - according to the class schedule above - students must go to Room G50, which is located on the 3rd floor of the Building G in viale Regina Elena 295.
 
 #### Attending Classes Remotely: Zoom
