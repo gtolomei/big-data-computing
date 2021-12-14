@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **January 2022 Exam Session**<br/>
+Registrations to the January 2022 exam session are open on Infostud (id **793397**), and so they will until **January 14, 2022**.
+Project submission week opens up on **January 8, 2022 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **January 14, 2022 at 23:59 CET**.<br/>
 - **September 2021 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2020-21/2021-09-10_final_grades.pdf).
 - **September 2021 Exam Session: Project Presentation Schedule**<br/>
