@@ -5,6 +5,8 @@
 ## News
 <!--- Students who are planning to submit their project **after** the January 2022 session should refer to the [Big Data Computing 2021-22 Moodle page](https://elearning.uniroma1.it/course/view.php?id=12771), rather than the current one (i.e., Big Data Computing 2020-21). This is to align exam sessions to the correct academic year, since academic year 2020-21 formally ends on January, 31 2022. As such, starting **from February 2022 until January 2023** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way, as usual.<br/>-->
 (**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2021-22 sessions must subscribe to the Big Data Computing 2021-22 Moodle page!_)
+- **January 2022 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **January 20, 2022** starting at **9:30AM CET**. _Everyone is welcome to join!_<br/>
 - **February 2022 Exam Session**<br/>
 Registrations to the February 2022 exam session are open on Infostud (id **793404**), and so they will until **February 4, 2022**.
 Project submission week opens up on **January 29, 2021 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **February 4, 2022 at 23:59 CET**.<br/>
