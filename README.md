@@ -1,67 +1,15 @@
-# Big Data Computing (2020-2021)
+# Big Data Computing (2021-2022)
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
-- Students who are planning to submit their projects **after** the January 2022 session should refer to the <a href="https://elearning.uniroma1.it/course/view.php?id=14454" target="_blank">Big Data Computing 2021-22 Moodle page</a>, rather than the current one (i.e., Big Data Computing 2020-21). This is to align exam sessions to the correct academic year, since academic year 2020-21 formally ends on January, 31 2022. As such, starting **from February 2022 until January 2023** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way, as usual. For example, the upcoming February Submission Week is available at the following <a href="https://elearning.uniroma1.it/mod/assign/view.php?id=447219" target="_blank">link</a>.<br/>(**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2021-22 sessions must subscribe to the Big Data Computing 2021-22 Moodle page!_)
-- **January 2022 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2020-21/2022-01-15_final_grades.pdf).
-- **January 2022 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **January 20, 2022** starting at **9:30AM CET**. _Everyone is welcome to join!_<br/>
+- **February 2022 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 8, 2021, at 10:00AM CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **February 2022 Exam Session**<br/>
 Registrations to the February 2022 exam session are open on Infostud (id **793404**), and so they will until **February 4, 2022**.
 Project submission week opens up on **January 29, 2022 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **February 4, 2022 at 23:59 CET**.<br/>
-(_Please, note that this session is the first one of the new 2021-22 academic year; as such, there will be soon an announcement with every details on how to submit your project during this session._)
-- **January 2022 Exam Session**<br/>
-Registrations to the January 2022 exam session are open on Infostud (id **793397**), and so they will until **January 14, 2022**.
-Project submission week opens up on **January 8, 2022 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **January 14, 2022 at 23:59 CET**.<br/>
-- **September 2021 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2020-21/2021-09-10_final_grades.pdf).
-- **September 2021 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **September 16, 2021** and **September 17, 2021** starting at **9:30AM CET**. _Everyone is welcome to join!_<br/>
-- **September 2021 Exam Session**<br/>
-Registrations to the September 2021 exam session are open on Infostud (id **772778**), and so they will until **September 9, 2021**.
-Project submission week opens up on **September 4, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 10, 2021 at 23:59 CEST**.<br/>
-- **July 2021 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2020-21/2021-07-09_final_grades.pdf).
-- **July 2021 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **July 16, 2021** and **July 20, 2021** starting at **9:00AM CET**. _Everyone is welcome to join!_<br/>
-- **June 2021 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2020-21/2021-06-18_final_grades.pdf).
-- **June 2021 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day session** on **June 25, 2021** and **June 28, 2021** starting at **9:00AM CET**. _Everyone is welcome to join!_<br/>
-- **July 2021 Exam Session**<br/>
-Registrations to the July 2021 exam session are open on Infostud (id **765581**), and so they will until **July 8, 2021**.
-Project submission week opens up on **July 3, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **July 9, 2021 at 23:59 CEST**.<br/>
-- **June 2021 Exam Session**<br/>
-Registrations to the June 2021 exam session are open on Infostud (id **765579**), and so they will until **June 17, 2021**.
-Project submission week opens up on **June 12, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 18, 2021 at 23:59 CEST**.<br/>
-<!--- **April 2021 Exam Session (Extra): Final Grades**<br/>
-Final grades are available at this [link](./exams/2020-21/2021-04-12_final_grades.pdf).-->
-- **Project Guidelines**: A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
-- **April 2021 Exam Session (Extra): Project Presentation Schedule**<br/>
-Presentation of the project that has been accepted for oral discussion will take place remotely via Google Meet on **April 16, 2021 at 12:00PM CEST**. _Everyone is welcome to join!_<br/>
-- **IMPORTANT: Back to In-Person Classes**<br/>
-Starting from **April 12, 2021** classes will take place in _blended_ mode again (with 30% limit attendance).
-- **April 2021 Exam Session (Extra)**<br/>
-Registrations to the April 2021 exam session (extra) are open on Infostud (id **762156**), and so they will until **April 4, 2021**.
-Project submission week opens up on **April 5, 2021 at 00:00 CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **April 11, 2021 at 23:59 CEST**.<br/>
-**NOTE:** _This extra session is reserved **only** to part-time or working students, students with learning disabilities, students who have not completed university exams within set time period, as well as students who are about to graduate._
-- **IMPORTANT: In-Person Classes Suspended**<br/>
-Starting **from Monday, March 15, 2021** all the educational activities for all Sapienza's degree programmes will be held **remotely only**. Therefore, our classes will continue on the same [Zoom meeting room](https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm), as per the original schedule.<br/>
-For any further information, please refer to this [link](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions) on the Sapienza website.
-- **2020-21 classes are starting!**<br/>
-Classes are starting on **February 23, 2021 at 5:00PM CET** and will be held in _blended_ mode. To attend classes either in presence or remotely, please check out the instructions [below](#How-To-Attend-Classes).
-- **February 2021 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2020-21/2021-02-08_final_grades.pdf).
-- **February 2021 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **one-day session** on **February 10, 2021 at 9:00AM CET**. _Everyone is welcome to join!_<br/>
-- **February 2021 Exam Session**<br/>
-Registrations to the February 2021 exam session are open on Infostud (id **752692**), and so they will until **February 7, 2021**.
-Project submission week opens up on **February 1, 2021 at 00:00 CET** ([Central European Time](https://time.is/CET)) and closes on **February 7, 2021 at 23:59 CET**.<br/>
-(_Please, see the announcement below for additional details on how to submit your project during this session, which is the first one of the academic year 2020-21._)
-- Students who are planning to submit their project **after** the January 2021 session should refer to the [Big Data Computing 2020-21 Moodle page](https://elearning.uniroma1.it/course/view.php?id=12771), rather than the current one (i.e., Big Data Computing 2019-20). This is to align exam sessions to the correct academic year, since academic year 2019-20 formally ends on January, 31 2021. As such, starting **from February 2021 until January 2022** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way, as usual.<br/>
-(**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2020-21 sessions must subscribe to the Big Data Computing 2020-21 Moodle page!_)
+(_Please, see the announcement below for additional details on how to submit your project during this session, which is the first one of the academic year 2021-22._)
+- Students who are planning to submit their projects **after** the January 2022 session should refer to the <a href="https://elearning.uniroma1.it/course/view.php?id=14454" target="_blank">Big Data Computing 2021-22 Moodle page</a>, rather than the current one (i.e., Big Data Computing 2020-21). This is to align exam sessions to the correct academic year, since academic year 2020-21 formally ends on January, 31 2022. As such, starting **from February 2022 until January 2023** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way, as usual. For example, the upcoming February Submission Week is available at the following <a href="https://elearning.uniroma1.it/mod/assign/view.php?id=447219" target="_blank">link</a>.<br/>(**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2021-22 sessions must subscribe to the Big Data Computing 2021-22 Moodle page!_)
 
 ## General Information
 
@@ -69,27 +17,28 @@ Welcome to the Big Data Computing class!
 
 This is a first-year, second-semester course of the [MSc in Computer Science of Sapienza University of Rome](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).
 
-This repository contains class material along with any useful information for the 2020-2021 academic year.
+This repository contains class material along with any useful information for the 2021-2022 academic year.
 
 ### Class Schedule
-- **Tuesday** from **5:00PM** to **7:00PM**
-- **Wednesday** from **4:00PM** to **7:00PM**
+- **Wednesday** from **5:00PM** to **7:00PM**
+- **Thursday** from **8:00AM** to **11:00AM**
 
-### How to Attend Classes
-According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
+### How to Attend Classes: TBA
+<!--According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
 
 #### Attending Classes in Person: Room G50 - Building G, Viale Regina Elena 295
 Students who are willing to attend classes in presence must issue their request through the [Infostud Lab App](https://www.uniroma1.it/en/notizia/new-apps-sapienza-students) or the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)). Once the booking is confirmed - according to the class schedule above - students must go to Room G50, which is located on the 3rd floor of the Building G in viale Regina Elena 295.
 
 #### Attending Classes Remotely: Zoom
 Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm
+-->
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=12771
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=14454
 
-### Office Hours
-- **Tuesday** from **2:00PM** to **4:00PM**, Room 106 located at the 1st floor of Building E in viale Regina Elena 295.<br>
-(**NOTE:** Due to the COVID-19 emergency, office hours will be exclusively held **online** via Google Meet or Zoom upon email request message sent to the following address: tolomei@di.uniroma1.it)
+### Office Hours: TBA
+<!--- **Tuesday** from **2:00PM** to **4:00PM**, Room 106 located at the 1st floor of Building E in viale Regina Elena 295.<br>
+(**NOTE:** Due to the COVID-19 emergency, office hours will be exclusively held **online** via Google Meet or Zoom upon email request message sent to the following address: tolomei@di.uniroma1.it)-->
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
@@ -123,9 +72,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
  
 <hr>
 
-## Syllabus
+## Syllabus: TBA
 
-**Introduction**
+<!--**Introduction**
 - The Big Data Phenomenon
 - The Big Data Infrastructure
     - Distributed File Systems (HDFS)
@@ -204,14 +153,14 @@ Optionally, you may also want to install PySpark on your own local machine.
 
 ### Local Mode Setup [Optional]
 In case you would like to install and configure PySpark _also_ on your local machine, please follow the instructions described [here](./oldest/2019-20.md#Local-Mode-Setup). Note that those guidelines may refer to older (or, even worst, deprecated) versions of the required installation packages; please, see the official [PySpark documentation](https://pypi.org/project/pyspark/) for the the most updated installation instructions.
-
+-->
 <hr>
 
 ## Class Schedules
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-| Lecture 1   | 02/23/2021 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 1   | 02/23/2021 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 02/24/2021 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
 | Lecture 3   | 03/03/2021 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
 | Lecture 4   | 03/09/2021 | PySpark Tutorial (with Databricks) | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
@@ -231,7 +180,7 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 23  | 05/18/2021 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | Lecture 24  | 05/19/2021 | PageRank | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/PageRank.ipynb" target="_blank">ipynb</a>]|
 | ----------  | 05/19/2021 | The Last Take Home Message | [slides: <a href="./slides/16_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
-
+-->
 <hr>
 
 # Previous Years
