@@ -240,3 +240,4 @@ In the following, you can quickly navigate through Big Data Computing class info
 **NOTE:** _The folder containing the class material is **unique** and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what have been shown in class in the past._
 
 -   [2019-20](./oldest/2019-20.md)
+-   [2020-21](./oldest/2020-21.md)
