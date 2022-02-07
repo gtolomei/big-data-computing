@@ -20,8 +20,8 @@ This is a first-year, second-semester course of the [MSc in Computer Science of 
 This repository contains class material along with any useful information for the 2021-2022 academic year.
 
 ### Class Schedule
-- **Wednesday** from **5:00PM** to **7:00PM**
-- **Thursday** from **8:00AM** to **11:00AM**
+- **Tuesday** from **5:00PM** to **7:00PM**
+- **Wednesday** from **8:00AM** to **11:00AM**
 
 ### How to Attend Classes: TBA
 <!--According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
