@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--- **February 2022 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2021-22/2022-02-08_final_grades.pdf).-->
 - **February 2022 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 8, 2021, at 10:00 a.m. CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **February 2022 Exam Session**<br/>
