@@ -25,15 +25,14 @@ This repository contains class material along with any useful information for th
 - **Tuesday** from **5:00 p.m.** to **7:00 p.m.**
 - **Wednesday** from **8:00 a.m.** to **11:00 a.m.**
 
-### How to Attend Classes: TBA
-<!--According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
+### How to Attend Classes
+According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
 
-#### Attending Classes in Person: Room G50 - Building G, Viale Regina Elena 295
-Students who are willing to attend classes in presence must issue their request through the [Infostud Lab App](https://www.uniroma1.it/en/notizia/new-apps-sapienza-students) or the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)). Once the booking is confirmed - according to the class schedule above - students must go to Room G50, which is located on the 3rd floor of the Building G in viale Regina Elena 295.
+#### Attending Classes in Person: Room 1L - Via del Castro Laurenziano 7a
+Students who are willing to attend classes in-person must issue their request through the [Infostud Lab App](https://www.uniroma1.it/en/notizia/new-apps-sapienza-students) or the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)). Once the booking is confirmed - according to the class schedule above - students must go to Room 1L, which is located in Via del Castro Laurenziano 7a.
 
 #### Attending Classes Remotely: Zoom
-Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm
--->
+Students who are willing to attend classes remotely online **must** register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZAkdOysqjkiG9SU5I1rG-oENGV-RIfCxLwv
 
 ### Moodle Web Page
 Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=14454
