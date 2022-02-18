@@ -37,9 +37,8 @@ Students who are willing to attend classes remotely online **must** register to 
 ### Moodle Web Page
 Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=14454
 
-### Office Hours: TBA
-<!--- **Tuesday** from **2:00PM** to **4:00PM**, Room 106 located at the 1st floor of Building E in viale Regina Elena 295.<br>
-(**NOTE:** Due to the COVID-19 emergency, office hours will be exclusively held **online** via Google Meet or Zoom upon email request message sent to the following address: tolomei@di.uniroma1.it)-->
+### Office Hours
+Please, drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> in case you would like to schedule a meeting, either online (i.e., via Google Meet or Zoom) or in-person (i.e., in Room 106 located at the 1st floor of Building E in Viale Regina Elena 295).
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
