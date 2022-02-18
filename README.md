@@ -55,10 +55,12 @@ This course is intended to provide graduate-level students with a deep understan
 ### Prerequisites
 The course assumes that students are familiar with the basics of data analysis and machine learning, properly supported by a strong knowledge of foundational concepts of calculus, linear algebra, and probability and statistics. In addition, students must have non-trivial computer programming skills (preferably using Python programming language). Previous experience with Hadoop, Spark, or distributed computing is not required.
 
-### Exams: TBA
-<!--Students must prove their level of comprehension of the subject by developing a software project, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation using very-large datasets in _any_ application domain of interest. The topic of the project must anyway be agreed with the professor in advance; references where to select interesting projects from will be however suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)).
+### Exams
+Students must prove their level of comprehension of the subject by developing a **software project**, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation (just to name a few) using very-large datasets in _any_ application domain of interest.<br/>
+Anyway, the topic of the project **must be first agreed with the teacher** through a proposal that must be sent **at least one month before** the targeted project submission deadline. **NOTE:** _Only the projects that have been successfully approved will be considered for grading!_<br/>
+References where to select interesting projects will be suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)). However, I strongly encourage you to come up with your own original ideas, as creativity will be very much appreciated.<br/>
 Projects can be done either **individually** or in group of **at most 2 students**, and they should be accompanied by a brief presentation written in english (e.g., a few PowerPoint slides). Finally, there will be an oral exam where submitted projects will be discussed in english; other questions on _any_ topic addressed during the course may also be asked, but those can be answered either in english or in italian, as the student prefers.<br/>
-A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).-->
+A document containing the main guidelines for the final project will be made available soon. Please, stay tuned! <!--[here](./extra/Final_Project_Guidelines.pdf).-->
 
 ### Recommended Textbooks
 No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
