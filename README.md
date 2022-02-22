@@ -76,7 +76,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 ## Syllabus: TBA
 
-<!--**Introduction**
+**Introduction**
 - The Big Data Phenomenon
 - The Big Data Infrastructure
     - Distributed File Systems (HDFS)
@@ -114,9 +114,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 <hr>
 
-## Environment Setup
+## Environment Setup: TBA
 
-### PySpark + Databricks
+<!--### PySpark + Databricks
 In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Databricks](https://databricks.com/). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
 - Zero configuration required;
 - Free access to Databricks' powerful cloud infrastructure (including GPUs);
@@ -162,7 +162,7 @@ In case you would like to install and configure PySpark _also_ on your local mac
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-<!--| Lecture 1   | 02/23/2021 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 1   | 02/22/2022 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 02/24/2021 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
 | Lecture 3   | 03/03/2021 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
 | Lecture 4   | 03/09/2021 | PySpark Tutorial (with Databricks) | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
