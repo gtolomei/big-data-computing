@@ -114,7 +114,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 <hr>
 
-## Environment Setup: TBA
+## Environment Setup: Google Colab + PySpark
 
 <!--### PySpark + Databricks
 In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Databricks](https://databricks.com/). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
@@ -164,8 +164,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 |-------------|------------|-----------------------------------------------|-----------------|
 | Lecture 1   | 02/22/2022 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 02/23/2022 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 3   | 03/03/2021 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
-| Lecture 4   | 03/09/2021 | PySpark Tutorial (with Databricks) | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
+<!--| Lecture 3   | 03/01/2022 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
+| Lecture 4   | 03/02/2022 | PySpark Tutorial (with Databricks) | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
 | Lecture 5-6  | 03/10/2021 - 03/16/2021 | Clustering | [slides: <a href="./slides/04_Clustering.pdf" target="_blank">PDF</a>] |
 | Lecture 7-8 | 03/17/2021 - 03/23/2021 | Clustering Algorithms: K-means | [slides: <a href="./slides/05_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
 | Lecture 9   | 03/24/2021 | Document Clustering with PySpark | [slides: <a href="./slides/06_Document_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Document_Clustering.ipynb" target="_blank">ipynb</a>] |
