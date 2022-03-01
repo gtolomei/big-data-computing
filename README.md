@@ -114,40 +114,15 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 <hr>
 
-## Environment Setup: Google Colab + PySpark
+## Environment Setup
 
-<!--### PySpark + Databricks
-In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Databricks](https://databricks.com/). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
+### PySpark + Google Colaboratory
+In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Google Colaboratory](https://colab.research.google.com/) (or "Colab" for short). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
 - Zero configuration required;
-- Free access to Databricks' powerful cloud infrastructure (including GPUs);
+- Free access to Google's powerful cloud infrastructure (including GPUs);
 - Easy sharing.
 
-#### Why Databricks?
-Starting from this year, our Big Data Computing class at Sapienza has joined the [Databricks University Alliance](https://databricks.com/university). This is a very active community of educators and faculty members who collaboratively share ideas, thoughts, and actual material on how to improve their teaching experience of Data-Science-like classes, which ultimately allow students to learn the latest data science tools used in the industry.
-
-#### Where Should I Start with Databricks?
-The first thing you have to do in order to start using Databricks is to set up a personal account.
-Databricks accounts come in two flavours: 
-- **Full Platform** (_payment_, _14-day trial_)
-- **Community Edition** (_free_)
-
-The former is the standard payment account, which gives you access to the fully-fledged Databricks' data analytics platform based either on Microsoft Azure or Amazon AWS computational resources.
-The latter, instead, allows you to enjoy Databricks on Amazon AWS for free (of course with some limitations!)
-
-For the aim of our class, students **must all** sign up for a personal **Databricks Community Edition** account using this [link](https://community.cloud.databricks.com/login.html). 
-Please, be sure to select the correct type of account, as highlighted in the snapshot below:
-
-![Databricks Account Sign Up](./img/databricks_account.png)
-
-For any further information, please follow the instructions provided in the [documentation](https://docs.databricks.com/getting-started/try-databricks.html#community-edition-1).
-
-#### What Databricks Resources Should I Use?
-Many big companies have started relying on Databricks platform for running their data analytics tasks. As such, Databricks is really well-documented and provides you with a lot of useful material to consult. Among such material, I would suggest you to check out the following:
-- A self-paced training course, whose instructions on how to access it are available [here](./databricks/databricks_self_paced_training.pdf)
-- A [four-part tutorial](https://databricks.com/discover/introduction-to-data-analysis-workshop-series) on data analyitics with Databricks
-- The official [Databricks documentation](https://docs.databricks.com/)
-
-##
+Of course, the same can be achieved also on your own local machine but that would require: _(i)_ dealing with clumsy installation issues that are very specific to your platform, and _(ii)_ sticking to "small" rather than real "big" data, as your machine cannot compare with Google's infrastructure!
 
 Optionally, you may also want to install PySpark on your own local machine.
 
