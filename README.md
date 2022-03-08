@@ -10,7 +10,7 @@ Project submission week opens up on **March 19, 2022 at 00:00 a.m. CET** ([Centr
 - **February 2022 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-02-08_final_grades.pdf).
 - **February 2022 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 8, 2021, at 10:00 a.m. CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 8, 2022, at 10:00 a.m. CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **February 2022 Exam Session**<br/>
 Registrations to the February 2022 exam session are open on Infostud (id **793404**), and so they will until **February 4, 2022**.
 Project submission week opens up on **January 29, 2022 at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **February 4, 2022 at 11:59 p.m. CET**.<br/>
