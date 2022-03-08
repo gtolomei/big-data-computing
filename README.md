@@ -85,7 +85,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - PySpark + Databricks
 
 **Unsupervised Learning: Clustering**
-- Similarity Measures (The Curse of Dimensionality)
+- The Curse of Dimensionality (Similarity Measures)
 - Algorithms: K-means
 - Example: Document Clustering
 
