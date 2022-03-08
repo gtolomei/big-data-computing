@@ -3,6 +3,10 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **March 2022 Exam Session (Extra)**<br/>
+Registrations to the March 2022 exam session (extra) are open on Infostud (id **814638**), and so they will until **March 25, 2022**.
+Project submission week opens up on **March 19, 2022 at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **March 25, 2022 at 11:59 p.m. CET**.<br/>
+**NOTE:** _This extra session is reserved **only** for part-time or working students, students with learning disabilities, students who have not completed university exams within the set time period, as well as students who are about to graduate. Only the students who successfully issued their request on time will be allowed to participate in this session!_
 - **February 2022 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-02-08_final_grades.pdf).
 - **February 2022 Exam Session: Project Presentation Schedule**<br/>
