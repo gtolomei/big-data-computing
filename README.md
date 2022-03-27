@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **March 2022 Exam Session (Extra): Project Presentation Schedule**<br/>
+Presentations of the projects that have been accepted for oral discussion is scheduled for **March 28, 2022, at 3:00 p.m. CEST**. The discussion will take place **in person** in **Room G0**, which is located in Viale Regina Elena 295. Alternatively, candidates who cannot participate in person, can join the meeting remotely via Google Meet, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **March 2022 Exam Session (Extra)**<br/>
 Registrations to the March 2022 exam (extra) session are open on Infostud (id **814638**), and so they will be until **March 25, 2022**.
 Project submission week opens up on **March 19, 2022, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **March 25, 2022, at 11:59 p.m. CET**.<br/>
