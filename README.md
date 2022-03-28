@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **March 2022 Exam Session (Extra): Final Grades**<br/>
+Final grades are available at this [link](./exams/2021-22/2022-03-28_final_grades.pdf).
 - **March 2022 Exam Session (Extra): Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion is scheduled for **March 28, 2022, at 3:00 p.m. CEST**. The discussion will take place **in person** in **Room G0**, which is located in Viale Regina Elena 295. Alternatively, candidates who cannot participate in person, can join the meeting remotely via Google Meet, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **March 2022 Exam Session (Extra)**<br/>
