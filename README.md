@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **IMPORTANT NOTICE:**<br/>
+Both today's (**April 5**) and tomorrow's (**April 6**) lectures are **canceled**.
 - **March 2022 Exam Session (Extra): Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-03-28_final_grades.pdf).
 - **March 2022 Exam Session (Extra): Project Presentation Schedule**<br/>
