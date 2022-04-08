@@ -4,6 +4,8 @@
 
 ## News
 - **IMPORTANT NOTICE:**<br/>
+At least, the following two lectures scheduled for **Tuesday, April 12, from 5:00 p.m. to 7:00 p.m.**, and **Wednesday, April 13, from 8:00 a.m. to 11:00 a.m.** will take place **entirely and exclusively online via Zoom** at the usual [link](https://uniroma1.zoom.us/meeting/register/tZAkdOysqjkiG9SU5I1rG-oENGV-RIfCxLwv).
+- **IMPORTANT NOTICE:**<br/>
 Both today's (**April 5**) and tomorrow's (**April 6**) lectures are **canceled**.
 - **March 2022 Exam Session (Extra): Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-03-28_final_grades.pdf).
