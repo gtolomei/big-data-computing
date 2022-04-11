@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf). Please, check it out!
 - **IMPORTANT NOTICE:**<br/>
 At least, the following two lectures scheduled for **Tuesday, April 12, from 5:00 p.m. to 7:00 p.m.**, and **Wednesday, April 13, from 8:00 a.m. to 11:00 a.m.** will take place **entirely and exclusively online via Zoom** at the usual [link](https://uniroma1.zoom.us/meeting/register/tZAkdOysqjkiG9SU5I1rG-oENGV-RIfCxLwv).
 - **IMPORTANT NOTICE:**<br/>
@@ -72,7 +73,7 @@ Students must prove their level of comprehension of the subject by developing a 
 Anyway, the topic of the project **must be first agreed with the teacher** through a proposal that must be sent **at least one month before** the targeted project submission deadline. **NOTE:** _Only the projects that have been successfully approved will be considered for grading!_<br/>
 References where to select interesting projects will be suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)). However, I strongly encourage you to come up with your own original ideas, as creativity will be very much appreciated.<br/>
 Projects can be done either **individually** or in group of **at most 2 students**, and they should be accompanied by a brief presentation written in english (e.g., a few PowerPoint slides). Finally, there will be an oral exam where submitted projects will be discussed in english; other questions on _any_ topic addressed during the course may also be asked, but those can be answered either in english or in italian, as the student prefers.<br/>
-A document containing the main guidelines for the final project will be made available soon. Please, stay tuned! <!--[here](./extra/Final_Project_Guidelines.pdf).-->
+A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
 
 ### Recommended Textbooks
 No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
