@@ -162,7 +162,7 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 11   | 03/29/2022 | Principal Component Analysis with PySpark | [notebook: <a href="./notebooks/Principal_Component_Analysis.ipynb" target="_blank">ipynb</a>] |
 | Lecture 12  | 03/30/2022 | Supervised Learning (Part I): Data Preparation | [slides: <a href="./slides/12_Supervised_Learning_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 13  | 04/12/2022 | Supervised Learning (Part II): Model Training | [slides: <a href="./slides/13_Supervised_Learning_(Part_II).pdf" target="_blank">PDF</a>] |
-| Lecture 14  | 04/13/2022 | Linear Regression (OLS) | [slides: <a href="./slides/14_Linear_Regression.pdf" target="_blank">PDF</a>] |
+| Lecture 14  | 04/13/2022 | Linear Regression (OLS) | [slides: <a href="./slides/14_Linear_Regression.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 <!--| Lecture 16  | 04/21/2021 | Linear Regression with PySpark | [notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 | Lecture 17-18  | 04/27/2021-04/28/2021 | Logistic Regression | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 19  | 05/04/2021 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
