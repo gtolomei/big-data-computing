@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **June 2022 Exam Session: Project Proposal Submission**<br/>
+Project proposals for the upcoming June 2022 session will be accepted starting from **April 25, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 1, 2022, at 11:59 p.m. CEST**.<br/>
+Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=473749), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
 - A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf). Please, check it out!
 - **IMPORTANT NOTICE:**<br/>
 At least, the following two lectures scheduled for **Tuesday, April 12, from 5:00 p.m. to 7:00 p.m.**, and **Wednesday, April 13, from 8:00 a.m. to 11:00 a.m.** will take place **entirely and exclusively online via Zoom** at the usual [link](https://uniroma1.zoom.us/meeting/register/tZAkdOysqjkiG9SU5I1rG-oENGV-RIfCxLwv).
@@ -22,7 +25,7 @@ Final grades are available at this [link](./exams/2021-22/2022-02-08_final_grade
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 8, 2022, at 10:00 a.m. CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **February 2022 Exam Session**<br/>
 Registrations to the February 2022 exam session are open on Infostud (id **793404**), and so they will be until **February 4, 2022**.
-Project submission week opens up on **January 29, 2022 at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **February 4, 2022 at 11:59 p.m. CET**.<br/>
+Project submission week opens up on **January 29, 2022, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **February 4, 2022, at 11:59 p.m. CET**.<br/>
 (_Please, see the announcement below for additional details on how to submit your project during this session, which is the first one of the academic year 2021-22._)
 - Students who are planning to submit their projects **after** the January 2022 session should refer to the <a href="https://elearning.uniroma1.it/course/view.php?id=14454" target="_blank">Big Data Computing 2021-22 Moodle page</a>, rather than the current one (i.e., Big Data Computing 2020-21). This is to align exam sessions to the correct academic year, since academic year 2020-21 formally ends on January, 31 2022. As such, starting **from February 2022 until January 2023** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way, as usual. For example, the upcoming February Submission Week is available at the following <a href="https://elearning.uniroma1.it/mod/assign/view.php?id=447219" target="_blank">link</a>.<br/>(**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2021-22 sessions must subscribe to the Big Data Computing 2021-22 Moodle page!_)
 
