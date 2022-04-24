@@ -3,6 +3,11 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--
+- **June 2022 Exam Session: Registrations and Project Submission**<br/>
+Registrations to the June 2022 exam session are open on Infostud (id **814638**), and so they will be until **June 7, 2022**.
+Project submission week opens up on **June 1, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 7, 2022, at 11:59 p.m. CEST**.<br/>
+-->
 - **June 2022 Exam Session: Project Proposal Submission**<br/>
 Project proposals for the upcoming June 2022 session will be accepted starting from **April 25, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 1, 2022, at 11:59 p.m. CEST**.<br/>
 Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=473749), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
