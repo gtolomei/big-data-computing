@@ -172,9 +172,9 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 13  | 04/12/2022 | Supervised Learning (Part II): Model Training | [slides: <a href="./slides/13_Supervised_Learning_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lecture 14  | 04/13/2022 | Linear Regression (OLS) | [slides: <a href="./slides/14_Linear_Regression.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 | Lecture 15  | 04/20/2022 | Logistic Regression (Part I): Model | [slides: <a href="./slides/15-16_Logistic_Regression.pdf" target="_blank">PDF</a>] |
-| Lecture 16  | 04/26/2022 | Logistic Regression (Part II): Cost Function | [slides: <a href="./slides/15-16_Logistic_Regression.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 17-18  | 04/27/2021-04/28/2021 | Logistic Regression | [slides: <a href="./slides/10_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
-| Lecture 19  | 05/04/2021 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
+| Lecture 16  | 04/26/2022 | Logistic Regression (Part II): Cost Function | [slides: <a href="./slides/15-16_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
+| Lecture 17| 04/27/2022 | Gradient Descent | [slides: <a href="./slides/17_Gradient_Descent.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 19  | 05/04/2021 | Decision Trees and Ensembles | [slides: <a href="./slides/11_Decision_Trees_and_Ensembles.pdf" target="_blank">PDF</a>]|
 | Lecture 20  | 05/05/2021 | Evaluation Metrics for Classification | [slides: <a href="./slides/12_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
 | Lecture 21  | 05/11/2021 | Recommender Systems (Part I) | [slides: <a href="./slides/13_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 22  | 05/12/2021 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
