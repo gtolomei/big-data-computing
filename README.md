@@ -174,7 +174,7 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 16  | 04/26/2022 | Logistic Regression (Part II): Cost Function | [slides: <a href="./slides/15-16_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 17| 04/27/2022 | Gradient Descent | [slides: <a href="./slides/17_Gradient_Descent.pdf" target="_blank">PDF</a>] |
 | Lecture 18  | 05/03/2022 | Decision Trees and Ensembles (Part I) | [slides: <a href="./slides/18_Decision_Trees_and_Ensembles_(Part_I).pdf" target="_blank">PDF</a>]|
-| Lecture 19  | 05/04/2022 | Decision Trees and Ensembles (Part II) | [slides: <a href="./slides/18_Decision_Trees_and_Ensembles_(Part_II).pdf" target="_blank">PDF</a>]|
+| Lecture 19  | 05/04/2022 | Decision Trees and Ensembles (Part II) | [slides: <a href="./slides/19_Decision_Trees_and_Ensembles_(Part_II).pdf" target="_blank">PDF</a>]|
 <!--| Lecture 20  | 05/05/2021 | Evaluation Metrics for Classification | [slides: <a href="./slides/12_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
 | Lecture 21  | 05/11/2021 | Recommender Systems (Part I) | [slides: <a href="./slides/13_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 22  | 05/12/2021 | Recommender Systems (Part II) | [slides: <a href="./slides/13_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
