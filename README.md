@@ -182,10 +182,9 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 21  | 05/11/2022 | Recommender Systems (Part I) | [slides: <a href="./slides/21_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 22  | 05/17/2022 | Recommender Systems (Part II) | [slides: <a href="./slides/22_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 23  | 05/18/2022 | Recommender Systems (Part III) | [slides: <a href="./slides/23_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
-<!--| Lecture 23  | 05/18/2021 | Graph Link Analysis | [slides: <a href="./slides/14_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
-| Lecture 24  | 05/19/2021 | PageRank | [slides: <a href="./slides/15_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/PageRank.ipynb" target="_blank">ipynb</a>]|
-| ----------  | 05/19/2021 | The Last Take Home Message | [slides: <a href="./slides/16_The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
--->
+| Lecture 24  | 05/24/2022 | Graph Link Analysis | [slides: <a href="./slides/24_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
+| Lecture 25  | 05/25/2022 | PageRank | [slides: <a href="./slides/25_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|<!--, notebook: <a href="./notebooks/PageRank.ipynb" target="_blank">ipynb</a>]|-->
+| ----------  | 05/25/2022 | The Last Take Home Message | [slides: <a href="./slides/The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
 <hr>
 
 # Previous Years
