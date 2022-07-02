@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **July 2022 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2021-22/2022-07-01_final_grades.pdf).
 - **June 2022 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-06-10_final_grades.pdf).
 - **July 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
