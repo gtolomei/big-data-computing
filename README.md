@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **September 2022 Exam Session: Call for Project Proposals**<br/>
+Project proposals for the September 2022 session will be accepted starting from **July 6, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **July 12, 2022, at 11:59 p.m. CEST**.<br/>
+Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=486041), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
 - **July 2022 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-07-01_final_grades.pdf).
 - **June 2022 Exam Session: Final Grades**<br/>
@@ -13,14 +16,14 @@ Project submission week opens up on **June 22, 2022, at 00:00 a.m. CEST** ([Cent
 Projects accepted for oral discussion will be presented on **June 30 and, if needed, July 1, 2022, at 9:30 a.m. CEST**. The discussion will take place **exclusively remotely** via Google Meet. More information about how to join this meeting will be sent close to the presentation date. <strike>**in person** in **Room G50**, which is located in Viale Regina Elena 295. Alternatively, candidates who cannot participate in person can join the meeting remotely via Google Meet, using the link that will be sent close to the presentation date.</strike><br/> 
 _Everyone is welcome to join!_
 - **July 2022 Exam Session: Call for Project Proposals**<br/>
-Project proposals for the upcoming July 2022 session will be accepted starting from **May 23, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 29, 2022, at 11:59 p.m. CEST**.<br/>
+Project proposals for the July 2022 session will be accepted starting from **May 23, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 29, 2022, at 11:59 p.m. CEST**.<br/>
 Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=480217), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
 - **June 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
 Registrations to the June 2022 exam session are open on Infostud (id **819129**), and so they will be until **June 7, 2022**.<br/>
 Project submission week opens up on **June 1, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 7, 2022, at 11:59 p.m. CEST**.<br/>
 Projects accepted for oral discussion will be presented on **June 9 and 10, 2022, at 9:30 a.m. CEST**. The discussion will take place **in person** in **Room G50**, which is located in Viale Regina Elena 295. Alternatively, candidates who cannot participate in person can join the meeting remotely via Google Meet, using the link that will be sent close to the presentation date. _Everyone is welcome to join!_
 - **June 2022 Exam Session: Call for Project Proposals**<br/>
-Project proposals for the upcoming June 2022 session will be accepted starting from **April 25, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 1, 2022, at 11:59 p.m. CEST**.<br/>
+Project proposals for the June 2022 session will be accepted starting from **April 25, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 1, 2022, at 11:59 p.m. CEST**.<br/>
 Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=473749), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
 - A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf). Please, check it out!
 - **IMPORTANT NOTICE:**<br/>
