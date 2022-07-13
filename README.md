@@ -3,6 +3,10 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **September 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
+Registrations to the September 2022 exam session are open on Infostud (id **824956**), and so they will be until **September 6, 2022**.<br/>
+Project submission week opens up on **August 31, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 6, 2022, at 11:59 p.m. CEST**.<br/>
+Projects accepted for oral discussion will be presented on **September 8 at 9:30 a.m. CEST and, if needed, on September 9 at 2:00 p.m. CEST**. More details on how to attend the oral session will be provided soon. _Stay tuned!_
 - **September 2022 Exam Session: Call for Project Proposals**<br/>
 Project proposals for the September 2022 session will be accepted starting from **July 6, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **July 12, 2022, at 11:59 p.m. CEST**.<br/>
 Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=486041), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
