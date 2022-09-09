@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **September 2022 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2021-22/2022-09-09_final_grades.pdf).
 - **September 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
 Registrations to the September 2022 exam session are open on Infostud (id **824956**), and so they will be until **September 6, 2022**.<br/>
 Project submission week opens up on **August 31, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 6, 2022, at 11:59 p.m. CEST**.<br/>
