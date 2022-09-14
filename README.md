@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **November 2022 Exam Session (Extra): Call for Project Proposals**<br/>
+Project proposals for the November 2022 extra session will be accepted starting from **September 15, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **September 21, 2022, at 11:59 p.m. CEST**.<br/>
+Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=492934), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
 - **September 2022 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-09-09_final_grades.pdf).
 - **September 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
