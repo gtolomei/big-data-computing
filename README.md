@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **October 2022 Exam Session (Extra): Final Grades**<br/>
+Final grades are available at this [link](./exams/2021-22/2022-10-24_final_grades.pdf).
 - **October 2022 Exam Session (Extra): Registration, Project Submission and Presentation**<br/>
 Registrations to the October 2022 exam session (extra) are open on Infostud (id **840632**), and so they will be until **October 23, 2022**.<br/>
 Project submission week opens up on **October 17, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **October 23, 2022, at 11:59 p.m. CEST**.<br/>
