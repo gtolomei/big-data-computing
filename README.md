@@ -3,6 +3,15 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--- **January 2023 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2021-22/2023-01-23_final_grades.pdf).-->
+- **January 2023 Exam Session: Registration, Project Submission and Presentation**<br/>
+Registrations to the January 2023 exam session are open on Infostud (id **858976**), and so they will be until **January 22, 2023**.<br/>
+Project submission week opens up on **January 16, 2023, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **January 22, 2023, at 11:59 p.m. CEST**.<br/>
+More information will be provided soon about how projects accepted for oral discussion will be presented.
+- **January 2023 Exam Session: Call for Project Proposals**<br/>
+Project proposals for the January 2023 session will be accepted starting from **December 5, 2022, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) until **December 11, 2022, at 11:59 p.m. CEST**.<br/>
+Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=521090), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
 - **October 2022 Exam Session (Extra): Final Grades**<br/>
 Final grades are available at this [link](./exams/2021-22/2022-10-24_final_grades.pdf).
 - **October 2022 Exam Session (Extra): Registration, Project Submission and Presentation**<br/>
