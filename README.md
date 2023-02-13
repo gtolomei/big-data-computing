@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **IMPORTANT:** Classes will start one week after expected, **from Monday, February 27, 2023**.
 <!--- **February 2023 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2022-23/2023-02-16_final_grades.pdf).-->
 - **February 2023 Exam Session: Project Presentation Schedule**<br/>
@@ -19,7 +20,7 @@ Welcome to the Big Data Computing class!
 
 This is a first-year, second-semester course of the [MSc in Computer Science of Sapienza University of Rome](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).
 
-This repository contains class material along with any useful information for the 2021-2022 academic year.
+This repository contains class material along with any useful information for the 2022-2023 academic year.
 
 ### Class Schedule
 - **Monday** from **2:00 p.m.** to **5:00 p.m.** in Aula Magna - "Building C" at Viale Regina Elena 295
