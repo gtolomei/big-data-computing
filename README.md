@@ -1,80 +1,17 @@
-# Big Data Computing (2021-2022)
+# Big Data Computing (2022-2023)
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
-- **January 2023 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2023-01-30_final_grades.pdf).
+<!--- **February 2023 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2022-23/2023-02-16_final_grades.pdf).-->
+- **February 2023 Exam Session: Project Presentation Schedule**<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 16, 2023, at 9:00 a.m. CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
+- **February 2023 Exam Session**<br/>
+Registrations to the February 2023 exam session are open on Infostud (id **861623**), and so they will be until **February 12, 2023**.
+Project submission week opens up on **February 6, 2023, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **February 12, 2023, at 11:59 p.m. CET**.<br/>
+(_Please, see the announcement below for additional details on how to submit your project during this session, which is the first one of the academic year 2022-23._)
 - Students who are planning to submit their projects **after** the January 2023 session should refer to the _new_ <a href="https://elearning.uniroma1.it/course/view.php?id=16079" target="_blank">Big Data Computing 2022-23 Moodle page</a>, rather than the current one (i.e., Big Data Computing 2021-22). This is to align exam sessions to the correct academic year since the academic year 2021-22 formally ends on January 31, 2023. As such, **from February 2023 until January 2024**, all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their proposals and projects on the corresponding submission links opened along the way, as usual. For example, the upcoming Call for Project Proposals for February 2023 Exam Session is available at the following <a href="https://elearning.uniroma1.it/mod/assign/view.php?id=527526" target="_blank">link</a>.<br/>(**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2022-23 sessions must subscribe to the Big Data Computing 2022-23 Moodle page!_)
-<!--- **January 2023 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2023-01-23_final_grades.pdf).-->
-- **January 2023 Exam Session: Registration, Project Submission and Presentation**<br/>
-Registrations to the January 2023 exam session are open on Infostud (id **858976**), and so they will be until **January 22, 2023**.<br/>
-Project submission week opens up on **January 16, 2023, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **January 22, 2023, at 11:59 p.m. CEST**.<br/>
-More information will be provided soon about how projects accepted for oral discussion will be presented.
-- **January 2023 Exam Session: Call for Project Proposals**<br/>
-Project proposals for the January 2023 session will be accepted starting from **December 5, 2022, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) until **December 11, 2022, at 11:59 p.m. CEST**.<br/>
-Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=521090), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
-- **October 2022 Exam Session (Extra): Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2022-10-24_final_grades.pdf).
-- **October 2022 Exam Session (Extra): Registration, Project Submission and Presentation**<br/>
-Registrations to the October 2022 exam session (extra) are open on Infostud (id **840632**), and so they will be until **October 23, 2022**.<br/>
-Project submission week opens up on **October 17, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **October 23, 2022, at 11:59 p.m. CEST**.<br/>
-Projects accepted for oral discussion will be presented on **October 24, 2022, at 10:00 a.m. CEST**. The discussion will take place **exclusively remotely** via Google Meet. More information about how to join this meeting will be sent close to the presentation date.<br/>
-**IMPORTANT NOTE:** _This session is reserved **only** for eligible students who issued their request to the administration office by the specified deadline (**September 25, 2022, at 11:59 p.m. CEST**).<br/>Please, **do not** register to this exam on Infostud if you are not allowed to do so; otherwise, your project **will not** be considered for grading anyway._
-- **October 2022 Exam Session (Extra): Call for Project Proposals**<br/>
-Project proposals for the November 2022 exam (extra) session will be accepted starting from **September 15, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **September 21, 2022, at 11:59 p.m. CEST**.<br/>
-Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=492934), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
-- **September 2022 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2022-09-09_final_grades.pdf).
-- **September 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
-Registrations to the September 2022 exam session are open on Infostud (id **824956**), and so they will be until **September 6, 2022**.<br/>
-Project submission week opens up on **August 31, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 6, 2022, at 11:59 p.m. CEST**.<br/>
-Projects accepted for oral discussion will be presented on **September 8 at 9:30 a.m. CEST and, if needed, on September 9 at 2:00 p.m. CEST**. The discussion will take place **exclusively remotely** via Google Meet. More information about how to join this meeting will be sent close to the presentation date.
-- **September 2022 Exam Session: Call for Project Proposals**<br/>
-Project proposals for the September 2022 session will be accepted starting from **July 6, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **July 12, 2022, at 11:59 p.m. CEST**.<br/>
-Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=486041), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
-- **July 2022 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2022-07-01_final_grades.pdf).
-- **June 2022 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2022-06-10_final_grades.pdf).
-- **July 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
-Registrations to the July 2022 exam session are open on Infostud (id **822764**), and so they will be until **June 28, 2022**.<br/>
-Project submission week opens up on **June 22, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 28, 2022, at 11:59 p.m. CEST**.<br/>
-Projects accepted for oral discussion will be presented on **June 30 and, if needed, July 1, 2022, at 9:30 a.m. CEST**. The discussion will take place **exclusively remotely** via Google Meet. More information about how to join this meeting will be sent close to the presentation date. <strike>**in person** in **Room G50**, which is located in Viale Regina Elena 295. Alternatively, candidates who cannot participate in person can join the meeting remotely via Google Meet, using the link that will be sent close to the presentation date.</strike><br/> 
-_Everyone is welcome to join!_
-- **July 2022 Exam Session: Call for Project Proposals**<br/>
-Project proposals for the July 2022 session will be accepted starting from **May 23, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 29, 2022, at 11:59 p.m. CEST**.<br/>
-Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=480217), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
-- **June 2022 Exam Session: Registration, Project Submission and Presentation**<br/>
-Registrations to the June 2022 exam session are open on Infostud (id **819129**), and so they will be until **June 7, 2022**.<br/>
-Project submission week opens up on **June 1, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 7, 2022, at 11:59 p.m. CEST**.<br/>
-Projects accepted for oral discussion will be presented on **June 9 and 10, 2022, at 9:30 a.m. CEST**. The discussion will take place **in person** in **Room G50**, which is located in Viale Regina Elena 295. Alternatively, candidates who cannot participate in person can join the meeting remotely via Google Meet, using the link that will be sent close to the presentation date. _Everyone is welcome to join!_
-- **June 2022 Exam Session: Call for Project Proposals**<br/>
-Project proposals for the June 2022 session will be accepted starting from **April 25, 2022, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 1, 2022, at 11:59 p.m. CEST**.<br/>
-Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=473749), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
-- A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf). Please, check it out!
-- **IMPORTANT NOTICE:**<br/>
-At least, the following two lectures scheduled for **Tuesday, April 12, from 5:00 p.m. to 7:00 p.m.**, and **Wednesday, April 13, from 8:00 a.m. to 11:00 a.m.** will take place **entirely and exclusively online via Zoom** at the usual [link](https://uniroma1.zoom.us/meeting/register/tZAkdOysqjkiG9SU5I1rG-oENGV-RIfCxLwv).
-- **IMPORTANT NOTICE:**<br/>
-Both today's (**April 5**) and tomorrow's (**April 6**) lectures are **canceled**.
-- **March 2022 Exam Session (Extra): Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2022-03-28_final_grades.pdf).
-- **March 2022 Exam Session (Extra): Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion is scheduled for **March 28, 2022, at 3:00 p.m. CEST**. The discussion will take place **in person** in **Room G0**, which is located in Viale Regina Elena 295. Alternatively, candidates who cannot participate in person, can join the meeting remotely via Google Meet, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
-- **March 2022 Exam Session (Extra)**<br/>
-Registrations to the March 2022 exam (extra) session are open on Infostud (id **814638**), and so they will be until **March 25, 2022**.
-Project submission week opens up on **March 19, 2022, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **March 25, 2022, at 11:59 p.m. CET**.<br/>
-**NOTE:** _This extra session is reserved **only** for part-time or working students, students with learning disabilities, students who have not completed university exams within the set time period, as well as students who are about to graduate. Only the students who successfully issued their request on time will be allowed to participate in this session!_
-- **February 2022 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2021-22/2022-02-08_final_grades.pdf).
-- **February 2022 Exam Session: Project Presentation Schedule**<br/>
-Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 8, 2022, at 10:00 a.m. CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
-- **February 2022 Exam Session**<br/>
-Registrations to the February 2022 exam session are open on Infostud (id **793404**), and so they will be until **February 4, 2022**.
-Project submission week opens up on **January 29, 2022, at 00:00 a.m. CET** ([Central European Time](https://time.is/CET)) and closes on **February 4, 2022, at 11:59 p.m. CET**.<br/>
-(_Please, see the announcement below for additional details on how to submit your project during this session, which is the first one of the academic year 2021-22._)
-- Students who are planning to submit their projects **after** the January 2022 session should refer to the <a href="https://elearning.uniroma1.it/course/view.php?id=14454" target="_blank">Big Data Computing 2021-22 Moodle page</a>, rather than the current one (i.e., Big Data Computing 2020-21). This is to align exam sessions to the correct academic year, since academic year 2020-21 formally ends on January, 31 2022. As such, starting **from February 2022 until January 2023** all the exam sessions will be displayed on the newly created Moodle page indicated above, where students will be allowed to submit their work on the corresponding Project Submission Week that will be opened along the way, as usual. For example, the upcoming February Submission Week is available at the following <a href="https://elearning.uniroma1.it/mod/assign/view.php?id=447219" target="_blank">link</a>.<br/>(**NOTE:** _Only students who expect to complete the exam in one of the upcoming 2021-22 sessions must subscribe to the Big Data Computing 2021-22 Moodle page!_)
 
 ## General Information
 
@@ -85,20 +22,11 @@ This is a first-year, second-semester course of the [MSc in Computer Science of 
 This repository contains class material along with any useful information for the 2021-2022 academic year.
 
 ### Class Schedule
-- **Tuesday** from **5:00 p.m.** to **7:00 p.m.**
-- **Wednesday** from **8:00 a.m.** to **11:00 a.m.**
-
-### How to Attend Classes
-According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
-
-#### Attending Classes in Person: Room 1L - Via del Castro Laurenziano 7a
-Students who are willing to attend classes in-person must issue their request through the [Infostud Lab App](https://www.uniroma1.it/en/notizia/new-apps-sapienza-students) or the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)). Once the booking is confirmed - according to the class schedule above - students must go to Room 1L, which is located in Via del Castro Laurenziano 7a.
-
-#### Attending Classes Remotely: Zoom
-Students who are willing to attend classes remotely online **must** register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZAkdOysqjkiG9SU5I1rG-oENGV-RIfCxLwv
+- **Monday** from **2:00 p.m.** to **5:00 p.m.** in Aula Magna - "Building C" at Viale Regina Elena 295
+- **Tuesday** from **8:00 a.m.** to **10:00 a.m.** in Room 1L at Via del Castro Laurenziano 7a
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=14454
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=16079
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
@@ -119,11 +47,11 @@ This course is intended to provide graduate-level students with a deep understan
 The course assumes that students are familiar with the basics of data analysis and machine learning, properly supported by a strong knowledge of foundational concepts of calculus, linear algebra, and probability and statistics. In addition, students must have non-trivial computer programming skills (preferably using Python programming language). Previous experience with Hadoop, Spark, or distributed computing is not required.
 
 ### Exams
-Students must prove their level of comprehension of the subject by developing a **software project**, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation (just to name a few) using very-large datasets in _any_ application domain of interest.<br/>
+<!--Students must prove their level of comprehension of the subject by developing a **software project**, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation (just to name a few) using very-large datasets in _any_ application domain of interest.<br/>
 Anyway, the topic of the project **must be first agreed with the teacher** through a proposal that must be sent **at least one month before** the targeted project submission deadline. **NOTE:** _Only the projects that have been successfully approved will be considered for grading!_<br/>
 References where to select interesting projects will be suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)). However, I strongly encourage you to come up with your own original ideas, as creativity will be very much appreciated.<br/>
 Projects can be done either **individually** or in group of **at most 2 students**, and they should be accompanied by a brief presentation written in english (e.g., a few PowerPoint slides). Finally, there will be an oral exam where submitted projects will be discussed in english; other questions on _any_ topic addressed during the course may also be asked, but those can be answered either in english or in italian, as the student prefers.<br/>
-A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
+A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).-->
 
 ### Recommended Textbooks
 No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
@@ -137,9 +65,10 @@ No textbooks are mandatory to successfully follow this course. However, there is
  
 <hr>
 
-## Syllabus: TBA
+## Syllabus
+TBA
 
-**Introduction**
+<!--**Introduction**
 - The Big Data Phenomenon
 - The Big Data Infrastructure
     - Distributed File Systems (HDFS)
@@ -174,11 +103,12 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Link Analysis
 - Algorithms: PageRank
 - Example: Ranking (a sample of) the Google Web Graph
-
+-->
 <hr>
 
 ## Environment Setup
-
+TBA
+<!--
 ### PySpark + Google Colaboratory
 In this course, we will be using the Python application programming interface to the Apache Spark framework (a.k.a. [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)), in combination with [Google Colaboratory](https://colab.research.google.com/) (or "Colab" for short). This will allows you to write and execute PySpark (as well as pure Python, for that matters) in your browser, with:
 - Zero configuration required;
@@ -193,13 +123,14 @@ Optionally, you may also want to install PySpark on your own local machine.
 
 ### Local Mode Setup [Optional]
 In case you would like to install and configure PySpark _also_ on your local machine, please follow the instructions described [here](./oldest/2019-20.md#Local-Mode-Setup). Note that those guidelines may refer to older (or, even worst, deprecated) versions of the required installation packages; please, see the official [PySpark documentation](https://pypi.org/project/pyspark/) for the the most updated installation instructions.
+-->
 <hr>
 
 ## Class Schedules
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-| Lecture 1   | 02/22/2022 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 1   | 02/22/2022 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 02/23/2022 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
 | Lecture 3   | 03/01/2022 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
 | Lecture 4   | 03/02/2022 | PySpark Tutorial | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
@@ -223,8 +154,9 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 22  | 05/17/2022 | Recommender Systems (Part II) | [slides: <a href="./slides/22_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 23  | 05/18/2022 | Recommender Systems (Part III) | [slides: <a href="./slides/23_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
 | Lecture 24  | 05/24/2022 | Graph Link Analysis | [slides: <a href="./slides/24_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
-| Lecture 25  | 05/25/2022 | PageRank | [slides: <a href="./slides/25_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|<!--, notebook: <a href="./notebooks/PageRank.ipynb" target="_blank">ipynb</a>]|-->
+| Lecture 25  | 05/25/2022 | PageRank | [slides: <a href="./slides/25_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|, notebook: <a href="./notebooks/PageRank.ipynb" target="_blank">ipynb</a>]|
 | ----------  | 05/25/2022 | The Last Take Home Message | [slides: <a href="./slides/The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
+-->
 <hr>
 
 # Previous Years
@@ -234,3 +166,4 @@ In the following, you can quickly navigate through Big Data Computing class info
 
 -   [2019-20](./oldest/2019-20.md)
 -   [2020-21](./oldest/2020-21.md)
+-   [2021-22](./oldest/2021-22.md)
