@@ -4,8 +4,8 @@
 
 ## News
 - **IMPORTANT:** Classes will start one week after expected, **from Monday, February 27, 2023**.
-<!--- **February 2023 Exam Session: Final Grades**<br/>
-Final grades are available at this [link](./exams/2022-23/2023-02-16_final_grades.pdf).-->
+- **February 2023 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2022-23/2023-02-16_final_grades.pdf).
 - **February 2023 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **February 16, 2023, at 9:00 a.m. CET**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **February 2023 Exam Session**<br/>
