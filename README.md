@@ -48,11 +48,11 @@ This course is intended to provide graduate-level students with a deep understan
 The course assumes that students are familiar with the basics of data analysis and machine learning, properly supported by a strong knowledge of foundational concepts of calculus, linear algebra, and probability and statistics. In addition, students must have non-trivial computer programming skills (preferably using Python programming language). Previous experience with Hadoop, Spark, or distributed computing is not required.
 
 ### Exams: TBA
-<!--Students must prove their level of comprehension of the subject by developing a **software project**, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation (just to name a few) using very-large datasets in _any_ application domain of interest.<br/>
-Anyway, the topic of the project **must be first agreed with the teacher** through a proposal that must be sent **at least one month before** the targeted project submission deadline. **NOTE:** _Only the projects that have been successfully approved will be considered for grading!_<br/>
+Students must prove their level of comprehension of the subject by developing a **software project**, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation (just to name a few) using very-large datasets in _any_ application domain of interest.<br/>
+Anyway, the topic of the project **must be first agreed** through a proposal that I must collect **at least one month before** the targeted project submission deadline. **NOTE:** _Only the projects that have been successfully approved will be considered for grading!_<br/>
 References where to select interesting projects will be suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)). However, I strongly encourage you to come up with your own original ideas, as creativity will be very much appreciated.<br/>
 Projects can be done either **individually** or in group of **at most 2 students**, and they should be accompanied by a brief presentation written in english (e.g., a few PowerPoint slides). Finally, there will be an oral exam where submitted projects will be discussed in english; other questions on _any_ topic addressed during the course may also be asked, but those can be answered either in english or in italian, as the student prefers.<br/>
-A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).-->
+A document containing the main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf).
 
 ### Recommended Textbooks
 No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
@@ -66,9 +66,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
  
 <hr>
 
-## Syllabus: TBA
+## Syllabus:
 
-<!--**Introduction**
+**Introduction**
 - The Big Data Phenomenon
 - The Big Data Infrastructure
     - Distributed File Systems (HDFS)
@@ -103,7 +103,10 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Link Analysis
 - Algorithms: PageRank
 - Example: Ranking (a sample of) the Google Web Graph
--->
+
+**Anything Else?**
+- ...
+
 <hr>
 
 ## Environment Setup: TBA
@@ -129,8 +132,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-<!--| Lecture 1   | 02/22/2022 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
-| Lecture 2   | 02/23/2022 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
+| Lecture 1   | 02/27/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 2   | 02/23/2022 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
 | Lecture 3   | 03/01/2022 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
 | Lecture 4   | 03/02/2022 | PySpark Tutorial | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
 | Lecture 5  | 03/08/2022 | The Curse of Dimensionality | [slides: <a href="./slides/05_The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>] |
