@@ -133,8 +133,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
 | Lecture 1   | 02/27/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 2   | 02/23/2022 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
-| Lecture 3   | 03/01/2022 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
+| Lecture 2   | 02/28/2023 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 3   | 03/01/2022 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
 | Lecture 4   | 03/02/2022 | PySpark Tutorial | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
 | Lecture 5  | 03/08/2022 | The Curse of Dimensionality | [slides: <a href="./slides/05_The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>] |
 | Lecture 6 | 03/09/2022 | Clustering Algorithms (Part I): K-means | [slides: <a href="./slides/06-07_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
