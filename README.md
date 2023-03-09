@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **ANNOUNCEMENT:** Lectures 5 and 6 on **Monday, March 13, and Tuesday, March 14** will be held **remotely via Zoom**. Please, refer to the message sent on the Moodle forum for further information on how to attend these classes.
 - **IMPORTANT:** Classes will start one week after expected, **from Monday, February 27, 2023**.
 - **February 2023 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2022-23/2023-02-16_final_grades.pdf).
