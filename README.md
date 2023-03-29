@@ -52,7 +52,7 @@ This course is intended to provide graduate-level students with a deep understan
 ### Prerequisites
 The course assumes that students are familiar with the basics of data analysis and machine learning, properly supported by a strong knowledge of foundational concepts of calculus, linear algebra, and probability and statistics. In addition, students must have non-trivial computer programming skills (preferably using Python programming language). Previous experience with Hadoop, Spark, or distributed computing is not required.
 
-### Exams: TBA
+### Exams
 Students must prove their level of comprehension of the subject by developing a **software project**, leveraging the set of methodologies and tools introduced during classes. Projects must of course refer to typical Big Data tasks: e.g., clustering, prediction, recommendation (just to name a few) using very-large datasets in _any_ application domain of interest.<br/>
 Anyway, the topic of the project **must be first agreed** through a proposal that I must collect **at least one month before** the targeted project submission deadline. **NOTE:** _Only the projects that have been successfully approved will be considered for grading!_<br/>
 References where to select interesting projects will be suggested throughout the course (e.g., [Kaggle](https://www.kaggle.com/)). However, I strongly encourage you to come up with your own original ideas, as creativity will be very much appreciated.<br/>
