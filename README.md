@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **April 2023 Exam Session (Extra): Project Presentation Schedule**<br/>
+Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **April 6, 2023, at 11:00 a.m. CEST**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **March/April 2023 Exam Session (Extra)**<br/>
 Registrations to the March/April 2023 exam session (extra) are open on Infostud (id **869777**), and so they will be until **April 3, 2023**.
 Project submission week opens up on **March 30, 2023, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **April 4, 2023, at 11:59 p.m. CEST**.<br>
