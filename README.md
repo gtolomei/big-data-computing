@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **April 2023 Exam Session (Extra): Final Grades**<br/>
+Final grades are available at this [link](./exams/2022-23/2023-04-06_final_grades.pdf).
 - **April 2023 Exam Session (Extra): Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on **April 6, 2023, at 11:00 a.m. CEST**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **March/April 2023 Exam Session (Extra)**<br/>
