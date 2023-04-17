@@ -153,7 +153,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 10   | 03/28/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/10_Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Principal_Component_Analysis.ipynb" target="_blank">ipynb</a>] |
 | Lecture 11  | 04/03/2023 | Supervised Learning (Part I): Data Preparation | [slides: <a href="./slides/11_Supervised_Learning_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 12  | 04/04/2023 | Supervised Learning (Part II): Model Training | [slides: <a href="./slides/12_Supervised_Learning_(Part_II).pdf" target="_blank">PDF</a>] |
-| Lecture 13  | 04/17/2023 | Linear Regression (OLS) | [slides: <a href="./slides/13_Linear_Regression.pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
+| Lecture 13  | 04/17/2023 | Linear Regression (OLS): Part I | [slides: <a href="./slides/13_Linear_Regression.pdf" target="_blank">PDF</a>] |
+| Lecture 14  | 04/18/2023 | Linear Regression (OLS): Part II | [slides: <a href="./slides/13_Linear_Regression.pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 <!--| Lecture 15  | 04/20/2022 | Logistic Regression (Part I): Model | [slides: <a href="./slides/15-16_Logistic_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 16  | 04/26/2022 | Logistic Regression (Part II): Cost Function | [slides: <a href="./slides/15-16_Logistic_Regression.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 17| 04/27/2022 | Gradient Descent | [slides: <a href="./slides/17_Gradient_Descent.pdf" target="_blank">PDF</a>] |
