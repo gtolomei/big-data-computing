@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **ANNOUNCEMENT:** Lectures 15 and 16 on **Monday, April 24, and Tuesday, May 2** will be held **remotely via Zoom**. Please, refer to the message sent on the Moodle forum for further information on how to attend these classes.<br/>
+[_**NOTE: There will be no class on Tuesday, April 25, and Monday, May 1**_]
 - In anticipation of the first upcoming Call for Project proposals, please have a look at the list of past submitted projects **as of today** at the following [link](./extra/Project_List.pdf).
 - **April 2023 Exam Session (Extra): Final Grades**<br/>
 Final grades are available at this [link](./exams/2022-23/2023-04-06_final_grades.pdf).
