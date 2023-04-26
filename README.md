@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **IMPORTANT:** A document with the _updated_ main guidelines for the final project is available [here](../extra/Final_Project_Guidelines.pdf). Please, check it out _carefully_!
 - **ANNOUNCEMENT:** Lectures 15 and 16 on **Monday, April 24, and Tuesday, May 2** will be held **remotely via Zoom**. Please, refer to the message sent on the Moodle forum for further information on how to attend these classes.<br/>
 [_**NOTE: There will be no class on Tuesday, April 25, and Monday, May 1**_]
 - In anticipation of the first upcoming Call for Project proposals, please have a look at the list of past submitted projects **as of today** at the following [link](./extra/Project_List.pdf).
