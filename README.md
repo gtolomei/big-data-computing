@@ -6,7 +6,7 @@
 - **June 2023 Exam Session: Call for Project Proposals**<br/>
 Project proposals for the June 2023 session will be accepted starting from **May 1, 2023, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 7, 2023, at 11:59 p.m. CEST**.<br/>
 Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=556624), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
-- **IMPORTANT:** A document with the _updated_ main guidelines for the final project is available [here](../extra/Final_Project_Guidelines.pdf). Please, check it out _carefully_!
+- **IMPORTANT:** A document with the _updated_ main guidelines for the final project is available [here](./extra/Final_Project_Guidelines.pdf). Please, check it out _carefully_!
 - **ANNOUNCEMENT:** Lectures 15 and 16 on **Monday, April 24, and Tuesday, May 2** will be held **remotely via Zoom**. Please, refer to the message sent on the Moodle forum for further information on how to attend these classes.<br/>
 [_**NOTE: There will be no class on Tuesday, April 25, and Monday, May 1**_]
 - In anticipation of the first upcoming Call for Project proposals, please have a look at the list of past submitted projects **as of today** at the following [link](./extra/Project_List.pdf).
