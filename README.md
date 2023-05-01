@@ -163,9 +163,8 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 13  | 04/17/2023 | Linear Regression (OLS): Part I | [slides: <a href="./slides/13_Linear_Regression.pdf" target="_blank">PDF</a>] |
 | Lecture 14  | 04/18/2023 | Linear Regression (OLS): Part II | [slides: <a href="./slides/13_Linear_Regression.pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
 | Lecture 15  | 04/24/2023 | Logistic Regression: Part I | [slides: <a href="./slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>], notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 16  | 05/02/2023 | Logistic Regression: Part II | [slides: <a href="./slides/15-16_Logistic_Regression.pdf" target="_blank">PDF</a> |
-| Lecture 17  | 04/27/2022 | Gradient Descent | [slides: <a href="./slides/17_Gradient_Descent.pdf" target="_blank">PDF</a>] |
-| Lecture 18  | 05/03/2022 | Decision Trees and Ensembles (Part I) | [slides: <a href="./slides/18_Decision_Trees_and_Ensembles_(Part_I).pdf" target="_blank">PDF</a>]|
+| Lecture 16  | 05/02/2023 | Logistic Regression: Part II (Gradient Descent) | [slides: <a href="./slides/15_Gradient_Descent.pdf" target="_blank">PDF</a> |
+<!--| Lecture 18  | 05/03/2022 | Decision Trees and Ensembles (Part I) | [slides: <a href="./slides/18_Decision_Trees_and_Ensembles_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 19  | 05/04/2022 | Decision Trees and Ensembles (Part II) | [slides: <a href="./slides/19_Decision_Trees_and_Ensembles_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 20  | 05/10/2022 | Evaluation Metrics for Classification | [slides: <a href="./slides/20_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
 | Lecture 21  | 05/11/2022 | Recommender Systems (Part I) | [slides: <a href="./slides/21_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
