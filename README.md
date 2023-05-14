@@ -166,10 +166,10 @@ In case you would like to install and configure PySpark _also_ on your local mac
 | Lecture 16  | 05/02/2023 | Logistic Regression: Part II (Gradient Descent) | [slides: <a href="./slides/15_Gradient_Descent.pdf" target="_blank">PDF</a>] |
 | Lecture 17  | 05/08/2023 | Decision Trees and Ensembles (Part I) | [slides: <a href="./slides/16_Decision_Trees_and_Ensembles_(Part_I).pdf" target="_blank">PDF</a>]|
 | Lecture 18  | 05/09/2023 | Decision Trees and Ensembles (Part II) | [slides: <a href="./slides/17_Decision_Trees_and_Ensembles_(Part_II).pdf" target="_blank">PDF</a>]|
-| Lecture 19  | 05/09/2023 | Evaluation Metrics for Classification | [slides: <a href="./slides/18_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
-<!--| Lecture 20  | 05/11/2022 | Recommender Systems (Part I) | [slides: <a href="./slides/19_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
-| Lecture 21  | 05/17/2022 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
-| Lecture 23  | 05/18/2022 | Recommender Systems (Part III) | [slides: <a href="./slides/23_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
+| Lecture 18 (extra)  | 05/09/2023 | Evaluation Metrics for Classification | [slides: <a href="./slides/18_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
+| Lecture 19  | 05/11/2022 | Recommender Systems (Part I) | [slides: <a href="./slides/19_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
+| Lecture 20  | 05/17/2022 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
+<!--| Lecture 23  | 05/18/2022 | Recommender Systems (Part III) | [slides: <a href="./slides/23_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
 | Lecture 24  | 05/24/2022 | Graph Link Analysis | [slides: <a href="./slides/24_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | Lecture 25  | 05/25/2022 | PageRank | [slides: <a href="./slides/25_PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|, notebook: <a href="./notebooks/PageRank.ipynb" target="_blank">ipynb</a>]|
 | ----------  | 05/25/2022 | The Last Take Home Message | [slides: <a href="./slides/The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
