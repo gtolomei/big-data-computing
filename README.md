@@ -12,7 +12,7 @@ Project proposals for the July 2023 session will be accepted starting from **May
 Please, be sure you upload your proposal on time using the appropriate Moodle assignment [link](https://elearning.uniroma1.it/mod/assign/view.php?id=562638), following the specified [guidelines](./extra/Final_Project_Guidelines.pdf).
 - **June 2023 Exam Session: Registration, Project Submission and Presentation**<br/>
 Registrations to the June 2023 exam session are open on Infostud (id **875701**), and so they will be until **June 13, 2023**.<br/>
-Project submission week opens up on **June 7, 2023, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 13, 2023, at 11:59 p.m. CEST**.<br/>
+Project submission week opens up on **June 7, 2023, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **June 13, 2023, at 11:59 p.m. CEST**. Please, submit your material using the appropriate [link](https://elearning.uniroma1.it/mod/assign/view.php?id=562634).<br/>
 Projects accepted for oral discussion will be presented right afterward (tentatively starting from **June 15**) **remotely** via Google Meet. More information about how to participate in this session will be sent close to the presentation date.
 - **June 2023 Exam Session: Call for Project Proposals**<br/>
 Project proposals for the June 2023 session will be accepted starting from **May 1, 2023, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) until **May 7, 2023, at 11:59 p.m. CEST**.<br/>
