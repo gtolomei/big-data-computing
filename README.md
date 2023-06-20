@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **June 2023 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2022-23/2023-06-20_final_grades.pdf).
 - **ANNOUNCEMENT:** The last two lectures on **Monday, May 29, and Tuesday, May 30** will be held **remotely via Zoom**. Please, refer to the message sent on the Moodle forum for further information on how to attend these classes.<br/>
 - **July 2023 Exam Session: Registration, Project Submission and Presentation**<br/>
 Registrations to the July 2023 exam session will open on Infostud (id **875703**) starting from **June 19, 2023**, and so they will be until **June 30, 2023**.<br/>
