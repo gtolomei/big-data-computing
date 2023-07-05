@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **July 2023 Exam Session: Final Grades**<br/>
+Final grades are available at this [link](./exams/2022-23/2023-07-05_final_grades.pdf).
 - **July 2023 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day** session: **July 4 and 5, 2023, at 9:00 a.m. CEST**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **Last Call for Project Proposals 2023-24**<br/>
