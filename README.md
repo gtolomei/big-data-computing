@@ -11,7 +11,7 @@ Presentations of the projects that have been accepted for oral discussion will t
 -->
 - **September 2023 Exam Session: Registration, Project Submission and Presentation**<br/>
 Registrations to the September 2023 exam session will open on Infostud (id **882827**) starting from **August 28, 2023**, and so they will be until **September 17, 2023**.<br/>
-Project submission week opens up on **September 11, 2023, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 17, 2023, at 11:59 p.m. CEST**. Please, submit your material using the appropriate [link](https://elearning.uniroma1.it/mod/assign/view.php?id=562639).<br/>
+Project submission week opens up on **September 11, 2023, at 00:00 a.m. CEST** ([Central European Summer Time](https://time.is/CEST)) and closes on **September 17, 2023, at 11:59 p.m. CEST**. Please, submit your material using the appropriate [link](https://elearning.uniroma1.it/mod/assign/view.php?id=570993).<br/>
 Projects accepted for oral discussion will be presented right afterward (tentatively starting from **September 18**) **remotely** via Google Meet. More information about how to participate in this session will be sent close to the presentation date.
 - **July 2023 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2022-23/2023-07-05_final_grades.pdf).
