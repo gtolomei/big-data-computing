@@ -6,7 +6,7 @@
 
 - **September 2023 Exam Session: Final Grades**<br/>
 Final grades are available at this [link](./exams/2022-23/2023-09-21_final_grades.pdf).
-**September 2023 Exam Session: Project Presentation Schedule**<br/>
+- **September 2023 Exam Session: Project Presentation Schedule**<br/>
 Presentations of the projects that have been accepted for oral discussion will take place remotely via Google Meet on a **two-day** session: **September 20 and 21, 2023, at 9:30 a.m. CEST**, using the link indicated in the message sent on the Moodle forum. _Everyone is welcome to join!_
 - **September 2023 Exam Session: Registration, Project Submission and Presentation**<br/>
 Registrations to the September 2023 exam session will open on Infostud (id **882827**) starting from **August 28, 2023**, and so they will be until **September 17, 2023**.<br/>
