@@ -1,6 +1,6 @@
 # Big Data Computing (2023-2024)
 
-[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Environment Setup](#Environment-Setup) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
+[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
 - Starting this year, the Big Data Computing course has been moved to the first semester and divided into **two distinct modules**, each one carrying 3 CFUs (credits). [Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module (i.e., _this_ module) will be under my instruction. Importantly, these modules will **not** run concurrently; once the first module concludes, the second will begin. The estimated start date for this module is expected to be in the first week of November. We will provide more precise information as the conclusion of the first module approaches.
