@@ -211,8 +211,9 @@ In case you would like to install and configure PySpark _also_ on your local mac
 # Previous Years
 In the following, you can quickly navigate through Big Data Computing class information and material from previous years.
 
-**NOTE:** _The folder containing the class material is **unique** and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what have been shown in class in the past._
+**NOTE:** _The folder containing the class material is **unique**, and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what has been shown in class in the past._
 
 -   [2019-20](./oldest/2019-20.md)
 -   [2020-21](./oldest/2020-21.md)
 -   [2021-22](./oldest/2021-22.md)
+-   [2022-23](./oldest/2022-23.md)
