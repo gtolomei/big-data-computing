@@ -102,8 +102,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-<!--| Lecture 1   | 02/27/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/01_Intro.pdf" target="_blank">PDF</a>] |
-| Lecture 2   | 02/28/2023 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
+| Lecture 1   | 11/21/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 2   | 02/28/2023 | MapReduce Programming Model | [slides: <a href="./slides/02_MapReduce.pdf" target="_blank">PDF</a>] |
 | Lecture 3   | 03/06/2023 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
 | Lecture 4   | 03/07/2023 | PySpark Tutorial | [notebook: <a href="./notebooks/PySpark_Tutorial.ipynb" target="_blank">ipynb</a>] |
 | Lecture 5  | 03/13/2023 | The Curse of Dimensionality | [slides: <a href="./slides/05_The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
