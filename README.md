@@ -104,10 +104,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 |-------------|------------|-----------------------------------------------|-----------------|
 | Lecture 1   | 11/21/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 11/22/2023 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
-<!--| Lecture 3   | 03/06/2023 | Apache Spark | [slides: <a href="./slides/03_Spark.pdf" target="_blank">PDF</a>] |
-| Lecture 6 | 03/14/2023 | Clustering Algorithms (Part I): K-means | [slides: <a href="./slides/06-07_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
-| Lecture 7 | 03/20/2023 | Clustering Algorithms (Part II): Validity Measures | [slides: <a href="./slides/06-07_Clustering_Algorithms.pdf" target="_blank">PDF</a>] |
-| Lecture 8   | 03/21/2023 | Document Clustering with PySpark | [slides: <a href="./slides/08_Document_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Document_Clustering.ipynb" target="_blank">ipynb</a>] |
+| Lecture 3 | 11/28/2023 | Clustering: A General Framework | [slides: <a href="./slides/Clustering.pdf" target="_blank">PDF</a>] |
+| Lecture 4 | 11/29/2023 | Clustering: K-means | [slides: <a href="./slides/K-means.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 8   | 03/21/2023 | Document Clustering with PySpark | [slides: <a href="./slides/08_Document_Clustering.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Document_Clustering.ipynb" target="_blank">ipynb</a>] |
 | Lecture 9   | 03/27/2023 | Dimensionality Reduction: Principal Component Analysis (Part I) | [slides: <a href="./slides/09_Dimensionality_Reduction_(Principal_Component_Analysis_Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 10   | 03/28/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/10_Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Principal_Component_Analysis.ipynb" target="_blank">ipynb</a>] |
 | Lecture 11  | 04/03/2023 | Supervised Learning (Part I): Data Preparation | [slides: <a href="./slides/11_Supervised_Learning_(Part_I).pdf" target="_blank">PDF</a>] |
