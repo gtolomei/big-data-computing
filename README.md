@@ -58,45 +58,25 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 ## Syllabus:
 
-<!--**Introduction**
+**Introduction**
 - The Big Data Phenomenon
-- The Big Data Infrastructure
-    - Distributed File Systems (HDFS)
-    - MapReduce (Hadoop)
-    - Spark
-- PySpark + Databricks
+- Motivation and Challenges
+- The Curse of Dimensionality
 
 **Unsupervised Learning: Clustering**
-- The Curse of Dimensionality (Similarity Measures)
 - Algorithms: K-means
-- Example: Document Clustering
 
 **Dimensionality Reduction**
-- Feature Extraction
 - Algorithms: Principal Component Analysis (PCA)
-- Example: PCA + Handwritten Digit Recognition
-
-**Supervised Learning**
-- Basics of Machine Learning
-- Regression/Classification
-- Algorithms: Linear Regression/Logistic Regression/Random Forest
-- Examples: 
-    - Linear Regression -> House Pricing Prediction (i.e., predict the price which a house will be sold)
-    - Logistic Regression/Random Forest -> Marketing Campaign Prediction (i.e., predict whether a customer will subscribe a term deposit of a bank)
 
 **Recommender Systems**
-- Content-based vs. Collaborative filtering
 - Algorithms: k-NN, Matrix Factorization (MF)
-- Example: Movie Recommender System (MovieLens)
 
 **Graph Analysis**
-- Link Analysis
 - Algorithms: PageRank
-- Example: Ranking (a sample of) the Google Web Graph
 
 **Anything Else?**
 - ...
--->
 <hr>
 
 ## Class Schedules
@@ -108,6 +88,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 3 | 11/28/2023 | Clustering: A General Framework | [slides: <a href="./slides/Clustering.pdf" target="_blank">PDF</a>] |
 | Lecture 4 | 11/29/2023 | Clustering: K-means | [slides: <a href="./slides/K-means.pdf" target="_blank">PDF</a>] |
 | Lecture 5 | 12/05/2023 | Dimensionality Reduction: Principal Component Analysis (Part I) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_I).pdf" target="_blank">PDF</a>] |
+| Lecture 6 | 12/12/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>] |
 <!--| Lecture 5   | 03/28/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/10_Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Principal_Component_Analysis.ipynb" target="_blank">ipynb</a>] |
 | Lecture 11  | 04/03/2023 | Supervised Learning (Part I): Data Preparation | [slides: <a href="./slides/11_Supervised_Learning_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 12  | 04/04/2023 | Supervised Learning (Part II): Model Training | [slides: <a href="./slides/12_Supervised_Learning_(Part_II).pdf" target="_blank">PDF</a>] |
