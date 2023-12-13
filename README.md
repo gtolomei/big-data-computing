@@ -87,19 +87,10 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 2   | 11/22/2023 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
 | Lecture 3 | 11/28/2023 | Clustering: A General Framework | [slides: <a href="./slides/Clustering.pdf" target="_blank">PDF</a>] |
 | Lecture 4 | 11/29/2023 | Clustering: K-means | [slides: <a href="./slides/K-means.pdf" target="_blank">PDF</a>] |
-| Lecture 5 | 12/05/2023 | Dimensionality Reduction: Principal Component Analysis (Part I) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_I).pdf" target="_blank">PDF</a>] |
+| Lecture 5 | 12/05/2023 | Dimensionality Reduction: Principal Component Analysis (Part I) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_I).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
 | Lecture 6 | 12/12/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>] |
-<!--| Lecture 5   | 03/28/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/10_Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Principal_Component_Analysis.ipynb" target="_blank">ipynb</a>] |
-| Lecture 11  | 04/03/2023 | Supervised Learning (Part I): Data Preparation | [slides: <a href="./slides/11_Supervised_Learning_(Part_I).pdf" target="_blank">PDF</a>] |
-| Lecture 12  | 04/04/2023 | Supervised Learning (Part II): Model Training | [slides: <a href="./slides/12_Supervised_Learning_(Part_II).pdf" target="_blank">PDF</a>] |
-| Lecture 13  | 04/17/2023 | Linear Regression (OLS): Part I | [slides: <a href="./slides/13_Linear_Regression.pdf" target="_blank">PDF</a>] |
-| Lecture 14  | 04/18/2023 | Linear Regression (OLS): Part II | [slides: <a href="./slides/13_Linear_Regression.pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/Linear_Regression.ipynb" target="_blank">ipynb</a>] |
-| Lecture 15  | 04/24/2023 | Logistic Regression: Part I | [slides: <a href="./slides/14_Logistic_Regression.pdf" target="_blank">PDF</a>], notes: <a href="./extra/Notes_on_Logistic_Regression.pdf" target="_blank">PDF</a>] |
-| Lecture 16  | 05/02/2023 | Logistic Regression: Part II (Gradient Descent) | [slides: <a href="./slides/15_Gradient_Descent.pdf" target="_blank">PDF</a>] |
-| Lecture 17  | 05/08/2023 | Decision Trees and Ensembles (Part I) | [slides: <a href="./slides/16_Decision_Trees_and_Ensembles_(Part_I).pdf" target="_blank">PDF</a>]|
-| Lecture 18  | 05/09/2023 | Decision Trees and Ensembles (Part II) | [slides: <a href="./slides/17_Decision_Trees_and_Ensembles_(Part_II).pdf" target="_blank">PDF</a>]|
-| Lecture 18 (extra)  | 05/09/2023 | Evaluation Metrics for Classification | [slides: <a href="./slides/18_Evaluation_Metrics_for_Classification.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/Classification.ipynb" target="_blank">ipynb</a>]|
-| Lecture 19  | 05/15/2023 | Recommender Systems (Part I) | [slides: <a href="./slides/19_Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>]|
+| Lecture 7  | 12/13/2023 | Recommender Systems (Part I & II) | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF(I)</a>, <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF(II)</a>]|
+<!--
 | Lecture 20  | 05/16/2023 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 21  | 05/22/2023 | Recommender Systems (Part III) | [slides: <a href="./slides/21_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
 | Lecture 22  | 05/23/2023 | Graph Link Analysis | [slides: <a href="./slides/22_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
