@@ -89,7 +89,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 4 | 11/29/2023 | Clustering: K-means | [slides: <a href="./slides/K-means.pdf" target="_blank">PDF</a>] |
 | Lecture 5 | 12/05/2023 | Dimensionality Reduction: Principal Component Analysis (Part I) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_I).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
 | Lecture 6 | 12/12/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>] |
-| Lecture 7  | 12/13/2023 | Recommender Systems (Part I & II) | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF(I)</a>, <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF(II)</a>]|
+| Lecture 7  | 12/13/2023 | Recommender Systems (Content-based) [Part I & II] | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF(I)</a>, <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF(II)</a>]|
+| Lecture 8  | 12/19/2023 | Recommender Systems (Collaborative Filtering) [Part III] | [slides: <a href="./slides/Recommender_Systems_(Part_III).pdf" target="_blank">PDF(I)</a>]|
 <!--
 | Lecture 20  | 05/16/2023 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 21  | 05/22/2023 | Recommender Systems (Part III) | [slides: <a href="./slides/21_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
