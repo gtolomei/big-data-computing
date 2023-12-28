@@ -3,6 +3,12 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **January and February 2024 Exam Sessions**<br/>
+Registrations for the January and February 2024 exam sessions are open on Infostud. There are **four** distinct dates you can pick from:
+    - January 22 (id **914699**)
+    - January 31 (id **914701**)
+    - February 7 (id **914702**)
+    - February 14 (id **914703**)
 - **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 - Starting this year, the Big Data Computing course has been moved to the first semester and divided into **two distinct modules**, each one carrying 3 CFUs (credits).<br/>
 [Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module (i.e., _this_ module) will be under my instruction.<br/>
