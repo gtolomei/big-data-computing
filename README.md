@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **January 22, 2024 Exam Session**: The seminar session is scheduled for **Monday, January 22, 2024**, and will be held in "Sala riunioni" (Room 305, 3rd Floor) in Building E, Viale Regina Elena 295, starting at **9:30 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
 - **January and February 2024 Exam Sessions**<br/>
 Registrations for the January and February 2024 exam sessions are open on Infostud. There are **four** distinct dates you can pick from:
     - January 22 (id **914699**)
