@@ -3,6 +3,10 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **April Exam Session (_Extraordinary_)**<br/>
+Registrations for the April 2024 extraordinary exam sessions are open on Infostud. At the moment, there is **one single** date you can pick from:
+    - April 10 (id **923701**)<br>
+Please refer to the guidelines illustrated in the [course catalog website](https://corsidilaurea.uniroma1.it/en/corso/2023/29932/programmazione) to submit your participation request on time. Further details on how to attend this session will be provided in the upcoming weeks. 
 - **February 14, 2024 Exam Session**: The seminar session is scheduled for **Wednesday, February 14, 2024**, and will be held in Room S1 (Floor -1) in Building E, Viale Regina Elena 295, starting at **9:00 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
 - **February 7, 2024 Exam Session**: The seminar session is scheduled for **Wednesday, February 7, 2024**, and will be held in Room T1 in Building E, Viale Regina Elena 295, starting at **9:00 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
 - **January 31, 2024 Exam Session**: The seminar session is scheduled for **Wednesday, January 31, 2024**, and will be held in Room T1 in Building E, Viale Regina Elena 295, starting at **11:00 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
