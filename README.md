@@ -3,6 +3,12 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **June and July 2024 Exam Sessions**<br/>
+Registrations for the June and July 2024 exam sessions are open on Infostud. There are **four** distinct dates you can pick from:
+    - June 5 (id **931880**)
+    - June 26 (id **931881**)
+    - July 10 (id **931882**)
+    - July 17 (id **931883**)
 - **April Exam Session (_Extraordinary_)**<br/>
 Registrations for the April 2024 extraordinary exam sessions are open on Infostud. At the moment, there is **one single** date you can pick from:
     - April 10 (id **923701**)<br>
