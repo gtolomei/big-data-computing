@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **September 2024 Exam Session**<br/>
+Registrations for the September 2024 exam session are open on Infostud (id **936604**). The exam will take place on **Wednesday, September 11**.
 - **June and July 2024 Exam Sessions**<br/>
 Registrations for the June and July 2024 exam sessions are open on Infostud. There are **four** distinct dates you can pick from:
     - June 5 (id **931880**)
