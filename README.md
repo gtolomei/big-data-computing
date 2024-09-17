@@ -39,7 +39,7 @@ This is a first-semester course of the [MSc in Computer Science at the Sapienza 
 This repository contains class material along with any useful information for the 2024-2025 academic year.
 
 The Big Data Computing course is divided into **two distinct modules**, each one carrying 3 CFUs (credits).<br/>
-[Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module (i.e., _this_ module) will be under my instruction.<br/>
+[Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module will be taught by [Prof. Gabriele Tolomei](https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it).<br/>
 Importantly, these modules will **not** run concurrently; once the first module concludes, the second will begin.
 
 ### Class Schedule
@@ -50,11 +50,21 @@ Importantly, these modules will **not** run concurrently; once the first module 
 Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=18525
 
 ### Contacts
+**Prof. Daniele De Sensi**
+- Email: desensi@di.uniroma1.it
+- Website: https://danieledesensi.github.io
+- Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it
+
+**Prof. Gabriele Tolomei**
 - Email: tolomei@di.uniroma1.it
 - Website: https://www.di.uniroma1.it/~tolomei
 - Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
 
 ### Office Hours
+**Prof. Daniele De Sensi**<br>
+TBA
+
+**Prof. Gabriele Tolomei**<br>
 Please drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> in case you would like to schedule a meeting, either online (i.e., via Google Meet or Zoom) or in-person (i.e., in Room 106 located at the 1st floor of Building E in Viale Regina Elena 295).
 
 ### Description and Goals
