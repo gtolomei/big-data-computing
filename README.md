@@ -1,8 +1,9 @@
-# Big Data Computing (2023-2024)
+# Big Data Computing (2024-2025)
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--
 - **September 2024 Exam Session**<br/>
 Registrations for the September 2024 exam session are open on Infostud (id **936604**). The exam will take place on **Wednesday, September 11**.
 - **June and July 2024 Exam Sessions**<br/>
@@ -29,6 +30,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
 - Starting this year, the Big Data Computing course has been moved to the first semester and divided into **two distinct modules**, each one carrying 3 CFUs (credits).<br/>
 [Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module (i.e., _this_ module) will be under my instruction.<br/>
 Importantly, these modules will **not** run concurrently; once the first module concludes, the second will begin. The estimated start date for this module is expected to be in the first week of November. We will provide more precise information as the conclusion of the first module approaches.
+-->
 
 ## General Information
 
@@ -36,7 +38,7 @@ Welcome to the Big Data Computing class!
 
 This is a first-semester course of the [MSc in Computer Science at the Sapienza University of Rome](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).
 
-This repository contains class material along with any useful information for the 2023-2024 academic year.
+This repository contains class material along with any useful information for the 2024-2025 academic year.
 
 ### Class Schedule
 - **Tuesday** from **2:00 p.m.** to **4:00 p.m.** in Aula Magna - "Building C" at Viale Regina Elena 295
@@ -108,6 +110,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
+<!--
 | Lecture 1   | 11/21/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 11/22/2023 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
 | Lecture 3 | 11/28/2023 | Clustering: A General Framework | [slides: <a href="./slides/Clustering.pdf" target="_blank">PDF</a>] |
@@ -117,7 +120,6 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 7  | 12/13/2023 | Recommender Systems (Content-based) [Part I & II] | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF(I)</a>, <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF(II)</a>]|
 | Lecture 8  | 12/19/2023 | Recommender Systems (Collaborative Filtering) [Part III] | [slides: <a href="./slides/Recommender_Systems_(Part_III).pdf" target="_blank">PDF(III)</a>]|
 | Lecture 9  | 12/20/2023 | PageRank | [slides: <a href="./slides/PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
-<!--
 | Lecture 20  | 05/16/2023 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 21  | 05/22/2023 | Recommender Systems (Part III) | [slides: <a href="./slides/21_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
 | Lecture 22  | 05/23/2023 | Graph Link Analysis | [slides: <a href="./slides/22_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
@@ -130,7 +132,8 @@ In the following, you can quickly navigate through Big Data Computing class info
 
 **NOTE:** _The folder containing the class material is **unique**, and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what has been shown in class in the past._
 
--   [2019-20](./oldest/2019-20.md)
--   [2020-21](./oldest/2020-21.md)
--   [2021-22](./oldest/2021-22.md)
+-   [2023-24](./oldest/2023-24.md)
 -   [2022-23](./oldest/2022-23.md)
+-   [2021-22](./oldest/2021-22.md)
+-   [2020-21](./oldest/2020-21.md)
+-   [2019-20](./oldest/2019-20.md)
