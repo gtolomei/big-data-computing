@@ -27,10 +27,8 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 7 (id **914702**)
     - February 14 (id **914703**)
 - **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
-- Starting this year, the Big Data Computing course has been moved to the first semester and divided into **two distinct modules**, each one carrying 3 CFUs (credits).<br/>
-[Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module (i.e., _this_ module) will be under my instruction.<br/>
-Importantly, these modules will **not** run concurrently; once the first module concludes, the second will begin. The estimated start date for this module is expected to be in the first week of November. We will provide more precise information as the conclusion of the first module approaches.
 -->
+
 
 ## General Information
 
@@ -40,12 +38,16 @@ This is a first-semester course of the [MSc in Computer Science at the Sapienza 
 
 This repository contains class material along with any useful information for the 2024-2025 academic year.
 
+The Big Data Computing course is divided into **two distinct modules**, each one carrying 3 CFUs (credits).<br/>
+[Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module (i.e., _this_ module) will be under my instruction.<br/>
+Importantly, these modules will **not** run concurrently; once the first module concludes, the second will begin.
+
 ### Class Schedule
-- **Tuesday** from **2:00 p.m.** to **4:00 p.m.** in Aula Magna - "Building C" at Viale Regina Elena 295
-- **Wednesday** from **10:00 a.m.** to **1:00 p.m.** in Aula Magna - "Building C" at Viale Regina Elena 295
+- **Wednesday** from **10:00 a.m.** to **12:00 p.m.** (Aula Magna - "Building C" - Viale Regina Elena 295 [[map](https://maps.app.goo.gl/ATTqBchq8B5cfKNp8)])
+- **Thursday** from **1:00 p.m.** to **4:00 p.m.** (Room 1L - Via Del Castro Laurenziano, 7a [[map](https://maps.app.goo.gl/i8KBFnCxPJrnbWhq8)])
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=17115
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=18525
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
