@@ -78,10 +78,14 @@ This course is intended to provide graduate-level students with a deep understan
 The course assumes that students are familiar with the basics of data analysis and machine learning, properly supported by a strong knowledge of foundational concepts of calculus, linear algebra, probability, and statistics. In addition, students must have non-trivial computer programming skills (preferably using Python programming language). Previous experience with Hadoop, Spark, or distributed computing is not required.
 
 ### Exams
-Starting this year, the exam will consist of a **seminar on a research paper** chosen from a curated list of distinguished conferences and journals that align with the topics covered in the course.<br/>
+
+TBA
+<!-- UNCOMMENT BELOW IF THE EXAM STAYS THE SAME
+The exam will consist of a **seminar on a research paper** chosen from a curated list of distinguished conferences and journals that align with the topics covered in the course.<br/>
 Since selecting a paper that simultaneously covers both units can be challenging, you can choose a research work that prevalently concerns one of the two units. For example, you can select work on big data architectures (first unit) or high-dimensional data representation learning (second unit).<br/>
 Each seminar can be done **individually** or in a **group of at most two students**.<br/>
 A document containing the main guidelines for the final exam is available [here](./extra/Final_Exam_Guidelines.pdf).
+-->
 
 ### Recommended Textbooks
 No textbooks are mandatory to successfully follow this course. However, there is a huge set of references which may be worth mentioning, especially to those who wants to dig deeper into some specific topics. Among those, some readings I would like to suggest are as follows:
