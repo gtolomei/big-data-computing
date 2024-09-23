@@ -66,7 +66,7 @@ All the information will be provided through GitHub, whereas Moodle will be used
 
 ### Office Hours
 **Prof. Daniele De Sensi**<br>
-TBA
+Please drop me a message at <a href="mailto:desensi@di.uniroma1.it">desensi@di.uniroma1.it</a> in case you would like to schedule a meeting, either online (i.e., via Google Meet or Zoom) or in-person (i.e., in Room 306 located at the 3rd floor of Building E in Viale Regina Elena 295).
 
 **Prof. Gabriele Tolomei**<br>
 Please drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> in case you would like to schedule a meeting, either online (i.e., via Google Meet or Zoom) or in-person (i.e., in Room 106 located at the 1st floor of Building E in Viale Regina Elena 295).
@@ -76,14 +76,14 @@ The amount, variety, and rate at which data is being generated nowadays, both by
 
 "Big Data" is the umbrella term that has rapidly become popular to describe methodologies and tools specifically designed for collecting, storing, and processing very large or complex data sets. In addition to addressing foundational computer science problems, such as searching and sorting, big data computing mainly focuses on extracting knowledge - thereby value - from large-scale data sets using advanced data analysis techniques, such as machine learning.
 
-This course is intended to provide graduate-level students with a deep understanding of programming models and tools that are suitable for the large-scale analysis of data distributed across clusters of computers. More specifically, the course will give students the ability to proficiently develop big data/machine learning solutions on top of industry-standard frameworks, such as Hadoop and Spark, to tackle real-world problems faced by the so-called "Big Five" tech companies (i.e., Apple, Amazon, Google, Microsoft, and Facebook): text/graph analysis, classification/regression, and recommendation, just to name a few.
+This course is intended to provide graduate-level students with a deep understanding of programming models and computer architectures that are suitable for the large-scale analysis of data. More specifically, the course will give students the ability to understand challenges and solutions in developing big data/machine learning workloads, and to tackle real-world problems faced by the so-called "Big Five" tech companies (i.e., Apple, Amazon, Google, Microsoft, and Facebook): text/graph analysis, classification/regression, and recommendation, just to name a few.
 
 ### Prerequisites
-The course assumes that students are familiar with the basics of data analysis and machine learning, properly supported by a strong knowledge of foundational concepts of calculus, linear algebra, probability, and statistics. In addition, students must have non-trivial computer programming skills (preferably using Python programming language). Previous experience with Hadoop, Spark, or distributed computing is not required.
+The course assumes that students are familiar with the basics of data analysis and machine learning, properly supported by a strong knowledge of foundational concepts of calculus, linear algebra, probability, statistics, and computer architectures. 
 
 ### Exams
 
-TBA
+The exam will consist in an oral exam.
 <!-- UNCOMMENT BELOW IF THE EXAM STAYS THE SAME
 The exam will consist of a **seminar on a research paper** chosen from a curated list of distinguished conferences and journals that align with the topics covered in the course.<br/>
 Since selecting a paper that simultaneously covers both units can be challenging, you can choose a research work that prevalently concerns one of the two units. For example, you can select work on big data architectures (first unit) or high-dimensional data representation learning (second unit).<br/>
@@ -108,7 +108,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 **Introduction**
 - The Big Data Phenomenon
 - Motivation and Challenges
-- The Curse of Dimensionality
+- Large-scale parallel systems for running big data workloads
+
+<!--
 
 **Unsupervised Learning: Clustering**
 - Algorithms: K-means
@@ -124,12 +126,14 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 **Anything Else?**
 - ...
+-->
 <hr>
 
 ## Class Schedules
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
+| Lecture 1   | 23/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661553" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661554" target="_blank">PDF</a>] |
 <!--
 | Lecture 1   | 11/21/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 11/22/2023 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
