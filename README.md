@@ -133,7 +133,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
-| Lecture 1   | 23/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661553" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661554" target="_blank">PDF</a>] |
+| Lecture 1   | 25/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661553" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661554" target="_blank">PDF</a>] |
 <!--
 | Lecture 1   | 11/21/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lecture 2   | 11/22/2023 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
