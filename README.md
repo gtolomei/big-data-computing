@@ -28,7 +28,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 14 (id **914703**)
 - **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 -->
-- **NOTICE:** The very first class, scheduled for Wednesday, September 2025, will exceptionally take place in **Room V "Guido Castelnuovo"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1SYIh2SoqqPbAsrL2eYCUtJ4FNErIVaLo/view).
+- **NOTICE:** The very first class, scheduled for Wednesday, 25th September 2025, will exceptionally take place in **Room V "Guido Castelnuovo"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1SYIh2SoqqPbAsrL2eYCUtJ4FNErIVaLo/view).
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
 
@@ -51,6 +51,7 @@ Importantly, these modules will **not** run concurrently; once the first module 
 
 ### Moodle Web Page
 Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=18525
+All the information will be provided through GitHub, whereas Moodle will be used as a repository for the course material.
 
 ### Contacts
 **Prof. Daniele De Sensi**
