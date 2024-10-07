@@ -105,6 +105,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
  
 <hr>
 
+<!--
 ## Syllabus:
 
 **Introduction**
@@ -112,7 +113,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 - Motivation and Challenges
 - Large-scale parallel systems for running big data workloads
 
-<!--
+
 
 **Unsupervised Learning: Clustering**
 - Algorithms: K-means
@@ -139,6 +140,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 2   | 26/09/2024 | Distributed Deep Learning                            | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=663974" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=663975" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=664333" target="_blank">Recording</a>] |
 | Lecture 3   | 02/10/2024 | Introduction to Hardware Architectures for Big Data Processing | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=666960" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=666963" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=667443" target="_blank">Recording</a>] |
 | Lecture 4   | 03/10/2024 | Network Topology Design | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=667457" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=667458" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=667924" target="_blank">Recording</a>] |
+| Lecture 5   | 09/10/2024 | TCP vs. RDMA | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=669870" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=669871" target="_blank">PDF</a>, recording: <a href="" target="_blank">Recording</a>] |
 
 <!--
 | Lecture 1   | 11/21/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
