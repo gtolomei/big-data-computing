@@ -28,6 +28,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 14 (id **914703**)
 - **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 -->
+- **NOTICE:** Starting from Wednesday October 16th, lectures on Wednesday will regularly take place in **Aula Magna - RM111, Viale Regina Elena 295**.
 - **NOTICE:** 09.10.2024 lecture will take place on **Aula 301 Viale Regina Elena, Edificio D**.
 - **NOTICE:** 02.10.2024 lecture will take place on **Aula 101 Viale Regina Elena, Edificio D**.
 - **NOTICE:** The very first class, scheduled for Wednesday, 25th September 2025, will exceptionally take place in **Room V "Guido Castelnuovo"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1SYIh2SoqqPbAsrL2eYCUtJ4FNErIVaLo/view).
