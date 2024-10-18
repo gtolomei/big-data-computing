@@ -28,7 +28,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 14 (id **914703**)
 - **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 -->
-- **NOTICE:** Thursday October 24th lecture will finish at 3PM rather than 4PM.
+- **NOTICE:** ~~Thursday October 24th lecture will finish at 3PM rather than 4PM.~~ Nope, nevermind, it will finish at 4PM as usual.
 - **NOTICE:** We will not have class on Wednesday October 23rd.
 - **NOTICE:** Starting from Wednesday October 16th, lectures on Wednesday will regularly take place in **Aula Magna - RM111, Viale Regina Elena 295**.
 - **NOTICE:** 09.10.2024 lecture will take place on **Aula 301 Viale Regina Elena, Edificio D**.
