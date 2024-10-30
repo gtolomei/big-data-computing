@@ -28,6 +28,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 14 (id **914703**)
 - **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 -->
+- **NOTICE:** The first part of the course completed today, 30.10.2024. Keep an eye on Github to get updates on when the second part of the course will start.
 - **NOTICE:** ~~Thursday October 24th lecture will finish at 3PM rather than 4PM.~~ Nope, nevermind, it will finish at 4PM as usual.
 - **NOTICE:** We will not have class on Wednesday October 23rd.
 - **NOTICE:** Starting from Wednesday October 16th, lectures on Wednesday will regularly take place in **Aula Magna - RM111, Viale Regina Elena 295**.
@@ -147,7 +148,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 6   | 10/10/2024 | RDMA and SmartNICs | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=670819" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=670820" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=671081" target="_blank">Recording</a>] |
 | Lecture 7   | 16/10/2024 | Congestion Control | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=672584" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=672585" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=672782" target="_blank">Recording</a>] |
 | Lecture 8   | 17/10/2024 | Load Balancing and In-Network Compute | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=673035" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=673036" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=673499" target="_blank">Recording</a>] |
-| Lecture 10   | 30/10/2024 | Recap & Outlook | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=676696" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=676697" target="_blank">PDF</a>, recording: <a href="" target="_blank">Recording</a>] |
+| Lecture 10   | 30/10/2024 | Recap & Outlook | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=676696" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=676697" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=677252" target="_blank">Recording</a>] |
 
 <!--
 | Lecture 1   | 11/21/2023 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
