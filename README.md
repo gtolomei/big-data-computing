@@ -28,6 +28,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 14 (id **914703**)
 - **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 -->
+- **ANNOUNCEMENT:** The second part of the course will start on **Wednesday, November 13, 2024**.
 - **NOTICE:** The first part of the course completed today, 30.10.2024. Keep an eye on Github to get updates on when the second part of the course will start.
 - **NOTICE:** ~~Thursday October 24th lecture will finish at 3PM rather than 4PM.~~ Nope, nevermind, it will finish at 4PM as usual.
 - **NOTICE:** We will not have class on Wednesday October 23rd.
