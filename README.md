@@ -152,7 +152,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 10   | 30/10/2024 | Recap & Outlook | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=676696" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=676697" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=677252" target="_blank">Recording</a>] |
 | Lecture 11   | 13/11/2024 | Introduction to Big Data (Part II) | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lecture 12   | 14/11/2024 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
-| Lecture 13 | 11/28/2023 | Clustering: A General Framework | [slides: <a href="./slides/Clustering.pdf" target="_blank">PDF</a>] |
+| Lecture 13 | 11/20/2024 | Clustering: A General Framework | [slides: <a href="./slides/Clustering.pdf" target="_blank">PDF</a>] |
 <!--| Lecture 4 | 11/29/2023 | Clustering: K-means | [slides: <a href="./slides/K-means.pdf" target="_blank">PDF</a>] |
 | Lecture 5 | 12/05/2023 | Dimensionality Reduction: Principal Component Analysis (Part I) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_I).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
 | Lecture 6 | 12/12/2023 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>] |
