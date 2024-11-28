@@ -26,8 +26,8 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - January 31 (id **914701**)
     - February 7 (id **914702**)
     - February 14 (id **914703**)
-- **ANNOUNCEMENT:** There will be **no class on Wednesday, December 6**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 -->
+- **ANNOUNCEMENT:** There will be **no class on Thursday, December 12**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
 - **ANNOUNCEMENT:** On **Thursday, November 21, 2024, from 1:00 to 1:30 p.m.** in Room L1, Prof. Marco Schaerf, Dean of Faculty, will provide an update on the critical logistics issues affecting classroom spaces this semester. All students are welcome to attend. Please note that our class will tentatively begin **30 minutes later** than usual to accommodate this meeting.
 - **ANNOUNCEMENT:** The second part of the course will start on **Wednesday, November 13, 2024**.
 - **NOTICE:** The first part of the course completed today, 30.10.2024. Keep an eye on Github to get updates on when the second part of the course will start.
