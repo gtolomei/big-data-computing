@@ -27,6 +27,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 7 (id **914702**)
     - February 14 (id **914703**)
 -->
+- **ANNOUNCEMENT:** You can book for the February exam using [this Google From](https://docs.google.com/forms/d/e/1FAIpQLSdUN3uQmHV1GHuYwNwTtQxjA-O-kbWc4S1HtKhSHZLD5lKE1w/viewform?usp=dialog)
 - **ANNOUNCEMENT:** You can book for the January exam using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdhQfW_PgZy3DLXOPbhva1xogOSjW-jzoIHGIlNPOUnIyWk5A/viewform?usp=dialog)
 - **ANNOUNCEMENT:** Those who did not complete the OPIS questionnaires in class are strongly encouraged to do so as soon as possible, using the following code: **3XIR60BN**.
 - **ANNOUNCEMENT:** There will be **no class on Thursday, December 12**, due to the [IT Meeting event](https://itmeeting.wordpress.com/), which you are all welcome to join.
