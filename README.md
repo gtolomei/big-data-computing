@@ -27,6 +27,9 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 7 (id **914702**)
     - February 14 (id **914703**)
 -->
+- **NOTICE:** We have received some notifications requesting access to the Google Form for exam registration from personal Gmail accounts. Please remember to **use your institutional credentials** (```@studenti.uniroma1.it```) when accessing the form. **Requests made with personal accounts will NOT be granted.**<br/>
+If you experience any technical issues with your institutional account, please reach out to the university's IT support team for assistance.<br/>
+Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - **ANNOUNCEMENT:** You can book for the February exam using [this Google From](https://docs.google.com/forms/d/e/1FAIpQLSdUN3uQmHV1GHuYwNwTtQxjA-O-kbWc4S1HtKhSHZLD5lKE1w/viewform?usp=dialog)
 - **ANNOUNCEMENT:** You can book for the January exam using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdhQfW_PgZy3DLXOPbhva1xogOSjW-jzoIHGIlNPOUnIyWk5A/viewform?usp=dialog)
 - **ANNOUNCEMENT:** Those who did not complete the OPIS questionnaires in class are strongly encouraged to do so as soon as possible, using the following code: **3XIR60BN**.
