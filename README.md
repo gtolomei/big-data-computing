@@ -27,6 +27,7 @@ Registrations for the January and February 2024 exam sessions are open on Infost
     - February 7 (id **914702**)
     - February 14 (id **914703**)
 -->
+- **ANNOUNCEMENT:** You can book for the June/July/September sessions on Infostud. We will communicate the exact dates, depending on the number of booked students, once the booking closes.
 - **ANNOUNCEMENT:** You can book for the April extraordinary session using [this Google From](https://docs.google.com/forms/d/e/1FAIpQLSdUN3uQmHV1GHuYwNwTtQxjA-O-kbWc4S1HtKhSHZLD5lKE1w/viewform?usp=dialog). **IMPORTANT:** This exam is only open to some categories of students. You can participate only if you have already made an official request to the administrative offices. The exam will take place in Dipartimento di Informatica, Viale Regina Elena, 295 (Edificio E) III piano, st. 306. The exam will take place on April 16th starting at 14:00. **IMPORTANT:** You also need to book on Infostud.
 - **NOTICE:** We have received some notifications requesting access to the Google Form for exam registration from personal Gmail accounts. Please remember to **use your institutional credentials** (```@studenti.uniroma1.it```) when accessing the form. **Requests made with personal accounts will NOT be granted.**<br/>
 If you experience any technical issues with your institutional account, please reach out to the university's IT support team for assistance.<br/>
