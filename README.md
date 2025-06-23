@@ -6,27 +6,8 @@
 <!--
 - **September 2024 Exam Session**<br/>
 Registrations for the September 2024 exam session are open on Infostud (id **936604**). The exam will take place on **Wednesday, September 11**.
-- **June and July 2024 Exam Sessions**<br/>
-Registrations for the June and July 2024 exam sessions are open on Infostud. There are **four** distinct dates you can pick from:
-    - June 5 (id **931880**)
-    - June 26 (id **931881**)
-    - July 10 (id **931882**)
-    - July 17 (id **931883**)
-- **April Exam Session (_Extraordinary_)**<br/>
-Registrations for the April 2024 extraordinary exam sessions are open on Infostud. At the moment, there is **one single** date you can pick from:
-    - April 10 (id **923701**)<br>
-Please refer to the guidelines illustrated in the [course catalog website](https://corsidilaurea.uniroma1.it/en/corso/2023/29932/programmazione) to submit your participation request on time. Further details on how to attend this session will be provided in the upcoming weeks. 
-- **February 14, 2024 Exam Session**: The seminar session is scheduled for **Wednesday, February 14, 2024**, and will be held in Room S1 (Floor -1) in Building E, Viale Regina Elena 295, starting at **9:00 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
-- **February 7, 2024 Exam Session**: The seminar session is scheduled for **Wednesday, February 7, 2024**, and will be held in Room T1 in Building E, Viale Regina Elena 295, starting at **9:00 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
-- **January 31, 2024 Exam Session**: The seminar session is scheduled for **Wednesday, January 31, 2024**, and will be held in Room T1 in Building E, Viale Regina Elena 295, starting at **11:00 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
-- **January 22, 2024 Exam Session**: The seminar session is scheduled for **Monday, January 22, 2024**, and will be held in "Sala riunioni" (Room 305, 3rd Floor) in Building E, Viale Regina Elena 295, starting at **9:30 a.m.** For those unable to attend in person, remote participation is available via the following Zoom link: https://uniroma1.zoom.us/my/desensi
-- **January and February 2024 Exam Sessions**<br/>
-Registrations for the January and February 2024 exam sessions are open on Infostud. There are **four** distinct dates you can pick from:
-    - January 22 (id **914699**)
-    - January 31 (id **914701**)
-    - February 7 (id **914702**)
-    - February 14 (id **914703**)
 -->
+- **06-30-2025: Exam Session.** The exam will start at **10:00 a.m.**, and will take place at Dipartimento di Informatica, Viale Regina Elena, 295 (Building E), 3rd floor (Room 306).
 - **06-03-2025: Exam Session.** The exam will start at **2:00 p.m.**, and will take place at Dipartimento di Informatica, Viale Regina Elena, 295 (Building E), 3rd floor (Room 306).
 - **ANNOUNCEMENT:** You can book for the **June session** on Infostud (id **988996**). The first session will take place on **June 3** (the exact time will be communicated soon). Any additional sessions, if needed, will be announced shortly thereafter, depending on the number of booked students. We have also opened the **July** and **September** sessions on Infostud (id **988998** and id **989000**, respectively); however, booking for these sessions will open only after the conclusion of the previous one.
 - **ANNOUNCEMENT:** You can book for the April extraordinary session using [this Google From](https://docs.google.com/forms/d/e/1FAIpQLSdUN3uQmHV1GHuYwNwTtQxjA-O-kbWc4S1HtKhSHZLD5lKE1w/viewform?usp=dialog). **IMPORTANT:** This exam is only open to some categories of students. You can participate only if you have already made an official request to the administrative offices. The exam will take place in Dipartimento di Informatica, Viale Regina Elena, 295 (Edificio E) III piano, st. 306. The exam will take place on April 16th starting at 14:00. **IMPORTANT:** You also need to book on Infostud.
