@@ -3,10 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
-<!--
-- **September 2024 Exam Session**<br/>
-Registrations for the September 2024 exam session are open on Infostud (id **936604**). The exam will take place on **Wednesday, September 11**.
--->
+- **ANNOUNCEMENT:** Bookings for the **September exam session** are now open on Infostud (id **989000**). The _tentative_ date is **September 9**, but the exact date and time will be confirmed closer to the session.
 - **06-30-2025: Exam Session.** The exam will start at **10:00 a.m.**, and will take place at Dipartimento di Informatica, Viale Regina Elena, 295 (Building E), 3rd floor (Room 306).
 - **06-03-2025: Exam Session.** The exam will start at **2:00 p.m.**, and will take place at Dipartimento di Informatica, Viale Regina Elena, 295 (Building E), 3rd floor (Room 306).
 - **ANNOUNCEMENT:** You can book for the **June session** on Infostud (id **988996**). The first session will take place on **June 3** (the exact time will be communicated soon). Any additional sessions, if needed, will be announced shortly thereafter, depending on the number of booked students. We have also opened the **July** and **September** sessions on Infostud (id **988998** and id **989000**, respectively); however, booking for these sessions will open only after the conclusion of the previous one.
