@@ -1,8 +1,9 @@
-# Big Data Computing (2024-2025)
+# Big Data Computing 2025-2026
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--
 - **ANNOUNCEMENT:** Bookings for the **September exam session** are now open on Infostud (id **989000**). The exam will be on **September 10th** starting at **2 PM** in Prof. De Sensi's office.
 - **06-30-2025: Exam Session.** The exam will start at **10:00 a.m.**, and will take place at Dipartimento di Informatica, Viale Regina Elena, 295 (Building E), 3rd floor (Room 306).
 - **06-03-2025: Exam Session.** The exam will start at **2:00 p.m.**, and will take place at Dipartimento di Informatica, Viale Regina Elena, 295 (Building E), 3rd floor (Room 306).
@@ -26,27 +27,27 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - **NOTICE:** The very first class, scheduled for Wednesday, 25th September 2025, will exceptionally take place in **Room V "Guido Castelnuovo"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1SYIh2SoqqPbAsrL2eYCUtJ4FNErIVaLo/view).
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
-
+-->
 
 ## General Information
 
 Welcome to the Big Data Computing class!
 
-This is a first-semester course of the [MSc in Computer Science at the Sapienza University of Rome](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).
+This is a first-semester course of the [MSc in Computer Science at the Sapienza University of Rome](https://corsidilaurea.uniroma1.it/en/course/33508).
 
-This repository contains class material along with any useful information for the 2024-2025 academic year.
+This repository contains class material along with any useful information for the 2025-2026 academic year.
 
 The Big Data Computing course is divided into **two distinct modules**, each one carrying 3 CFUs (credits).<br/>
 [Prof. Daniele De Sensi](https://corsidilaurea.uniroma1.it/it/users/danieledesensiuniroma1it) will lead the first module, while the second module will be taught by [Prof. Gabriele Tolomei](https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it).<br/>
 Importantly, these modules will **not** run concurrently; once the first module concludes, the second will begin.
 
 ### Class Schedule
-- **Wednesday** from **10:00 a.m.** to **12:00 p.m.** (Aula Magna - "Building C" - Viale Regina Elena 295 [[map](https://maps.app.goo.gl/ATTqBchq8B5cfKNp8)])
-- **Thursday** from **1:00 p.m.** to **4:00 p.m.** (Room 1L - Via Del Castro Laurenziano, 7a [[map](https://maps.app.goo.gl/i8KBFnCxPJrnbWhq8)])
+- **Wednesday** from **8:00 AM** to **11:00 AM** (**Aula Magna RM111** - "Building C" - Viale Regina Elena 295 [[map](https://maps.app.goo.gl/ATTqBchq8B5cfKNp8)])
+- **Thursday** from **10:00 AM** to **12:00 PM** (**Room 1L RM018** - Via Del Castro Laurenziano, 7a [[map](https://maps.app.goo.gl/i8KBFnCxPJrnbWhq8)])
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=18525
-All the information will be provided through GitHub, whereas Moodle will be used as a repository for the course material.
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: **TBA**
+
 
 ### Contacts
 **Prof. Daniele De Sensi**
@@ -78,7 +79,7 @@ The course assumes that students are familiar with the basics of data analysis a
 
 ### Exams
 
-The exam will consist in an oral exam.
+The exam will consist of an oral exam encompassing **all** topics covered during the course.
 <!-- UNCOMMENT BELOW IF THE EXAM STAYS THE SAME
 The exam will consist of a **seminar on a research paper** chosen from a curated list of distinguished conferences and journals that align with the topics covered in the course.<br/>
 Since selecting a paper that simultaneously covers both units can be challenging, you can choose a research work that prevalently concerns one of the two units. For example, you can select work on big data architectures (first unit) or high-dimensional data representation learning (second unit).<br/>
@@ -122,13 +123,16 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 **Anything Else?**
 - ...
--->
+
 <hr>
+-->
+
 
 ## Class Schedules
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
+<!--
 | Lecture 1   | 25/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661553" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661554" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=662920" target="_blank">Recording</a>] |
 | Lecture 2   | 26/09/2024 | Distributed Deep Learning                            | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=663974" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=663975" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=664333" target="_blank">Recording</a>] |
 | Lecture 3   | 02/10/2024 | Introduction to Hardware Architectures for Big Data Processing | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=666960" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=666963" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=667443" target="_blank">Recording</a>] |
@@ -148,18 +152,19 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 18  | 12/05/2024 | Recommender Systems [Part I & II] | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF(I)</a>, <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF(II)</a>]|
 | Lecture 19  | 12/11/2024 | Recommender Systems (Matrix Factorization) [Part III] | [slides: <a href="./slides/Recommender_Systems_(Part_III).pdf" target="_blank">PDF(III)</a>]|
 | Lectures 20-21  | 12/18/2024-12/19/2024 | PageRank | [slides: <a href="./slides/PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
-<!--| Lecture 20  | 05/16/2023 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
+| Lecture 20  | 05/16/2023 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 21  | 05/22/2023 | Recommender Systems (Part III) | [slides: <a href="./slides/21_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
 | Lecture 22  | 05/23/2023 | Graph Link Analysis | [slides: <a href="./slides/22_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | ----------  | 05/25/2022 | The Last Take Home Message | [slides: <a href="./slides/The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
 -->
 <hr>
 
-# Previous Years
+## Previous Years
 In the following, you can quickly navigate through Big Data Computing class information and material from previous years.
 
 **NOTE:** _The folder containing the class material is **unique**, and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what has been shown in class in the past._
 
+-   [2024-25](./oldest/2024-25.md)
 -   [2023-24](./oldest/2023-24.md)
 -   [2022-23](./oldest/2022-23.md)
 -   [2021-22](./oldest/2021-22.md)
