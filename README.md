@@ -46,7 +46,7 @@ Importantly, these modules will **not** run concurrently; once the first module 
 - **Thursday** from **10:00 AM** to **12:00 PM** (**Room 1L RM018** - Via Del Castro Laurenziano, 7a [[map](https://maps.app.goo.gl/i8KBFnCxPJrnbWhq8)])
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: **TBA**
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/enrol/index.php?id=19950
 
 
 ### Contacts
