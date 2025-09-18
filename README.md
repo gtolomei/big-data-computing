@@ -1,4 +1,4 @@
-# Big Data Computing 2025-2026
+# Big Data Computing 2025-26
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
@@ -31,7 +31,7 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 
 ## General Information
 
-Welcome to the Big Data Computing class!
+Welcome to the 2025-26 Big Data Computing class!
 
 This is a first-semester course of the [MSc in Computer Science at the Sapienza University of Rome](https://corsidilaurea.uniroma1.it/en/course/33508).
 
