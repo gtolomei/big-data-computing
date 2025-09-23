@@ -28,6 +28,7 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
 -->
+- There will be no lecture on Wednesday, October 1st
 
 ## General Information
 
@@ -132,6 +133,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 
 | Lecture \#  | Date       | Topic                                         | Material        | 
 |-------------|------------|-----------------------------------------------|-----------------|
+| Lecture 1   | 25/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=747526" target="_blank">PPT</a>] |
+
 <!--
 | Lecture 1   | 25/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661553" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661554" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=662920" target="_blank">Recording</a>] |
 | Lecture 2   | 26/09/2024 | Distributed Deep Learning                            | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=663974" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=663975" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=664333" target="_blank">Recording</a>] |
