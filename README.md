@@ -28,6 +28,7 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
 -->
+- Dear all, I'll be out for a conference next week, so there will be no class on October 15th and October 16th
 - Differently from what previously communicated, there WILL BE lecture on Wednesday, October 1st
 - Dear all, unfortunately, due to health issues, we won't be having the class tomorrow (25.09.2025).
 
@@ -137,6 +138,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 1   | 25/09/2025 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=747526" target="_blank">PPT</a>] |
 | Lecture 2   | 01/10/2025 | Distributed Deep Learning | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=752938" target="_blank">PPT</a>] |
 | Lecture 3   | 02/10/2025 | Collective Communication Algorithms | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=753647" target="_blank">PPT</a>] |
+| Lecture 4   | 07/10/2025 | Collective Communication Algorithms, Network Topologies | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=756048" target="_blank">PPT</a>] |
 
 <!--
 | Lecture 1   | 25/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661553" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661554" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=662920" target="_blank">Recording</a>] |
