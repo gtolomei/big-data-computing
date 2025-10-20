@@ -28,6 +28,7 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
 -->
+- **IMPORTANT ANNOUNCEMENT:** Classes are **suspended from Thursday, October 30 to Wednesday, November 5, inclusive**.
 - Dear all, I'll be out for a conference next week, so there will be no class on October 15th and October 16th
 - Differently from what previously communicated, there WILL BE lecture on Wednesday, October 1st
 - Dear all, unfortunately, due to health issues, we won't be having the class tomorrow (25.09.2025).
