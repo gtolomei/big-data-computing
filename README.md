@@ -141,6 +141,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 3   | 02/10/2025 | Collective Communication Algorithms | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=753647" target="_blank">PPT</a>] |
 | Lecture 4   | 08/10/2025 | Collective Communication Algorithms, Network Topologies | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=756048" target="_blank">PPT</a>] |
 | Lecture 5   | 09/10/2025 | Network Topologies, Load Balancing | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=756517" target="_blank">PPT</a>] |
+| Lecture 6   | 22/10/2025 | Load Balancing, Congestion Control, In-Network Compute | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=760923" target="_blank">PPT</a>] |
+
 
 <!--
 | Lecture 1   | 25/09/2024 | Introduction to Big Data: Motivations and Challenges | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661553" target="_blank">PPT</a>, <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=661554" target="_blank">PDF</a>, recording: <a href="https://elearning.uniroma1.it/mod/page/view.php?id=662920" target="_blank">Recording</a>] |
