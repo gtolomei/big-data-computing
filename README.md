@@ -143,6 +143,7 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 5   | 09/10/2025 | Network Topologies, Load Balancing | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=756517" target="_blank">PPT</a>] |
 | Lecture 6   | 22/10/2025 | Load Balancing, Congestion Control, In-Network Compute | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=760923" target="_blank">PPT</a>] |
 | Lecture 7   | 23/10/2025 | GFS, HDFS, MapReduce | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=761518" target="_blank">PPT</a>] |
+| Lecture 8   | 29/10/2025 | Spark | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=763083" target="_blank">PPT</a>] |
 
 
 <!--
