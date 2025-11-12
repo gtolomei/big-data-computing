@@ -146,9 +146,8 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 8   | 29/10/2025 | Spark | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=763083" target="_blank">PPT</a>] |
 | Lecture 9   | 06/11/2025 | Recap & Outlook | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=768579" target="_blank">PPT</a>] |
 | Lecture 10  | 12/11/2025 | Introduction to Big Data (Part II) | [slides: <a href="./slides/Introduction.pdf" target="_blank">PDF</a>] |
+| Lecture 11  | 13/11/2025 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
 <!--
-| Guest Seminar | 06/12/2024 | Prof. Marco Canini Guest Seminar | [slides: <a href="https://elearning.uniroma1.it/mod/resource/view.php?id=687791" target="_blank">Slides</a>
-| Lecture 12   | 14/11/2024 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
 | Lecture 13 | 11/20/2024 | Clustering: A General Framework | [slides: <a href="./slides/Clustering.pdf" target="_blank">PDF</a>] |
 | Lectures 14-15 | 11/21/2024-11/27/2024 | Clustering: K-means | [slides: <a href="./slides/K-means.pdf" target="_blank">PDF</a>] |
 | Lecture 16 | 11/28/2024 | Dimensionality Reduction: Principal Component Analysis (Part I) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_I).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
