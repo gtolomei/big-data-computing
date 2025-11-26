@@ -151,9 +151,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 11  | 13/11/2025 | The Curse of Dimensionality | [slides: <a href="./slides/The_Curse_of_Dimensionality.pdf" target="_blank">PDF</a>, notebook: <a href="./notebooks/The_Curse_of_Dimensionality.ipynb" target="_blank">ipynb</a>] |
 | Lecture 12  | 19/11/2025 | Clustering: K-means | [slides: <a href="./slides/Clustering_K-means.pdf" target="_blank">PDF</a>] |
 | Lecture 13  | 20/11/2025 | Clustering: Evaluation | [slides: <a href="./slides/Clustering_Evaluation.pdf" target="_blank">PDF</a>] |
-| Lecture 14 | 11/26/2025 | Dimensionality Reduction: Principal Component Analysis | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
+| Lecture 14  | 26/11/2025 | Dimensionality Reduction: Principal Component Analysis | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_Principal_Component_Analysis.pdf" target="_blank">PDF</a>] |
+| Lecture 15  | 27/11/2025 | Recommender Systems (Part I) | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>] |
 <!--
-| Lecture 17 | 12/04/2024 | Dimensionality Reduction: Principal Component Analysis (Part II) | [slides: <a href="./slides/Dimensionality_Reduction_(Principal_Component_Analysis_Part_II).pdf" target="_blank">PDF</a>] |
 | Lecture 18  | 12/05/2024 | Recommender Systems [Part I & II] | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF(I)</a>, <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF(II)</a>]|
 | Lecture 19  | 12/11/2024 | Recommender Systems (Matrix Factorization) [Part III] | [slides: <a href="./slides/Recommender_Systems_(Part_III).pdf" target="_blank">PDF(III)</a>]|
 | Lectures 20-21  | 12/18/2024-12/19/2024 | PageRank | [slides: <a href="./slides/PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
