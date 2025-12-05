@@ -28,6 +28,8 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
 -->
+- **First Exam Session: January 21, 2026**<br>
+All students wishing to take part in this session **must** register on Infostud (**1027099**). **Registration is open until January 18, 2026**. Further details will be communicated closer to the exam date.
 - **OPIS SURVEY:** Students who have not yet completed the OPIS evaluation survey are strongly encouraged to do so using the following code: **XD4D7LD3**. Please note that the official guidelines for completing the questionnaire are available online at this [link](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2024_2025_0.pdf
 ).
 - **IMPORTANT ANNOUNCEMENT:** Classes are **suspended from Thursday, October 30 to Wednesday, November 5, inclusive**.
