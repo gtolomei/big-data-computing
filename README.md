@@ -157,11 +157,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 15  | 27/11/2025 | Recommender Systems (Part I) | [slides: <a href="./slides/Recommender_Systems_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 16  | 03/12/2025 | Recommender Systems (Part II) | [slides: <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 17  | 04/12/2025 | Recommender Systems (Part III) | [slides: <a href="./slides/Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>]|
+| Lecture 18  | 10/12/2025 | Graph Link Analysis | [slides: <a href="./slides/Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 <!--
 | Lectures 20-21  | 12/18/2024-12/19/2024 | PageRank | [slides: <a href="./slides/PageRank.pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
-| Lecture 20  | 05/16/2023 | Recommender Systems (Part II) | [slides: <a href="./slides/20_Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
-| Lecture 21  | 05/22/2023 | Recommender Systems (Part III) | [slides: <a href="./slides/21_Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>], notebook: <a href="./notebooks/MF_Recommender_Systems.ipynb" target="_blank">ipynb</a>]|
-| Lecture 22  | 05/23/2023 | Graph Link Analysis | [slides: <a href="./slides/22_Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
 | ----------  | 05/25/2022 | The Last Take Home Message | [slides: <a href="./slides/The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
 -->
 <hr>
