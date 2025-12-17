@@ -159,11 +159,9 @@ No textbooks are mandatory to successfully follow this course. However, there is
 | Lecture 16  | 03/12/2025 | Recommender Systems (Part II) | [slides: <a href="./slides/Recommender_Systems_(Part_II).pdf" target="_blank">PDF</a>]|
 | Lecture 17  | 04/12/2025 | Recommender Systems (Part III) | [slides: <a href="./slides/Recommender_Systems_(Part_III).pdf" target="_blank">PDF</a>]|
 | Lecture 18  | 10/12/2025 | Graph Link Analysis | [slides: <a href="./slides/Graph_Link_Analysis.pdf" target="_blank">PDF</a>]|
-| Lectures 19  | 11/12/2025 | PageRank (Part I) | [slides: <a href="./slides/PageRank_(Part_I).pdf" target="_blank">PDF</a>]|
-| Lectures 20  | 17/12/2025 | PageRank (Part II) | [slides: <a href="./slides/PageRank_(Part_II).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
-<!--
-| ----------  | 05/25/2022 | The Last Take Home Message | [slides: <a href="./slides/The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
--->
+| Lecture 19  | 11/12/2025 | PageRank (Part I) | [slides: <a href="./slides/PageRank_(Part_I).pdf" target="_blank">PDF</a>]|
+| Lecture 20  | 17/12/2025 | PageRank (Part II) | [slides: <a href="./slides/PageRank_(Part_II).pdf" target="_blank">PDF</a>, notes: <a href="./extra/Notes_on_PageRank.pdf" target="_blank">PDF</a>]|
+| Lecture 21  | 18/12/2025 | The Last Take Home Message | [slides: <a href="./slides/The_Last_Take_Home_Message.pdf" target="_blank">PDF</a>]|
 <hr>
 
 ## Previous Years
