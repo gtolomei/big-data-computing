@@ -28,7 +28,7 @@ Thank you for your cooperation. Best regards and Happy New Year! 🥳
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 25 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12k-mOBkSO0JbI7y025RkTGqjiN6MMLHq/view).
 -->
-- **Extraordinary Exam Session: March 25, 2026**<br>
+- **First Extraordinary Exam Session: March 25, 2026**<br>
 All **students eligible** to take part in this extraordinary session who have **successfully filled out the appropriate request form** must register on Infostud (**1040683**). **Registration is open until March 23, 2026**. Further details will be communicated closer to the exam date.
 - Dear all,
 Big Data Computing exam will take place in my office (Viale Regina Elena, Building E, Room 306) on February 10th starting from 14.30.
